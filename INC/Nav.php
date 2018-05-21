@@ -17,6 +17,7 @@
         <li><a href="Analysis.php"><i class="fas fa-chart-bar fa-lg"></i> Analysis</a></li>
         <li><a href="https://blessedregina.org/blog" target="_blank"><i class="fab fa-wordpress fa-lg"></i> Blog</a></li>
         <li><a href="https://www.youtube.com/channel/UCl5A_yGd1evgxbYQ9LpDynw" target="_blank"><i class="fab fa-youtube fa-lg"></i> YouTube</a></li>
+        <li><a href="https://github.com/regina-hong/BlessedRegina" target="_blank"><i class="fab fa-github"></i> GitHub</a></li>
         <li><a href="AboutMe.php"><i class="fas fa-female fa-lg"></i> About Me</a></li>
       </ul>
     </div>
