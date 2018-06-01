@@ -29,7 +29,6 @@ Updated on : May 31, 2018
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
 include 'INC/ConvertNumberToHebrewLetters.php';
-include 'YouTube/genesis1.php';
 require_once 'INC/Database.php';
 
 //Get 3 parameters from URL. Genesis Chapter 1 is the default
@@ -95,7 +94,6 @@ while($row = mysqli_fetch_assoc($result)) {
 for ($i=0; $i < Count($books_file_name); $i++) { 
 	if ($books_file_name[$i] == $book) {
 		$book_options .= "<option value='".$books_file_name[$i]."' selected>".$books_name[$i]."</option>";
-		$mybook = $books_name[$i];
 	}
 	else {
 		$book_options .= "<option value='".$books_file_name[$i]."'>".$books_name[$i]."</option>";
@@ -135,16 +133,6 @@ for ($m=0; $m < $total_verses; $m++) {
 		$xpath_he = new DOMXPath($xml_he);
 		$words = $xpath_he->query("//div/chapter/verse[@osisID='".$book.".".$chapter.".".$print_v."']/w");
 
-		//youtube video link
-		$vsearch = $mybook.' '.$chapter.':'.($m+1).' in Ancient Hebrew';
-		$vkey = array_search($vsearch, $vtitle);
-
-		if (!$vkey===false) {
-			$bible_content .='<object type="application/x-shockwave-flash" width="30" height="25" data="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark"><param name="movie" value="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark" /><param name="wmode" value="transparent" /></object>';
-		}
-
-
-		//verse number
 		//$words = $xml_book->div->chapter->verse[1]->w;
 		$bible_content .= '<sup>'.ConvertNtoHL($m+1).'.</sup> ';
 
@@ -181,14 +169,8 @@ for ($m=0; $m < $total_verses; $m++) {
 
 		//English KJV translation
 		$xpath_en = new DOMXPath($xml_en);
-		//$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".$print_v."']");
-		if (($book =='Gen' && $chapter == '32') || ($book =='Num' && $chapter == '30') || ($book =='Deut' && $chapter == '13') || ($book =='Deut' && $chapter == '23')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v-1)."']");
-		} elseif (($book =='Exod' && $chapter == '22')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v+1)."']");
-		} else {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".$print_v."']");
-		}
+		$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".$print_v."']");
+
 		//Loop through each word of the Verse
 		foreach ($words as $entry) {
 			$nodes = $entry->childNodes;		
@@ -208,16 +190,6 @@ if ($verse <> '') {
 
 		$xpath_he = new DOMXPath($xml_he);
 		$words = $xpath_he->query("//div/chapter/verse[@osisID='".$book.".".$chapter.".".$verse."']/w");
-
-
-		//youtube video link
-		$vsearch = $mybook.' '.$chapter.':'.$verse.' in Ancient Hebrew';
-		$vkey = array_search($vsearch, $vtitle);
-
-		if (!$vkey===false) {
-			$bible_content .='<object type="application/x-shockwave-flash" width="30" height="25" data="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark"><param name="movie" value="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark" /><param name="wmode" value="transparent" /></object>';
-		}
-
 
 		//$words = $xml_book->div->chapter->verse[1]->w;
 		$bible_content .= '<sup>'.ConvertNtoHL($verse).'.</sup> ';
@@ -253,6 +225,7 @@ if ($verse <> '') {
 
 		//English KJV translation
 		$xpath_en = new DOMXPath($xml_en);
+
 		if (($book =='Gen' && $chapter == '32') || ($book =='Num' && $chapter == '30') || ($book =='Deut' && $chapter == '13') || ($book =='Deut' && $chapter == '23')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse-1)."']");
 		} elseif (($book =='Exod' && $chapter == '22')) {
@@ -260,6 +233,8 @@ if ($verse <> '') {
 		} else {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".$verse."']");
 		}
+
+
 		//Loop through each word of the Verse
 		foreach ($words as $entry) {
 			$nodes = $entry->childNodes;		
@@ -362,41 +337,30 @@ function DeterminePrefixSufix ($word, $pos, $strong) {
 	<?php require 'INC/Header.php'; ?>
 	<link rel="stylesheet" type="text/css" href="CSS/1-2/TheBible.css"> <!-- my css -->
 	<link rel="stylesheet" type="text/css" href="CSS/1-2/TheBibleColorCoded.css">
-	<script src="JS/1-2/TheBibleColorCoded.js"></script> <!-- my jQuery -->
-	<script>
-		function StudyResources() {
-		    window.open("StudyResources.php?book=<?php echo $book; ?>&chapter=<?php echo $chapter; ?>");
-		}
-		function NonColorCoded() {
-		    window.open("TheBible.php?book=<?php echo $book; ?>&chapter=<?php echo $chapter; ?>&verse=<?php echo $verse; ?>");
-		}
-	</script>
+	<style>
+		.training {
+
+  font-size: 2vmax;
+
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+    
+}
+
+	</style>
 </head>
 <body>
 
-<?php require 'INC/Nav.php'; ?>
-
-<div class="container-fluid" id="index">
-	<!-- Book, Chapter, Verse selection form on the right menu-->
-	<form class="form-inline">
-        <div class="form-group">
-	        <label for="dynamic_select_book">&nbsp;Book&nbsp;</label>
-	        <select name="book" class="form-control" id="dynamic_select_book"><?php echo $book_options; ?></select>
-	        <label for="dynamic_select_chapter">&nbsp;Chapter&nbsp;</label>             
-	        <select name="chapter" class="form-control" id="dynamic_select_chapter"><?php echo $chapter_options; ?></select>
-	        <label for="dynamic_select_verse">&nbsp;Verse&nbsp;</label>
-	        <select name="verse" class="form-control" id="dynamic_select_verse"><?php echo $verse_options; ?></select>
-        </div>
-    </form> 
-</div>
-
 <div class="container-fluid" id="content">
-	<div id="bible-text">
-		<p id="bible-content"> <button onclick="NonColorCoded()" class="btn v">No Color Code</button> <button onclick="StudyResources()" class="btn btn-success">Study Resources</button> <button onclick="ShowHideEnglish('kjv')" class="btn btn-info">Show/Hide English</button><br><br><?php echo $bible_content; ?></p>
+	<div class="center" id="bible-text">
+		<p class="training"><?php echo $bible_content; ?></p>
 	</div>
 </div>
-
-<?php require 'INC/Footer.php'; ?>
 
 </body>
 </html>
