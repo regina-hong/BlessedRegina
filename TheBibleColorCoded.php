@@ -24,18 +24,19 @@ and uses HMTL, jQUERY, CSS and Bootstrap to present it in mobile-friendly web pa
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : May 31, 2018
+Updated on : June 2, 2018
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
 include 'INC/ConvertNumberToHebrewLetters.php';
-include 'YouTube/genesis1.php';
 require_once 'INC/Database.php';
 
 //Get 3 parameters from URL. Genesis Chapter 1 is the default
 $book = (isset($_GET['book'])) ? $_GET['book'] : 'Gen' ;
 $chapter = (isset($_GET['chapter'])) ? $_GET['chapter'] : '1' ;
 $verse = (isset($_GET['verse'])) ? $_GET['verse'] : '' ;
+
+include 'YouTube/getyoutube.php';
 
 $books = array();
 $chapters = array();

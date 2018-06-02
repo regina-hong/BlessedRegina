@@ -1,6 +1,15 @@
 <?php
 
-$url = 'YouTube/genesis1.json'; // path to your JSON file
+if ($book == 'Gen') {
+	$url = 'YouTube/genesis1.json';
+} elseif ($book == 'Exod') {
+	$url = 'YouTube/exodus1.json';
+} 
+else {
+	$url = 'YouTube/genesis1.json';
+}
+
+
 $data = file_get_contents($url); // put the contents of the file into a variable
 $jsonStuff = json_decode($data, true); // decode the JSON feed
 $vtitle = array();
@@ -12,7 +21,5 @@ foreach($jsonStuff['items'] as $val) {
 	$vid[] = $val['snippet']['resourceId']['videoId'];
 
 }
-
-//echo $vtitle[0].'-'.$vid[0];
 
 ?>

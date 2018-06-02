@@ -73701,6 +73701,1280 @@
         "videoId": "LsE4EhtKamo",
         "videoPublishedAt": "2018-05-31T22:14:25.000Z"
       }
+    },
+        {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/aZmsn2yN-s2fch2C_mKKz5d-Dbg\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:15:15.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:1 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9RVwF3Po__I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9RVwF3Po__I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9RVwF3Po__I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9RVwF3Po__I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9RVwF3Po__I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9RVwF3Po__I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9RVwF3Po__I",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/LWMYsz9KT3qPxCq-C-UNxgES9-M\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:15:25.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:2 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_wejKZbEw0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_wejKZbEw0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_wejKZbEw0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_wejKZbEw0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_wejKZbEw0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_wejKZbEw0U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_wejKZbEw0U",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/EUgepO7TCmeOaohPWFZqO9nc4qo\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:15:31.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:3 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xQoKno0zra8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xQoKno0zra8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xQoKno0zra8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xQoKno0zra8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xQoKno0zra8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xQoKno0zra8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xQoKno0zra8",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/vhLlQE02O_vMb7PdL0i8saVLfCg\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:15:35.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:4 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iuE04glDY2o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iuE04glDY2o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iuE04glDY2o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iuE04glDY2o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iuE04glDY2o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iuE04glDY2o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "iuE04glDY2o",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/it3zZKu-kX2sRnmGR6zRN1xDZqA\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:15:39.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:5 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ChyGvdP8Xqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ChyGvdP8Xqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ChyGvdP8Xqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ChyGvdP8Xqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ChyGvdP8Xqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ChyGvdP8Xqg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ChyGvdP8Xqg",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/nBJo2fXHqwmEKDl8lQl7WZHwlh0\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:15:42.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:6 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ViMe20zhQd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ViMe20zhQd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ViMe20zhQd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ViMe20zhQd0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ViMe20zhQd0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ViMe20zhQd0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ViMe20zhQd0",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/lj7Wo37ItneSLWDFRp8bqBhgv3I\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:15:46.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:7 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GfZT-JMIvM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GfZT-JMIvM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GfZT-JMIvM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GfZT-JMIvM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GfZT-JMIvM8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GfZT-JMIvM8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "GfZT-JMIvM8",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Bu70i0_7qwLMF_tzo0MU6EMkRws\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:15:50.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:8 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nKrbaLPHeAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nKrbaLPHeAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nKrbaLPHeAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nKrbaLPHeAQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nKrbaLPHeAQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nKrbaLPHeAQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nKrbaLPHeAQ",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Lf9OUxSK2PRSRUreTuqWxoH4xko\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:15:54.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:9 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_XEORR6wOv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_XEORR6wOv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_XEORR6wOv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_XEORR6wOv4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_XEORR6wOv4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_XEORR6wOv4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_XEORR6wOv4",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/krcfNrMubT4XQF6Vwt8jH8GEJY8\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:15:58.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:10 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WXYKHvHSmM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WXYKHvHSmM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WXYKHvHSmM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WXYKHvHSmM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WXYKHvHSmM0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WXYKHvHSmM0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WXYKHvHSmM0",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/MEYtV6EkPPI2eScQ4ckZPFOsJWU\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:16:03.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:11 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RE_xZTlOBN0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RE_xZTlOBN0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RE_xZTlOBN0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RE_xZTlOBN0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RE_xZTlOBN0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RE_xZTlOBN0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "RE_xZTlOBN0",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Udm2qvTKnWJ5uPZ9dIQz39ag6XM\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:16:07.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:12 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xL28g8EMDXo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xL28g8EMDXo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xL28g8EMDXo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xL28g8EMDXo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xL28g8EMDXo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xL28g8EMDXo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xL28g8EMDXo",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/dkLrzEez8fZ098FNZ8N40Y_Jj_Y\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:16:11.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:13 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XIbROQYiIQ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XIbROQYiIQ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XIbROQYiIQ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XIbROQYiIQ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XIbROQYiIQ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XIbROQYiIQ8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XIbROQYiIQ8",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Oaae2ZL3gyA8ofrYLFJkYAMCvVg\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:16:15.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:14 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4hVXdCHAdS8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4hVXdCHAdS8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4hVXdCHAdS8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4hVXdCHAdS8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4hVXdCHAdS8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4hVXdCHAdS8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4hVXdCHAdS8",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/cnPeMKLlTNy7ka3k6jBHJykYs3c\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:16:19.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:15 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ytyPvlTI0-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ytyPvlTI0-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ytyPvlTI0-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ytyPvlTI0-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ytyPvlTI0-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ytyPvlTI0-Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ytyPvlTI0-Q",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/u1I8PwgLOPorCiJawGXHkB6ydGU\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:16:23.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:16 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GbCm6AmSIa8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GbCm6AmSIa8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GbCm6AmSIa8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GbCm6AmSIa8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GbCm6AmSIa8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GbCm6AmSIa8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "GbCm6AmSIa8",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/WSEBCwr_vnN1OUzvagFX7Bw1oQI\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:16:27.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:17 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wYruq7S1-UE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wYruq7S1-UE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wYruq7S1-UE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wYruq7S1-UE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wYruq7S1-UE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wYruq7S1-UE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wYruq7S1-UE",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ipMTdC0Eim9fOAECYVhzVtiJq08\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:16:32.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:18 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yfm824ZLSRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yfm824ZLSRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yfm824ZLSRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yfm824ZLSRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yfm824ZLSRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yfm824ZLSRo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yfm824ZLSRo",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/jzALiTGn79yoNeG-1Tgfa6isM58\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:16:36.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:19 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hey-n1Pah-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hey-n1Pah-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hey-n1Pah-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hey-n1Pah-I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hey-n1Pah-I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hey-n1Pah-I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Hey-n1Pah-I",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/vDFAhhM92mjZUPf5GX0jtifvvF0\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:16:40.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:20 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4iOm5QutgvU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4iOm5QutgvU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4iOm5QutgvU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4iOm5QutgvU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4iOm5QutgvU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4iOm5QutgvU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4iOm5QutgvU",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/0784nMyKEy2beohbhuUUdra8Nfo\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:16:44.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:21 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mPGO2Y2MZa0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mPGO2Y2MZa0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mPGO2Y2MZa0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mPGO2Y2MZa0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mPGO2Y2MZa0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mPGO2Y2MZa0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mPGO2Y2MZa0",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/8XrdzHPjSbzu6Fkrom0UVwbvECA\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:16:47.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:22 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M0IXVcZ6yiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M0IXVcZ6yiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M0IXVcZ6yiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M0IXVcZ6yiw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M0IXVcZ6yiw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M0IXVcZ6yiw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "M0IXVcZ6yiw",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/38S0Sk8Ol0oMjYS_CvBMO6FhAiA\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:16:51.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:23 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mXsGXFvY_QM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mXsGXFvY_QM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mXsGXFvY_QM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mXsGXFvY_QM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mXsGXFvY_QM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mXsGXFvY_QM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mXsGXFvY_QM",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/HRX0KMSKxtpwO0ue4D14jeKAeg8\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:17:04.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:24 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ok14VJKYGcA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ok14VJKYGcA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ok14VJKYGcA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ok14VJKYGcA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ok14VJKYGcA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ok14VJKYGcA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Ok14VJKYGcA",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Be6jlKzoi7f2ISRu_YtsLyjTKBw\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:17:08.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:25 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u-dmz9Ncn6s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u-dmz9Ncn6s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u-dmz9Ncn6s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u-dmz9Ncn6s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u-dmz9Ncn6s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u-dmz9Ncn6s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "u-dmz9Ncn6s",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/CBMAflmI-5C_RylhGh1xMTMYzgo\"",
+      "id": "UEx6aTQ5Slh1YkR5Slk1dzFNX2VKbURydUJTc05UMFBIcS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2018-06-01T10:17:12.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Genesis 50:26 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xhBdkAzXxwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xhBdkAzXxwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xhBdkAzXxwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xhBdkAzXxwE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xhBdkAzXxwE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyJY5w1M_eJmDruBSsNT0PHq",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xhBdkAzXxwE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xhBdkAzXxwE",
+        "videoPublishedAt": "2018-06-01T10:10:59.000Z"
+      }
     }
   ]
 }

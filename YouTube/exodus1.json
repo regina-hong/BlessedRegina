@@ -1,0 +1,2303 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/PR24tuyMLyWi40GE0czwI5fy8Aw\"",
+  "pageInfo": {
+    "totalResults": 22,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/vD6AWpHHl3f40Z032iodT_Rlzzc\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:11:17.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:1 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q_Jj5FfSs1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q_Jj5FfSs1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q_Jj5FfSs1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q_Jj5FfSs1c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q_Jj5FfSs1c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q_Jj5FfSs1c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Q_Jj5FfSs1c",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/3DJJqAxaAYiBgYODARDdwAvKipk\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:11:23.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:2 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LgaUQ1PY8i8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LgaUQ1PY8i8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LgaUQ1PY8i8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LgaUQ1PY8i8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LgaUQ1PY8i8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LgaUQ1PY8i8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LgaUQ1PY8i8",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/GoOaHmYEFcakYhap5BFDVZWguiY\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:11:29.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:3 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W0XMEezADOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W0XMEezADOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W0XMEezADOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W0XMEezADOM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W0XMEezADOM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W0XMEezADOM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "W0XMEezADOM",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/VQRfSgi9N3cSiICugUQeS1ZYrnE\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:11:34.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:4 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N1uL8wfw18o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N1uL8wfw18o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N1uL8wfw18o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N1uL8wfw18o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N1uL8wfw18o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N1uL8wfw18o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "N1uL8wfw18o",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/rrh_dH-w80OgFjOO6_M1mvau6sk\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:11:38.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:5 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8fBHB6Lt_ak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8fBHB6Lt_ak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8fBHB6Lt_ak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8fBHB6Lt_ak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8fBHB6Lt_ak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8fBHB6Lt_ak"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8fBHB6Lt_ak",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/VmFg9Jem7N5-QTmT0jkHrawJmXA\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:11:47.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:6 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PCsMiHjKyi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PCsMiHjKyi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PCsMiHjKyi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PCsMiHjKyi0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PCsMiHjKyi0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PCsMiHjKyi0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "PCsMiHjKyi0",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/rIVnDbTDyMlmqLFLq5PLVCN0PSg\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:11:54.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:7 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WfbdSo6-Jg0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WfbdSo6-Jg0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WfbdSo6-Jg0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WfbdSo6-Jg0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WfbdSo6-Jg0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WfbdSo6-Jg0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WfbdSo6-Jg0",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/rtqaSpZvQrCPpi1qLR7c_G2XOpo\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:12:05.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:8 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3PNuU4gfEEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3PNuU4gfEEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3PNuU4gfEEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3PNuU4gfEEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3PNuU4gfEEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3PNuU4gfEEY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3PNuU4gfEEY",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/NKvpoIimK9iTAC1tvDV3yxrhy6Q\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:12:14.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:9 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gLj9MZM0CTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gLj9MZM0CTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gLj9MZM0CTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gLj9MZM0CTo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gLj9MZM0CTo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gLj9MZM0CTo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "gLj9MZM0CTo",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/6nkOZ8isT8l5ZxXx3IsnY0zVVXo\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:12:21.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:10 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uliG_r9U3Ao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uliG_r9U3Ao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uliG_r9U3Ao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uliG_r9U3Ao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uliG_r9U3Ao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uliG_r9U3Ao"
+        }
+      },
+      "contentDetails": {
+        "videoId": "uliG_r9U3Ao",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/avtkyf5cEe03KrqSPeGAGnv-75A\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:12:36.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:11 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MHQAHirDI5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MHQAHirDI5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MHQAHirDI5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MHQAHirDI5s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MHQAHirDI5s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MHQAHirDI5s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "MHQAHirDI5s",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/wYU755OY3bsdHE_h9BqFqYVB6Bw\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:13:06.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:12 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lnyapEvLhCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lnyapEvLhCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lnyapEvLhCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lnyapEvLhCY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lnyapEvLhCY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lnyapEvLhCY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lnyapEvLhCY",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/xbTeIShrdzVW8vNGvfsTHWZsMyI\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:13:17.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:13 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PAPe6Sj1B0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PAPe6Sj1B0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PAPe6Sj1B0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PAPe6Sj1B0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PAPe6Sj1B0Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PAPe6Sj1B0Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "PAPe6Sj1B0Q",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/dFC_B411lhrblrVegrcRV3GC8kA\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:13:23.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:14 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JKFKKS0UKuY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JKFKKS0UKuY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JKFKKS0UKuY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JKFKKS0UKuY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JKFKKS0UKuY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JKFKKS0UKuY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JKFKKS0UKuY",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/xM_iOwzaVA34jCC94WLjzgzC7iY\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:13:38.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:15 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6YOnYRgOku8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6YOnYRgOku8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6YOnYRgOku8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6YOnYRgOku8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6YOnYRgOku8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6YOnYRgOku8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6YOnYRgOku8",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/vEq-7fKBLZgU9Xeg9NKlRlNR2Ao\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:16:31.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:16 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hr4yAuiPC5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hr4yAuiPC5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hr4yAuiPC5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hr4yAuiPC5o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hr4yAuiPC5o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hr4yAuiPC5o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Hr4yAuiPC5o",
+        "videoPublishedAt": "2018-06-02T00:16:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/9sbQP8bWu8v17oBuOy3SPjki0UM\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:16:40.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:17 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JBgMd8yq4jQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JBgMd8yq4jQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JBgMd8yq4jQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JBgMd8yq4jQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JBgMd8yq4jQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JBgMd8yq4jQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JBgMd8yq4jQ",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/SZXjbgP3i6byEof1jv9OSpX35yw\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:16:53.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:18 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nCtfxCSle7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nCtfxCSle7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nCtfxCSle7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nCtfxCSle7I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nCtfxCSle7I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nCtfxCSle7I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nCtfxCSle7I",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/AN-eDlPAcXtctrGV4WgGC6yI0Eo\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:17:07.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:19 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/abcUEldK8oU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/abcUEldK8oU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/abcUEldK8oU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/abcUEldK8oU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/abcUEldK8oU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "abcUEldK8oU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "abcUEldK8oU",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/JepJFI7TKwMtKwD3NvLG5izDHGc\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:17:21.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:20 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_zHVwzibJmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_zHVwzibJmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_zHVwzibJmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_zHVwzibJmg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_zHVwzibJmg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_zHVwzibJmg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_zHVwzibJmg",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/VYZZcg-ETjcsVL1gfxsESo8WUhY\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:17:30.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:21 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rIarIhivCeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rIarIhivCeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rIarIhivCeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rIarIhivCeg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rIarIhivCeg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rIarIhivCeg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rIarIhivCeg",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/6FalezioWzE-4fszeR2J8BRWRao\"",
+      "id": "UEx6aTQ5Slh1YkR5SWhIZVRVWk5JdDU0Y09nY0pfRWlTay4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2018-06-02T00:17:36.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 1:22 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kYmP8QjOgSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kYmP8QjOgSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kYmP8QjOgSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kYmP8QjOgSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kYmP8QjOgSU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIhHeTUZNIt54cOgcJ_EiSk",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kYmP8QjOgSU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kYmP8QjOgSU",
+        "videoPublishedAt": "2018-06-02T00:06:32.000Z"
+      }
+    },
+        {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/w9G8rmI39yYmPVFDv2MyLX__1jQ\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:54:42.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:1 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VVFxfQBnA-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VVFxfQBnA-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VVFxfQBnA-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VVFxfQBnA-E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VVFxfQBnA-E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VVFxfQBnA-E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VVFxfQBnA-E",
+        "videoPublishedAt": "2018-06-02T11:50:05.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/oaSbrvK1yreqkCmjMCb-c7qWSP4\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:54:48.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:2 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QfEWNdb1g4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QfEWNdb1g4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QfEWNdb1g4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QfEWNdb1g4o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QfEWNdb1g4o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QfEWNdb1g4o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "QfEWNdb1g4o",
+        "videoPublishedAt": "2018-06-02T11:50:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/eZb82vHPRVe6TvULEu-D6MzAV2c\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:54:57.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:3 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eVftIcdXqOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eVftIcdXqOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eVftIcdXqOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eVftIcdXqOw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eVftIcdXqOw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eVftIcdXqOw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "eVftIcdXqOw",
+        "videoPublishedAt": "2018-06-02T11:50:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/pD_l1NOsrl6kI3jTrTO8ev6WCg4\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:55:15.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:4 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bHZxwki5CjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bHZxwki5CjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bHZxwki5CjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bHZxwki5CjU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bHZxwki5CjU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bHZxwki5CjU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bHZxwki5CjU",
+        "videoPublishedAt": "2018-06-02T11:49:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/YtcmtCPSed8fOOttzn4MTQViV9g\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:55:23.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:5 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MFKdxkaYkQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MFKdxkaYkQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MFKdxkaYkQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MFKdxkaYkQw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MFKdxkaYkQw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MFKdxkaYkQw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "MFKdxkaYkQw",
+        "videoPublishedAt": "2018-06-02T11:49:58.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/NXMjLT5vSW7jVukvZIFhGWNPQf8\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:55:41.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:6 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P485_Vwz4FE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P485_Vwz4FE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P485_Vwz4FE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P485_Vwz4FE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P485_Vwz4FE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P485_Vwz4FE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "P485_Vwz4FE",
+        "videoPublishedAt": "2018-06-02T11:49:57.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/aArMipZCofbC5d7PwMmIo0pH2uU\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:55:56.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:7 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/acWpPa5IT6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/acWpPa5IT6Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/acWpPa5IT6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/acWpPa5IT6Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/acWpPa5IT6Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "acWpPa5IT6Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "acWpPa5IT6Q",
+        "videoPublishedAt": "2018-06-02T11:49:56.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Pw6iq7bS3hupmjGMj0OF4fAia4k\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:56:09.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:8 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lGZsj9j5lQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lGZsj9j5lQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lGZsj9j5lQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lGZsj9j5lQc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lGZsj9j5lQc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lGZsj9j5lQc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lGZsj9j5lQc",
+        "videoPublishedAt": "2018-06-02T11:49:54.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/H08n3mD56yZoBMcvWonnTRh0cDU\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:56:18.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:9 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eqqtqYaQx4M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eqqtqYaQx4M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eqqtqYaQx4M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eqqtqYaQx4M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eqqtqYaQx4M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eqqtqYaQx4M"
+        }
+      },
+      "contentDetails": {
+        "videoId": "eqqtqYaQx4M",
+        "videoPublishedAt": "2018-06-02T11:49:53.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/b1ZKjCXuQKCCqXUyoQ9fiXrqN4M\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2018-06-02T12:08:59.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:10 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RJ1BDuTFWJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RJ1BDuTFWJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RJ1BDuTFWJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RJ1BDuTFWJM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "RJ1BDuTFWJM",
+        "videoPublishedAt": "2018-06-02T12:08:48.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/PEdG0GbVgtWJaCjbD7BxSm3vkks\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:56:48.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:11 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yUGrg7FrVnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yUGrg7FrVnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yUGrg7FrVnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yUGrg7FrVnE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yUGrg7FrVnE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yUGrg7FrVnE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yUGrg7FrVnE",
+        "videoPublishedAt": "2018-06-02T11:48:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/dWqS4ir2DwyFTfr_rMoV7rwe3QE\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:57:01.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:12 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/52nXV3mTq4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/52nXV3mTq4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/52nXV3mTq4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/52nXV3mTq4A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/52nXV3mTq4A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "52nXV3mTq4A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "52nXV3mTq4A",
+        "videoPublishedAt": "2018-06-02T11:48:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/QZYoYlvCQ425_VRFQ2XMgEnuVsw\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:57:11.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:13 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YqbStWKYGVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YqbStWKYGVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YqbStWKYGVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YqbStWKYGVE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YqbStWKYGVE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YqbStWKYGVE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YqbStWKYGVE",
+        "videoPublishedAt": "2018-06-02T11:48:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/kCTF_x4rF5lN2YHHOV3FXreqRX4\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:57:23.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:14 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BU9TLMjRRmQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BU9TLMjRRmQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BU9TLMjRRmQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BU9TLMjRRmQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BU9TLMjRRmQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BU9TLMjRRmQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BU9TLMjRRmQ",
+        "videoPublishedAt": "2018-06-02T11:48:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/kETl7WonrhIMRUQJy-qeE2yXv1Q\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:57:38.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:15 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qWsVdPusR6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qWsVdPusR6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qWsVdPusR6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qWsVdPusR6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qWsVdPusR6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qWsVdPusR6k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qWsVdPusR6k",
+        "videoPublishedAt": "2018-06-02T11:48:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/mO3cjr53J6bNVhvl0yDY_Oj3bDk\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:57:52.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:16 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v2epZr_NHdo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v2epZr_NHdo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v2epZr_NHdo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v2epZr_NHdo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v2epZr_NHdo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v2epZr_NHdo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "v2epZr_NHdo",
+        "videoPublishedAt": "2018-06-02T11:48:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/PJGUUZ6fX97t0_o7bAfkITk0hIw\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:58:06.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:17 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wDVXT6dh-O0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wDVXT6dh-O0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wDVXT6dh-O0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wDVXT6dh-O0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wDVXT6dh-O0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wDVXT6dh-O0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wDVXT6dh-O0",
+        "videoPublishedAt": "2018-06-02T11:48:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/YVB9M98XpgZIJnRkRAqdAI9o_ms\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:58:16.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:18 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UKPgs_8PXV8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UKPgs_8PXV8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UKPgs_8PXV8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UKPgs_8PXV8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UKPgs_8PXV8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UKPgs_8PXV8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UKPgs_8PXV8",
+        "videoPublishedAt": "2018-06-02T11:48:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/fQt3eRQQeWUVv8JQLkPzAbHjNdc\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:58:24.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:19 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hjccgva2MyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hjccgva2MyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hjccgva2MyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hjccgva2MyE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hjccgva2MyE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hjccgva2MyE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Hjccgva2MyE",
+        "videoPublishedAt": "2018-06-02T11:48:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Ul0Dko9HqmpYpB9Y1-pQIJFIpmg\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:58:35.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:20 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/icyues7IIi8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/icyues7IIi8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/icyues7IIi8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/icyues7IIi8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/icyues7IIi8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "icyues7IIi8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "icyues7IIi8",
+        "videoPublishedAt": "2018-06-02T11:48:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/pxYnRBiQatUFis-rCWG6Jo-Ztrs\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:58:45.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:21 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JNXwiOWAUww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JNXwiOWAUww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JNXwiOWAUww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JNXwiOWAUww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JNXwiOWAUww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JNXwiOWAUww"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JNXwiOWAUww",
+        "videoPublishedAt": "2018-06-02T11:48:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/_b0Buz8yBRciacENzxowNE7NXc4\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:58:53.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:22 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8msffoLNKM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8msffoLNKM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8msffoLNKM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8msffoLNKM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8msffoLNKM8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8msffoLNKM8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8msffoLNKM8",
+        "videoPublishedAt": "2018-06-02T11:50:15.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/lIen9riIlLRtiFRgctUQr-8ONus\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:59:04.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:23 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XpLnJw8zkdw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XpLnJw8zkdw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XpLnJw8zkdw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XpLnJw8zkdw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XpLnJw8zkdw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XpLnJw8zkdw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XpLnJw8zkdw",
+        "videoPublishedAt": "2018-06-02T11:50:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/oQNMyAIQOS--vgvK_bI3lAEVizo\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:59:21.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:24 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZEYGmsSA08I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZEYGmsSA08I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZEYGmsSA08I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZEYGmsSA08I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZEYGmsSA08I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZEYGmsSA08I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ZEYGmsSA08I",
+        "videoPublishedAt": "2018-06-02T11:50:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/6pHGTWFG3Na63oHNrHcSQJGb0iU\"",
+      "id": "UEx6aTQ5Slh1YkR5SUQza2tRVTJqeEQ0TVc5M3R4Zk1XRy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2018-06-02T11:59:32.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Exodus 2:25 in Ancient Hebrew",
+        "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2kJlab0ysck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2kJlab0ysck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2kJlab0ysck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2kJlab0ysck/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2kJlab0ysck/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyID3kkQU2jxD4MW93txfMWG",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2kJlab0ysck"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2kJlab0ysck",
+        "videoPublishedAt": "2018-06-02T11:50:07.000Z"
+      }
+    }
+  ]
+}
