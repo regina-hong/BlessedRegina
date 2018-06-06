@@ -45331,38 +45331,38 @@
         "videoPublishedAt": "2018-05-21T11:13:19.000Z"
       }
     },
-        {
+{
       "kind": "youtube#playlistItem",
-      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/7-eOtPUSrP0MT-X54ejr5ksUDtg\"",
-      "id": "UEx6aTQ5Slh1YkR5SXA3Zm1KekJ1aFBUN2x1UUNrTTk2Xy41NkI0NEY2RDEwNTU3Q0M2",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ypoydHvQipn_e5xDEq__XCTiRzU\"",
+      "id": "UEx6aTQ5Slh1YkR5SXA3Zm1KekJ1aFBUN2x1UUNrTTk2Xy5CMEQ2Mjk5NTc3NDZFRUNB",
       "snippet": {
-        "publishedAt": "2018-05-21T12:20:32.000Z",
+        "publishedAt": "2018-06-05T23:35:50.000Z",
         "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
         "title": "Genesis 32:1 in Ancient Hebrew",
         "description": "Original MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nI used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purposes.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/dVHPqhO1Cis/default.jpg",
+            "url": "https://i.ytimg.com/vi/NjwH8rY-3Cc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/dVHPqhO1Cis/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NjwH8rY-3Cc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/dVHPqhO1Cis/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NjwH8rY-3Cc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/dVHPqhO1Cis/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/NjwH8rY-3Cc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/dVHPqhO1Cis/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NjwH8rY-3Cc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45372,12 +45372,12 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "dVHPqhO1Cis"
+          "videoId": "NjwH8rY-3Cc"
         }
       },
       "contentDetails": {
-        "videoId": "dVHPqhO1Cis",
-        "videoPublishedAt": "2018-05-21T12:07:25.000Z"
+        "videoId": "NjwH8rY-3Cc",
+        "videoPublishedAt": "2018-06-05T23:35:49.000Z"
       }
     },
     {
