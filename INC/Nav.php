@@ -13,6 +13,7 @@
         <li><a href="TheBible.php"><i class="fas fa-book fa-lg"></i> Hebrew Bible</a></li>
         <li><a href="TheBibleColorCoded.php"><i class="fas fa-book fa-lg"></i> Color Coded Bible</a></li>
         <li><a href="HebrewStrong.php"><i class="fas fa-book fa-lg"></i> Dictionary</a></li>
+        <li><a href="AncientBiblicalHebrewGrammarStudy.php"><i class="fas fa-pencil-alt"></i> Grammar Study</a></li>
         <li><a href="StudyResources.php"><i class="fas fa-paperclip fa-lg"></i> Study Resources</a></li>
         <li><a href="Analysis.php"><i class="fas fa-chart-bar fa-lg"></i> Analysis</a></li>
         <li><a href="https://blessedregina.org/blog" target="_blank"><i class="fab fa-wordpress fa-lg"></i> Blog</a></li>
