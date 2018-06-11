@@ -24,7 +24,7 @@ and uses HMTL, jQUERY, CSS and Bootstrap to present it in mobile-friendly web pa
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : June 10, 2018
+Updated on : June 11, 2018
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
@@ -177,7 +177,7 @@ for ($m=0; $m < $total_verses; $m++) {
 			else {
 				$bible_content_a[] = '<td><div class="vcword"><span class="'.$poscname.'"><a href="HebrewStrong.php?id='.$sid.'">'.$hword.'</a></span></div></td>';
 				$bible_content_b[] = '<td><span class="'.$poscname.'"><a href="HebrewStrong.php?id='.$sid.'">'.$sid.'</a><br>'.$possorig.'</span></td>';
-				$bible_content_c[] = '<td><span class="'.$poscname.'">'.$deffs.'</span></td>';
+				$bible_content_c[] = '<td>'.$deffs.'</td>';
 			}
 
 		}
@@ -329,7 +329,7 @@ if ($verse <> '') {
 			else {
 				$bible_content_a[] = '<td><div class="vcword"><span class="'.$poscname.'"><a href="HebrewStrong.php?id='.$sid.'">'.$hword.'</a></span></div></td>';
 				$bible_content_b[] = '<td><span class="'.$poscname.'"><a href="HebrewStrong.php?id='.$sid.'">'.$sid.'</a><br>'.$possorig.'</span></td>';
-				$bible_content_c[] = '<td><span class="'.$poscname.'">'.$deffs.'</span></td>';
+				$bible_content_c[] = '<td>'.$deffs.'</td>';
 			}
 
 		}
@@ -582,7 +582,11 @@ function DeterminePrefixSufix3 ($word, $pos, $strong, $deffs) {
 	//prefix and suffixes
 	$ppp = array('ב', 'בְ', 'בְֽ', 'בִ', 'בִֽ', 'בֵ', 'בֵֽ', 'בֶ', 'בֶֽ', 'בַ', 'בַֽ', 'בָ', 'בָֽ', 'בּ', 'בְּ', 'בְּֽ', 'בִּ', 'בִּֽ', 'בֵּ', 'בֵּֽ', 'בֶּ', 'בֶּֽ', 'בַּ', 'בַּֽ', 'בָּ', 'בָּֽ', 'בּֽ', 'בַּֽ', 'בָּֽ', 'בֽ', 'בָֽ', 'ה', 'הְֽ', 'הֲ', 'הֳ', 'הֶ', 'הֶֽ', 'הַ', 'הַֽ', 'הַׄ', 'הָ', 'הָֽ', 'הֶֽ', 'הַֽ', 'הָֽ', 'הְֽ', 'הֲ', 'הֲֽ', 'הֶ', 'הֶֽ', 'הַ', 'הַֽ', 'הֲֽ', 'הַֽ', 'הָֽ', 'הֲ‍ֽ', 'ו', 'וְ', 'וְֽ', 'וְׄ', 'וֲ', 'וִ', 'וִֽ', 'וֵ', 'וֵֽ', 'וֶ', 'וֶֽ', 'וַ', 'וַֽ', 'וַׄ', 'וָ', 'וָֽ', 'וּ', 'וִּ', 'וּֽ', 'וּׄ', 'וְֽ', 'וִֽ', 'וֵֽ', 'וֶֽ', 'וַֽ', 'וָֽ', 'כ', 'כְ', 'כִ', 'כֶ', 'כַ', 'כַֽ', 'כָ', 'כְּ', 'כְּֽ', 'כִּ', 'כִּֽ', 'כֵּ', 'כֵּֽ', 'כֶּ', 'כֶּֽ', 'כַּ', 'כַּֽ', 'כָּ', 'כָּֽ', 'כַּֽ', 'כָּֽ', 'ל', 'לְ', 'לְֽ', 'לְׄ', 'לֲ', 'לִ', 'לִֽ', 'לֵ', 'לֵֽ', 'לֶ', 'לֶֽ', 'לַ', 'לַֽ', 'לָ', 'לָֽ', 'לָׄ', 'לּ', 'לְּ', 'לִּ', 'לִּֽ', 'לֵּ', 'לֶּ', 'לַּ', 'לָּ', 'לָּֽ', 'לּֽ', 'לֽ', 'לְֽ', 'לִֽ', 'לֵֽ', 'לֶֽ', 'לַֽ', 'לָֽ', 'לִֽֿ', 'מ', 'מְ', 'מִ', 'מִֽ', 'מֵ', 'מֵֽ', 'מֶ', 'מֶֽ', 'מַ', 'מִּ', 'מֵּ', 'מֵֽ', 'ש', 'שְׁ', 'שֶׁ', 'שֶֽׁ', 'שַׁ', 'שָׁ', 'שֶּׁ', 'שֶּֽׁ');
 
+	$pppdef = array('in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'from', 'from', 'from', 'from', 'from', 'from', 'from', 'from', 'from', 'from', 'from', 'from', 'ש', 'שְׁ', 'שֶׁ', 'שֶֽׁ', 'שַׁ', 'שָׁ', 'שֶּׁ', 'שֶּֽׁ');
+
 	$sss = array('א', 'אָה', 'דִי', 'ה', 'הָ', 'הּ', 'הָּ', 'הֿ', 'הָא', 'הא', 'הֽוּ', 'הׄוּׄ', 'הו', 'הוּ', 'הוא', 'הוֹם', 'הֽוֹן', 'הוֹן', 'הון', 'הִי', 'הֵין', 'הֶֽם', 'הֶם', 'הַם', 'הֹֽם', 'הֹם', 'הֶּם', 'הֶֽם', 'הם', 'הֵמָה', 'הֵן', 'הֶֽן', 'הֶן', 'הְנָה', 'הֶֽנָה', 'ו', 'וֹ', 'וּ', 'וׄ', 'וּהִי', 'וּךְ', 'י', 'יַ', 'ידע', 'יָהּ', 'יהָ', 'יהֶם', 'יו', 'יונים', 'יךְ', 'ינה', 'ך', 'ךְ', 'ךָ', 'ךָֽ', 'ךָּ', 'כֵה', 'כָה', 'כָּה', 'כוֹן', 'כִי', 'כי', 'כֶֽם', 'כֶם', 'כֹם', 'כם', 'כֶֽן', 'כֶן', 'כֶֽנָה', 'כֶנָה', 'ם', 'מו', 'מוֹ', 'מוּ', 'ן', 'נ', 'נְ', 'נֶ', 'נַ', 'נָא', 'נא', 'נָה', 'נָּֽה', 'נָּה', 'נה', 'נְהֽוּ', 'נְהוּ', 'נּֽוּ', 'נּוּ', 'נׄוּׄ', 'נו', 'נוֹ', 'נוּ', 'נִֽי', 'נִי', 'נִּי', 'ני', 'נְךָּ', 'נְנִי');
+
+	$sssdef = array('א', 'her;it', 'דִי', 'her;it', 'her;it', 'her;it', 'her;it', 'her;it', 'her;it', 'her;it', 'הֽוּ', 'הׄוּׄ', 'הו', 'הוּ', 'הוא', 'הוֹם', 'הֽוֹן', 'הוֹן', 'הון', 'הִי', 'הֵין', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'הְנָה', 'הֶֽנָה', 'him or it;his or its', 'him or it;his or its', 'him or it;his or its', 'him or it;his or its', 'וּהִי', 'you;your', 'me;my', 'יַ', 'ידע', 'her;it', 'her;it', 'them, their', 'יו', 'יונים', 'you;your', 'ינה', 'you;your', 'you;your', 'you;your', 'you;your', 'you;your', 'כֵה', 'כָה', 'כָּה', 'כוֹן', 'כִי', 'כי', 'you;your', 'you;your', 'you;your', 'you;your', 'you;your', 'you;your', 'כֶֽנָה', 'כֶנָה', 'them;their', 'מו', 'מוֹ', 'מוּ', 'them;their', 'נ', 'נְ', 'me;my', 'נַ', 'נָא', 'נא', 'נָה', 'נָּֽה', 'נָּה', 'נה', 'נְהֽוּ', 'נְהוּ', 'us;our', 'us;our', 'us;our', 'us;our', 'נוֹ', 'us;our', 'me;my', 'me;my', 'me;my', 'me;my', 'you;your', 'נְנִי');
 
 
 	//if there's only 1 prefix or suffix, determine if it's prefix or suffix then print out the verse
@@ -592,10 +596,32 @@ function DeterminePrefixSufix3 ($word, $pos, $strong, $deffs) {
 		$sufsuf = substr(strrchr($word, '/'), 1);
 
 		if (in_array($prepre, $ppp)) {
-			$output_word = '<td><span class="'.$pos.'">'.$deffs.'</span></td><td><span class="pre">pre</span></td>';
+
+			//find prefix in definition array
+			$pdkey = array_search($prepre, $ppp);
+			$pdef = str_replace(" or ","<br>",$pppdef[$pdkey]);	
+
+			$output_word = '<td>'.$deffs.'</td><td>'.$pdef.'</td>';
+
+		} else {
+
+		//find suffix in definition array
+		$sdkey = array_search($sufsuf, $sss);
+
+		//if it's suffix after a verb, then it's objective
+		if ($pos == 'v') {
+			$sdef = strtok($sssdef[$sdkey], ';');		
+		//if it's suffix after a noun, then it's possesive	
+		} elseif (substr($pos, 0, 1) == 'n') {
+			$sdef = substr(strrchr($sssdef[$sdkey], ';'), 1);
+		//other things need to be studied further
+		} else {
+			$sdef = strtok($sssdef[$sdkey], ';');
 		}
-		else {
-			$output_word = '<td><span class="suf">suf</span></td><td><span class="'.$pos.'">'.$deffs.'</span></td>';
+
+		$sdef = str_replace(" or ","<br>",$sdef);
+		$output_word = '<td>'.$sdef.'</td><td>'.$deffs.'</td>';
+
 		}
 	}
 
@@ -608,7 +634,7 @@ function DeterminePrefixSufix3 ($word, $pos, $strong, $deffs) {
 			
 			$trimmed_word = substr($word, strpos($word, "/") + 1);
 			$sufsuf = DeterminePrefixSufix3($trimmed_word, $pos, $strong, $deffs);
-			$output_word = '<td>'.$sufsuf.'</td><td><span class="pre">pre</span></td>';
+			$output_word = '<td>'.$sufsuf.'</td><td>pre</td>';
 
 		}
 		else {
@@ -627,7 +653,7 @@ function DeterminePrefixSufix3 ($word, $pos, $strong, $deffs) {
 		$prepre = strtok($word, '/');
 		$trimmed_word = substr($word, strpos($word, "/") + 1);
 		$sufsuf = DeterminePrefixSufix3($trimmed_word, $pos, $strong, $deffs);
-		$output_word = '<td>'.$sufsuf.'</td><td><span class="pre">pre</span></td>';
+		$output_word = '<td>'.$sufsuf.'</td><td>pre</td>';
 
 	}
 
