@@ -24,7 +24,7 @@ and uses HMTL, jQUERY, CSS and Bootstrap to present it in mobile-friendly web pa
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : June 11, 2018
+Updated on : June 17, 2018
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
@@ -157,6 +157,7 @@ for ($m=0; $m < $total_verses; $m++) {
 			$possorig = $poss[$key];
 			$d = $defs[$key];
 			$deffs = str_replace(',', '<br />', $d);
+			$verb_addition = '';
 
 			if (strpos($poss[$key], ' ') > 0) {
 				$poscname = substr($poss[$key], 0, strpos($poss[$key], ' '));
@@ -175,11 +176,15 @@ for ($m=0; $m < $total_verses; $m++) {
 				$bible_content_c[] = DeterminePrefixSufix3($hword, $poscname, $sid, $deffs);
 			}
 			else {
+				//--------------------Verb---------------------------//	
+				if ($poscname == 'v') {
+					$verb_addition = '<br>test';
+				}
+
 				$bible_content_a[] = '<td><div class="vcword"><span class="'.$poscname.'"><a href="HebrewStrong.php?id='.$sid.'">'.$hword.'</a></span></div></td>';
-				$bible_content_b[] = '<td><span class="'.$poscname.'"><a href="HebrewStrong.php?id='.$sid.'">'.$sid.'</a><br>'.$possorig.'</span></td>';
+				$bible_content_b[] = '<td><a href="HebrewStrong.php?id='.$sid.'">'.$sid.'</a><br><span class="'.$poscname.'">'.$possorig.$verb_addition.'</span></td>';
 				$bible_content_c[] = '<td>'.$deffs.'</td>';
 			}
-
 		}
 
 		//youtube video link
@@ -207,33 +212,25 @@ for ($m=0; $m < $total_verses; $m++) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.12.32"."']");
 		} elseif (($book =='Deut' && $chapter == '23' && $print_v == '1')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.22.30"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $print_v == '26')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.1"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $print_v == '27')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.2"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $print_v == '28')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.3"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $print_v == '29')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.4"."']");
+		} elseif (($book =='Deut' && $chapter == '28' && $print_v == '69')) {
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.29.1"."']");
+		} elseif (($book =='Exod' && $chapter == '7' && (((int)$print_v > 25) && ((int)$print_v < 30)))) {
+			$temp_c = $print_v-25;	
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.".$temp_c."']");		
 		} elseif (($book =='Exod' && $chapter == '21' && $print_v == '37')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.22.1"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && $print_v == '20')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.1"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && $print_v == '21')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.2"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && $print_v == '22')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.3"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && $print_v == '23')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.4"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && $print_v == '24')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.5"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && $print_v == '25')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.6"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && $print_v == '26')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.7"."']");
+		} elseif (($book =='Lev' && $chapter == '5' && (((int)$print_v > 19) && ((int)$print_v < 27)))) {
+			$temp_d = $print_v-19;	
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.".$temp_d."']");
+		} elseif (($book =='Num' && $chapter == '17' && (((int)$print_v > 0) && ((int)$print_v < 16)))) {
+			$temp_a = $print_v+35;
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.16.".$temp_a."']");
+		} elseif (($book =='Num' && $chapter == '17' && (((int)$print_v > 15)))) {
+			$temp_b = $print_v-15;
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.17.".$temp_b."']");
 		} elseif (($book =='Gen' && $chapter == '32') || ($book =='Num' && $chapter == '30') || ($book =='Deut' && $chapter == '13') || ($book =='Deut' && $chapter == '23')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v-1)."']");
-		} elseif (($book =='Exod' && $chapter == '22')) {
+		} elseif (($book =='Exod' && $chapter == '22') || ($book =='Deut' && $chapter == '29')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v+1)."']");
 		} elseif (($book =='Lev' && $chapter == '6')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v+7)."']");
@@ -252,14 +249,14 @@ for ($m=0; $m < $total_verses; $m++) {
 					$vword = $node->nodeValue;
 			}
 
-			$bible_content .= '<span class="kjv" style="color:grey;">'.$node->nodeValue.($m+1).'</span><br>';
+			$bible_content .= '<br><span class="kjv">'.$node->nodeValue.($m+1).'</span><br>';
 
 		}
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		//Print grammar table for each verse
-		$bible_content .= '<table class="table table-bordered table-stripe"><tr>';
+		$bible_content .= '<table class="table table-bordered table-stripe table-grammar"><tr>';
 
 		foreach ( array_reverse($bible_content_a) as $a ) {
 			$bible_content .= $a;
@@ -309,6 +306,7 @@ if ($verse <> '') {
 			$possorig = $poss[$key];
 			$d = $defs[$key];
 			$deffs = str_replace(',', '<br />', $d);
+			$verb_addition = '';
 
 			if (strpos($poss[$key], ' ') > 0) {
 				$poscname = substr($poss[$key], 0, strpos($poss[$key], ' '));
@@ -327,11 +325,16 @@ if ($verse <> '') {
 				$bible_content_c[] = DeterminePrefixSufix3($hword, $poscname, $sid, $deffs);
 			}
 			else {
-				$bible_content_a[] = '<td><div class="vcword"><span class="'.$poscname.'"><a href="HebrewStrong.php?id='.$sid.'">'.$hword.'</a></span></div></td>';
-				$bible_content_b[] = '<td><span class="'.$poscname.'"><a href="HebrewStrong.php?id='.$sid.'">'.$sid.'</a><br>'.$possorig.'</span></td>';
-				$bible_content_c[] = '<td>'.$deffs.'</td>';
-			}
+				//--------------------Verb---------------------------//	
+				if ($poscname == 'v') {
+					$verb_addition = '<br>test';
+				}
 
+				$bible_content_a[] = '<td><div class="vcword"><span class="'.$poscname.'"><a href="HebrewStrong.php?id='.$sid.'">'.$hword.'</a></span></div></td>';
+				$bible_content_b[] = '<td><a href="HebrewStrong.php?id='.$sid.'">'.$sid.'</a><br><span class="'.$poscname.'">'.$possorig.$verb_addition.'</span></td>';
+				$bible_content_c[] = '<td>'.$deffs.'</td>';
+				
+			}
 		}
 
 		//youtube video link
@@ -357,33 +360,25 @@ if ($verse <> '') {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.12.32"."']");
 		} elseif (($book =='Deut' && $chapter == '23' && $verse == '1')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.22.30"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $verse == '26')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.1"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $verse == '27')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.2"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $verse == '28')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.3"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $verse == '29')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.4"."']");
+		} elseif (($book =='Deut' && $chapter == '28' && $verse == '69')) {
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.29.1"."']");
+		} elseif (($book =='Exod' && $chapter == '7' && (((int)$verse > 25) && ((int)$verse < 30)))) {
+			$temp_c = $verse-25;	
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.".$temp_c."']");	
 		} elseif (($book =='Exod' && $chapter == '21' && $verse == '37')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.22.1"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && $verse == '20')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.1"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && $verse == '21')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.2"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && $verse == '22')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.3"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && $verse == '23')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.4"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && $verse == '24')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.5"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && $verse == '25')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.6"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && $verse == '26')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.7"."']");
+		} elseif (($book =='Lev' && $chapter == '5' && (((int)$verse > 19) && ((int)$verse < 27)))) {
+			$temp_d = $verse-19;	
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.".$temp_d."']");
+		} elseif (($book =='Num' && $chapter == '17' && (((int)$verse > 0) && ((int)$verse < 16)))) {
+			$temp_a = $verse+35;
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.16.".$temp_a."']");
+		} elseif (($book =='Num' && $chapter == '17' && (((int)$verse > 15)))) {
+			$temp_b = $verse-15;
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.17.".$temp_b."']");
 		} elseif (($book =='Gen' && $chapter == '32') || ($book =='Num' && $chapter == '30') || ($book =='Deut' && $chapter == '13') || ($book =='Deut' && $chapter == '23')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse-1)."']");
-		} elseif (($book =='Exod' && $chapter == '22')) {
+		} elseif (($book =='Exod' && $chapter == '22') || ($book =='Deut' && $chapter == '29')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse+1)."']");
 		} elseif (($book =='Lev' && $chapter == '6')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse+7)."']");
@@ -402,14 +397,14 @@ if ($verse <> '') {
 					$vword = $node->nodeValue;
 			}
 
-			$bible_content .= '<span class="kjv" style="color:grey;">'.$node->nodeValue.($verse).'</span><br>';
+			$bible_content .= '<br><span class="kjv">'.$node->nodeValue.($verse).'</span><br>';
 
 		}
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		//Print grammar table for each verse
 
-		$bible_content .= '<table class="table table-bordered table-stripe"><tr>';
+		$bible_content .= '<table class="table table-bordered table-stripe table-grammar"><tr>';
 
 		foreach ( array_reverse($bible_content_a) as $a ) {
 			$bible_content .= $a;
@@ -529,12 +524,18 @@ function DeterminePrefixSufix2 ($word, $pos, $strong, $possorig) {
 
 		$prepre = strtok($word, '/');
 		$sufsuf = substr(strrchr($word, '/'), 1);
+		$verb_addition = '';
+
+		//--------------------Verb---------------------------//		
+		if ($pos == 'v') {
+			$verb_addition = '<br>test';
+		}
 
 		if (in_array($prepre, $ppp)) {
-			$output_word = '<td><span class="'.$pos.'"><a href="HebrewStrong.php?id='.$strong.'">'.$strong.'</a><br>'.$possorig.'</span></td><td><span class="pre">pre</span></td>';
+			$output_word = '<td><a href="HebrewStrong.php?id='.$strong.'">'.$strong.'</a><br><span class="'.$pos.'">'.$possorig.$verb_addition.'</span></td><td><span class="pre"><br>pre</span></td>';
 		}
 		else {
-			$output_word = '<td><span class="suf">suf</span></td><td><span class="'.$pos.'"><a href="HebrewStrong.php?id='.$strong.'">'.$strong.'</a><br>'.$possorig.'</span></td>';
+			$output_word = '<td><span class="suf"><br>suf</span></td><td><a href="HebrewStrong.php?id='.$strong.'">'.$strong.'</a><br><span class="'.$pos.'">'.$possorig.$verb_addition.'</span></td>';
 		}
 	}
 
@@ -547,7 +548,7 @@ function DeterminePrefixSufix2 ($word, $pos, $strong, $possorig) {
 			
 			$trimmed_word = substr($word, strpos($word, "/") + 1);
 			$sufsuf = DeterminePrefixSufix2($trimmed_word, $pos, $strong, $possorig);
-			$output_word = '<td>'.$sufsuf.'</td><td><span class="pre">pre</span></td>';
+			$output_word = '<td>'.$sufsuf.'</td><td><span class="pre"><br>pre</span></td>';
 
 		}
 		else {
@@ -566,7 +567,7 @@ function DeterminePrefixSufix2 ($word, $pos, $strong, $possorig) {
 		$prepre = strtok($word, '/');
 		$trimmed_word = substr($word, strpos($word, "/") + 1);
 		$sufsuf = DeterminePrefixSufix2($trimmed_word, $pos, $strong, $possorig);
-		$output_word = '<td>'.$sufsuf.'</td><td><span class="pre">pre</span></td>';
+		$output_word = '<td>'.$sufsuf.'</td><td><span class="pre"><br>pre</span></td>';
 
 	}
 
@@ -673,6 +674,14 @@ function DeterminePrefixSufix3 ($word, $pos, $strong, $deffs) {
 	<?php require 'INC/Header.php'; ?>
 	<link rel="stylesheet" type="text/css" href="CSS/1-2/TheBible.css"> <!-- my css -->
 	<link rel="stylesheet" type="text/css" href="CSS/1-2/TheBibleColorCoded.css">
+	<style type="text/css">
+		#content {
+			font-size: 14px;
+		}
+		#kjv {
+			font-size: 16px;
+		}
+	</style>
 	<script src="JS/1-2/AncientBiblicalHebrewGrammarStudy.js"></script> <!-- my jQuery -->
 	<script>
 		function StudyResources() {
@@ -703,7 +712,7 @@ function DeterminePrefixSufix3 ($word, $pos, $strong, $deffs) {
 
 <div class="container-fluid" id="content">
 	<div id="bible-text">
-		<p id="bible-content"><?php echo $bible_content; ?></p>
+		<?php echo $bible_content; ?>
 	</div>
 </div>
 

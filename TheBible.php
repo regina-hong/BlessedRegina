@@ -24,7 +24,7 @@ and uses HMTL, jQUERY, CSS and Bootstrap to present it in mobile-friendly web pa
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : June 5, 2018
+Updated on : June 17, 2018
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
@@ -161,17 +161,25 @@ for ($m=0; $m < $total_verses; $m++) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.12.32"."']");
 		} elseif (($book =='Deut' && $chapter == '23' && $print_v == '1')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.22.30"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $print_v == '26')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.1"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $print_v == '27')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.2"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $print_v == '28')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.3"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $print_v == '29')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.4"."']");
+		} elseif (($book =='Deut' && $chapter == '28' && $print_v == '69')) {
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.29.1"."']");
+		} elseif (($book =='Exod' && $chapter == '7' && (((int)$print_v > 25) && ((int)$print_v < 30)))) {
+			$temp_c = $print_v-25;	
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.".$temp_c."']");		
+		} elseif (($book =='Exod' && $chapter == '21' && $print_v == '37')) {
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.22.1"."']");
+		} elseif (($book =='Lev' && $chapter == '5' && (((int)$print_v > 19) && ((int)$print_v < 27)))) {
+			$temp_d = $print_v-19;	
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.".$temp_d."']");
+		} elseif (($book =='Num' && $chapter == '17' && (((int)$print_v > 0) && ((int)$print_v < 16)))) {
+			$temp_a = $print_v+35;
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.16.".$temp_a."']");
+		} elseif (($book =='Num' && $chapter == '17' && (((int)$print_v > 15)))) {
+			$temp_b = $print_v-15;
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.17.".$temp_b."']");
 		} elseif (($book =='Gen' && $chapter == '32') || ($book =='Num' && $chapter == '30') || ($book =='Deut' && $chapter == '13') || ($book =='Deut' && $chapter == '23')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v-1)."']");
-		} elseif (($book =='Exod' && $chapter == '22')) {
+		} elseif (($book =='Exod' && $chapter == '22') || ($book =='Deut' && $chapter == '29')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v+1)."']");
 		} elseif (($book =='Lev' && $chapter == '6')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v+7)."']");
@@ -242,17 +250,25 @@ if ($verse <> '') {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.12.32"."']");
 		} elseif (($book =='Deut' && $chapter == '23' && $verse == '1')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.22.30"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $verse == '26')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.1"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $verse == '27')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.2"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $verse == '28')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.3"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && $verse == '29')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.4"."']");
+		} elseif (($book =='Deut' && $chapter == '28' && $verse == '69')) {
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.29.1"."']");
+		} elseif (($book =='Exod' && $chapter == '7' && (((int)$verse > 25) && ((int)$verse < 30)))) {
+			$temp_c = $verse-25;	
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.".$temp_c."']");	
+		} elseif (($book =='Exod' && $chapter == '21' && $verse == '37')) {
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.22.1"."']");
+		} elseif (($book =='Lev' && $chapter == '5' && (((int)$verse > 19) && ((int)$verse < 27)))) {
+			$temp_d = $verse-19;	
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.".$temp_d."']");
+		} elseif (($book =='Num' && $chapter == '17' && (((int)$verse > 0) && ((int)$verse < 16)))) {
+			$temp_a = $verse+35;
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.16.".$temp_a."']");
+		} elseif (($book =='Num' && $chapter == '17' && (((int)$verse > 15)))) {
+			$temp_b = $verse-15;
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.17.".$temp_b."']");
 		} elseif (($book =='Gen' && $chapter == '32') || ($book =='Num' && $chapter == '30') || ($book =='Deut' && $chapter == '13') || ($book =='Deut' && $chapter == '23')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse-1)."']");
-		} elseif (($book =='Exod' && $chapter == '22')) {
+		} elseif (($book =='Exod' && $chapter == '22') || ($book =='Deut' && $chapter == '29')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse+1)."']");
 		} elseif (($book =='Lev' && $chapter == '6')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse+7)."']");
@@ -358,6 +374,9 @@ function DeterminePrefixSufix ($word) {
 		function ColorCoded() {
 		    window.open("TheBibleColorCoded.php?book=<?php echo $book; ?>&chapter=<?php echo $chapter; ?>&verse=<?php echo $verse; ?>");
 		}
+		function GrammarStudy() {
+		    window.open("AncientBiblicalHebrewGrammarStudy.php?book=<?php echo $book; ?>&chapter=<?php echo $chapter; ?>&verse=<?php echo $verse; ?>");
+		}
 </script>
 </head>
 <body>
@@ -380,7 +399,7 @@ function DeterminePrefixSufix ($word) {
 
 <div class="container-fluid" id="content">
 	<div id="bible-text">
-		<p id="bible-content"> <button onclick="ColorCoded()" class="btn v">Color Code</button> <button onclick="StudyResources()" class="btn btn-success">Study Resources</button> <button onclick="ShowHideEnglish('kjv')" class="btn btn-info">Show/Hide English</button><br><br><?php echo $bible_content; ?></p>
+		<p id="bible-content"> <button onclick="GrammarStudy()" class="btn btn-success">Grammar Study</button> <button onclick="StudyResources()" class="btn btn-success">Study Resources</button> <button onclick="ColorCoded()" class="btn v">Color Code</button> <button onclick="ShowHideEnglish('kjv')" class="btn btn-info">Show/Hide English</button><br><br><?php echo $bible_content; ?></p>
 	</div>
 </div>
 
