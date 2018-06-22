@@ -24,7 +24,7 @@ and uses HMTL, jQUERY, CSS and Bootstrap to present it in mobile-friendly web pa
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : June 17, 2018
+Updated on : June 22, 2018
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
@@ -94,6 +94,25 @@ while($row = mysqli_fetch_assoc($result)) {
 	$total_rows++;
 }
 
+
+//Get verb from strong id
+$query2 = "SELECT * FROM u955934022_bible.strong AS a WHERE a.POS = 'v'";
+
+$mysql2 = get_database_connection();
+mysqli_set_charset($mysql2,'utf8');
+$result2 = mysqli_query($mysql2, $query2);
+
+$v_words = array();
+$v_ids = array();
+$total_rows2 = 0;
+
+while($row2 = mysqli_fetch_assoc($result2)) {
+	$v_words[] =$row2['Word'];
+	$v_ids[] = $row2['ID'];
+	$total_rows2++;
+}
+
+
 //Get the list of Books
 for ($i=0; $i < Count($books_file_name); $i++) { 
 	if ($books_file_name[$i] == $book) {
@@ -156,6 +175,7 @@ for ($m=0; $m < $total_verses; $m++) {
 			$key = array_search($sid, $ids);
 			$possorig = $poss[$key];
 			$d = $defs[$key];
+			$vw = $words[$key];
 			$deffs = str_replace(',', '<br />', $d);
 			$verb_addition = '';
 
@@ -178,7 +198,9 @@ for ($m=0; $m < $total_verses; $m++) {
 			else {
 				//--------------------Verb---------------------------//	
 				if ($poscname == 'v') {
-					$verb_addition = '<br>test';
+					$vw_key = array_search($sid, $v_ids);
+					$vw_word = $v_words[$vw_key];
+					$verb_addition = DetermineVerbPGN($vw_word, $sid, $hword);
 				}
 
 				$bible_content_a[] = '<td><div class="vcword"><span class="'.$poscname.'"><a href="HebrewStrong.php?id='.$sid.'">'.$hword.'</a></span></div></td>';
@@ -327,7 +349,9 @@ if ($verse <> '') {
 			else {
 				//--------------------Verb---------------------------//	
 				if ($poscname == 'v') {
-					$verb_addition = '<br>test';
+					$vw_key = array_search($sid, $v_ids);
+					$vw_word = $v_words[$vw_key];
+					$verb_addition = DetermineVerbPGN($vw_word, $sid, $hword);
 				}
 
 				$bible_content_a[] = '<td><div class="vcword"><span class="'.$poscname.'"><a href="HebrewStrong.php?id='.$sid.'">'.$hword.'</a></span></div></td>';
@@ -449,6 +473,200 @@ function get_string_between($string, $start, $end){
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+function DetermineVerbPGN($verb, $strong, $verb_actual) {
+
+	$output_verb = '';
+	$verb_tense = '';
+
+	//find verb root
+	$verb_root = preg_replace('/[\x{0591}-\x{05C7}\x{05F0}-\x{05F5}]/u','',$verb);
+	$firstletter = mb_substr($verb_root,0,1);
+	$secondletter = mb_substr($verb_root,1,1);
+	$thirdletter= mb_substr($verb_root,2,3);
+
+	//determine verb type
+	if ($firstletter == 'א') {
+		$verb_type = 'Weak<br>I-Aleph';	
+	} elseif ($firstletter == 'נ') {
+		$verb_type = 'Weak<br>I-Nun';										
+	} elseif ($firstletter == 'נ') {
+		$verb_type = 'Weak<br>I-Nun';										
+	} elseif ($firstletter == 'י') {
+		$verb_type = 'Weak<br>I-Yud';										
+	} elseif ($thirdletter == 'ה') {
+		$verb_type = 'Weak<br>III-He';										
+	} elseif ($secondletter == $thirdletter) {
+		$verb_type = 'Weak<br>Geminate';										
+	} elseif ($firstletter == 'ר' || $firstletter == 'ה' || $firstletter == 'ע' || $firstletter == 'ח') {
+		$verb_type = 'Weak<br>I-Guttural';
+	} elseif ($secondletter == 'ו' || $secondletter == 'י') {
+		$verb_type = 'Weak<br>Hollow';
+	} else {
+		$verb_type = 'Strong';								
+	}
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	$ppp = array('ב', 'בְ', 'בְֽ', 'בִ', 'בִֽ', 'בֵ', 'בֵֽ', 'בֶ', 'בֶֽ', 'בַ', 'בַֽ', 'בָ', 'בָֽ', 'בּ', 'בְּ', 'בְּֽ', 'בִּ', 'בִּֽ', 'בֵּ', 'בֵּֽ', 'בֶּ', 'בֶּֽ', 'בַּ', 'בַּֽ', 'בָּ', 'בָּֽ', 'בּֽ', 'בַּֽ', 'בָּֽ', 'בֽ', 'בָֽ', 'ה', 'הְֽ', 'הֲ', 'הֳ', 'הֶ', 'הֶֽ', 'הַ', 'הַֽ', 'הַׄ', 'הָ', 'הָֽ', 'הֶֽ', 'הַֽ', 'הָֽ', 'הְֽ', 'הֲ', 'הֲֽ', 'הֶ', 'הֶֽ', 'הַ', 'הַֽ', 'הֲֽ', 'הַֽ', 'הָֽ', 'הֲ‍ֽ', 'ו', 'וְ', 'וְֽ', 'וְׄ', 'וֲ', 'וִ', 'וִֽ', 'וֵ', 'וֵֽ', 'וֶ', 'וֶֽ', 'וַ', 'וַֽ', 'וַׄ', 'וָ', 'וָֽ', 'וּ', 'וִּ', 'וּֽ', 'וּׄ', 'וְֽ', 'וִֽ', 'וֵֽ', 'וֶֽ', 'וַֽ', 'וָֽ', 'כ', 'כְ', 'כִ', 'כֶ', 'כַ', 'כַֽ', 'כָ', 'כְּ', 'כְּֽ', 'כִּ', 'כִּֽ', 'כֵּ', 'כֵּֽ', 'כֶּ', 'כֶּֽ', 'כַּ', 'כַּֽ', 'כָּ', 'כָּֽ', 'כַּֽ', 'כָּֽ', 'ל', 'לְ', 'לְֽ', 'לְׄ', 'לֲ', 'לִ', 'לִֽ', 'לֵ', 'לֵֽ', 'לֶ', 'לֶֽ', 'לַ', 'לַֽ', 'לָ', 'לָֽ', 'לָׄ', 'לּ', 'לְּ', 'לִּ', 'לִּֽ', 'לֵּ', 'לֶּ', 'לַּ', 'לָּ', 'לָּֽ', 'לּֽ', 'לֽ', 'לְֽ', 'לִֽ', 'לֵֽ', 'לֶֽ', 'לַֽ', 'לָֽ', 'לִֽֿ', 'מ', 'מְ', 'מִ', 'מִֽ', 'מֵ', 'מֵֽ', 'מֶ', 'מֶֽ', 'מַ', 'מִּ', 'מֵּ', 'מֵֽ', 'ש', 'שְׁ', 'שֶׁ', 'שֶֽׁ', 'שַׁ', 'שָׁ', 'שֶּׁ', 'שֶּֽׁ');
+
+	$sss = array('א', 'אָה', 'דִי', 'ה', 'הָ', 'הּ', 'הָּ', 'הֿ', 'הָא', 'הא', 'הֽוּ', 'הׄוּׄ', 'הו', 'הוּ', 'הוא', 'הוֹם', 'הֽוֹן', 'הוֹן', 'הון', 'הִי', 'הֵין', 'הֶֽם', 'הֶם', 'הַם', 'הֹֽם', 'הֹם', 'הֶּם', 'הֶֽם', 'הם', 'הֵמָה', 'הֵן', 'הֶֽן', 'הֶן', 'הְנָה', 'הֶֽנָה', 'ו', 'וֹ', 'וּ', 'וׄ', 'וּהִי', 'וּךְ', 'י', 'יַ', 'ידע', 'יָהּ', 'יהָ', 'יהֶם', 'יו', 'יונים', 'יךְ', 'ינה', 'ך', 'ךְ', 'ךָ', 'ךָֽ', 'ךָּ', 'כֵה', 'כָה', 'כָּה', 'כוֹן', 'כִי', 'כי', 'כֶֽם', 'כֶם', 'כֹם', 'כם', 'כֶֽן', 'כֶן', 'כֶֽנָה', 'כֶנָה', 'ם', 'מו', 'מוֹ', 'מוּ', 'ן', 'נ', 'נְ', 'נֶ', 'נַ', 'נָא', 'נא', 'נָה', 'נָּֽה', 'נָּה', 'נה', 'נְהֽוּ', 'נְהוּ', 'נּֽוּ', 'נּוּ', 'נׄוּׄ', 'נו', 'נוֹ', 'נוּ', 'נִֽי', 'נִי', 'נִּי', 'ני', 'נְךָּ', 'נְנִי');
+
+
+	//only 1 prefix or suffix
+	if (substr_count($verb_actual, '/') == 1) {
+
+		$prepre = strtok($verb_actual, '/');
+		$sufsuf = substr(strrchr($verb_actual, '/'), 1);
+
+		if (in_array($prepre, $ppp)) {
+			$verb_pre = strtok($verb_actual, '/');
+			$verb_actual_word = substr(strrchr($verb_actual, '/'), 1);
+		}
+		else {
+			$verb_actual_word = strtok($verb_actual, '/');
+			$verb_suf = substr(strrchr($verb_actual, '/'), 1);
+		}
+	}
+
+	//2 prefix or suffix, that means there's a prefix / verb / suffix
+	elseif (substr_count($verb_actual, '/') == 2) {
+
+		$prepre = strtok($verb_actual, '/');
+
+		if (in_array($prepre, $ppp)) {
+			$verb_pre = strtok($verb_actual, '/');
+			$trimmed_word = substr($verb_actual, strpos($verb_actual, "/") + 1);
+
+			$prepre2 = strtok($trimmed_word, '/');
+			$sufsuf2 = substr(strrchr($trimmed_word, '/'), 1);
+
+				if (in_array($prepre2, $ppp)) {
+					$verb_pre = strtok($trimmed_word, '/');
+					$verb_actual_word = substr(strrchr($trimmed_word, '/'), 1);
+				}
+				else {
+					$verb_actual_word = strtok($trimmed_word, '/');
+					$verb_suf = substr(strrchr($trimmed_word, '/'), 1);
+				}
+		}
+	}
+	else {
+		$verb_actual_word = $verb_actual;
+	}
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	//replace cantillation, punctuations, shin dot, sin dots
+	$verb_actual_word = preg_replace('/[\x{0591}-\x{05AF}\x{05BD}\x{05BE}\x{05BF}\x{05C0}-\x{05C3}]/u','',$verb_actual_word);
+	$firstletter_a = mb_substr($verb_actual_word,0,1);
+
+/*
+	//transformed verb vowels for easy comparison
+			//Sheva,  Segol,  Patah,  Qamats, Hiriq, Tsere,   Segol,  Patah, Gamats, Holam,  VavHolam,Qubuts, Dagesh, Meteg
+	$from = "\u{05B0}\u{05B1}\u{05B2}\u{05B3}\u{05B4}\u{05B5}\u{05B6}\u{05B7}\u{05B8}\u{05B9}\u{05BA}\u{05BB}\u{05BC}\u{05BD}";
+			//   S,     G,       P,      Q,      R,      T,      L,      A,      M,      H,      V,      B,      D,     E
+	$to  =  "\u{0053}\u{0047}\u{0050}\u{0051}\u{0052}\u{0054}\u{004C}\u{0041}\u{004D}\u{0048}\u{0056}\u{0042}\u{0044}\u{0045}";
+	$verb_actual_word = strtr($verb_actual_word, $from, $to);
+*/
+
+	$firstvowel_a = mb_substr($verb_actual_word,1,1,'UTF-8');
+	$secondvowel_a = mb_substr($verb_actual_word,2,1,'UTF-8');
+	$thirdvowel_a = mb_substr($verb_actual_word,3,1,'UTF-8');
+	$fourthvowel_a = mb_substr($verb_actual_word,4,1,'UTF-8');
+	$fifthvowel_a = mb_substr($verb_actual_word,5,1,'UTF-8');
+
+	//determine verb tense
+	//if ($verb_type == 'Strong') {
+		//verb has no prefix
+		if ($firstletter == $firstletter_a) {
+			if ($firstvowel_a == 'ָ') {
+				if ($thirdvowel_a == 'ו'  && $fourthvowel_a == 'ּ') {
+					$verb_tense = 'Qal/Pass Part';
+				} elseif ($thirdvowel_a == 'ֹ') {
+					$verb_tense = 'Qal/Inf Abs';
+				} else {
+					$verb_tense = 'Qal/Perfect';
+				}
+			} elseif ($firstvowel_a == 'ַ') {
+				$verb_tense = 'Piel/Impv/Inf';
+			} elseif ($firstvowel_a == 'ִ') {
+				if ($thirdvowel_a == 'ּ') {
+					$verb_tense = 'Qal/Impv';
+				} else {
+					$verb_tense = 'Piel/Perfect';
+				}
+			} elseif ($firstvowel_a == 'ְ') {
+				$verb_tense = 'Qal/Impv/Inf Cs';
+			} elseif ($firstvowel_a == 'ֹ') {
+				$verb_tense = 'Qal/Act/Part';
+			} elseif ($firstvowel_a == 'ֻ') {
+				if ($thirdvowel_a == 'ּ' && $fourthvowel_a == 'ֹ') {
+					$verb_tense = 'Pual/Inf Abs';
+				} elseif ($thirdvowel_a == 'ּ' && ($fourthvowel_a == 'ַ' || $fourthvowel_a == 'ְ')) {
+					$verb_tense = 'Pual/Perfect';
+				}
+			} else {
+				$verb_tense = '';
+			}
+
+		//verb has prefix
+		} elseif ($firstletter_a == 'ת' || $firstletter_a == 'י' || $firstletter_a == 'א' || $firstletter_a == 'נ') {
+			if ($firstvowel_a == 'ַ' || ($firstvowel_a == 'ּ' && $secondvowel_a == 'ַ')) {
+				$verb_tense = 'Hiphil/Imperfect';
+			} elseif ($firstvowel_a == 'ָ') {
+				$verb_tense = 'Hophal/Imperfect';
+			} elseif ($firstvowel_a == 'ְ' && $thirdvowel_a == 'ַ') {
+				$verb_tense = 'Piel/Imperfect';
+			} elseif ($firstvowel_a == 'ְ' && $thirdvowel_a == 'ֻ') {
+				$verb_tense = 'Pual/Imperfect';
+			} elseif ($firstvowel_a == 'ִ' && $thirdvowel_a == 'ּ' && $fourthvowel_a == 'ָ') {
+				$verb_tense = 'Niphal/Imperfect';
+			} elseif ($firstletter_a == 'נ' && ($fifthvowel_a == 'ַ' || $fifthvowel_a == 'ְ')) {
+				$verb_tense = 'Niphal/Perfect';
+			} elseif ($firstletter_a == 'נ' && $fifthvowel_a == 'ָ') {
+				$verb_tense = 'Niphal/Part';
+			} elseif ($firstletter_a == 'נ' && $fifthvowel_a == 'ֹ') {
+				$verb_tense = 'Niphal/Inf';
+			} else {
+				$verb_tense = 'Qal/Imperfect';
+			}
+		} elseif ($firstletter_a == 'מ') {
+			if ($firstvowel_a == 'ַ') {
+				$verb_tense = 'Hiphil/Part';
+			} elseif ($firstvowel_a == 'ָ') {
+				$verb_tense = 'Hophal/Part';
+			} elseif ($firstvowel_a == 'ְ' && $thirdvowel_a == 'ַ') {
+				$verb_tense = 'Piel/Part';
+			} elseif ($firstvowel_a == 'ְ' && $thirdvowel_a == 'ֻ') {
+				$verb_tense = 'Pual/Part';
+			} elseif ($firstvowel_a == 'ִ' && $secondvowel_a == 'ת' && $thirdvowel_a == 'ְ') {
+				$verb_tense = 'Hithpael/Part';
+			} else {
+				$verb_tense = 'Participle';
+			}
+		} elseif ($firstletter_a == 'ה') {
+			if ($firstvowel_a == 'ַ') {
+				$verb_tense = 'Hiphil/Impv/Inf';
+			} elseif ($firstvowel_a == 'ִ' && $thirdvowel_a == 'ּ' && $fourthvowel_a == 'ָ') {
+				$verb_tense = 'Niphal/Impv/Inf';				
+			} elseif ($firstvowel_a == 'ִ' && $thirdvowel_a == 'ְ') {
+				$verb_tense = 'Hiphil/Perf';				
+			} elseif ($firstvowel_a == 'ָ') {
+				$verb_tense = 'Hophal/Perf/Inf';				
+			} elseif ($firstvowel_a == 'ִ' && $secondvowel_a == 'ת' && $thirdvowel_a == 'ְ') {
+				$verb_tense = 'Hithpael/Perf/Impv/Inf';				
+			} else {
+				$verb_tense = 'Perf/Impv/Inf';
+			}
+		}
+	//}
+
+	$output_verb = '<br>'.$verb_type.'<br>root '.$verb_root.'<br>'.$verb_tense;
+
+	return $output_verb;
+
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 function DeterminePrefixSufix ($word, $pos, $strong) {
 
 	$output_word = '';
@@ -481,7 +699,7 @@ function DeterminePrefixSufix ($word, $pos, $strong) {
 			
 			$trimmed_word = substr($word, strpos($word, "/") + 1);
 			$sufsuf = DeterminePrefixSufix($trimmed_word, $pos, $strong);
-			$output_word = '<td><div class="vcword">'.$sufsuf.'</div></td><td><div class="vcword">'.$prepre.'</div></td>';
+			$output_word = $sufsuf.'<td><div class="vcword">'.$prepre.'</div></td>';
 
 		}
 		else {
@@ -489,7 +707,7 @@ function DeterminePrefixSufix ($word, $pos, $strong) {
 			$firstpart = DeterminePrefixSufix($prepre, $pos, $strong);
 			$trimmed_word = substr($word, strpos($word, "/") + 1);
 			$sufsuf = DeterminePrefixSufix($prepre, $pos, $strong);
-			$output_word = '<td><div class="vcword">'.$sufsuf.'</div></td><td><div class="vcword">'.$firstpart.'</div></td>';		
+			$output_word = '<td><div class="vcword">'.$sufsuf.'</div></td>'.$firstpart;		
 
 		}
 	}
@@ -512,7 +730,11 @@ function DeterminePrefixSufix ($word, $pos, $strong) {
 
 function DeterminePrefixSufix2 ($word, $pos, $strong, $possorig) {
 
+	global $v_ids;
+	global $v_words;
+
 	$output_word = '';
+
 	//prefix and suffixes
 	$ppp = array('ב', 'בְ', 'בְֽ', 'בִ', 'בִֽ', 'בֵ', 'בֵֽ', 'בֶ', 'בֶֽ', 'בַ', 'בַֽ', 'בָ', 'בָֽ', 'בּ', 'בְּ', 'בְּֽ', 'בִּ', 'בִּֽ', 'בֵּ', 'בֵּֽ', 'בֶּ', 'בֶּֽ', 'בַּ', 'בַּֽ', 'בָּ', 'בָּֽ', 'בּֽ', 'בַּֽ', 'בָּֽ', 'בֽ', 'בָֽ', 'ה', 'הְֽ', 'הֲ', 'הֳ', 'הֶ', 'הֶֽ', 'הַ', 'הַֽ', 'הַׄ', 'הָ', 'הָֽ', 'הֶֽ', 'הַֽ', 'הָֽ', 'הְֽ', 'הֲ', 'הֲֽ', 'הֶ', 'הֶֽ', 'הַ', 'הַֽ', 'הֲֽ', 'הַֽ', 'הָֽ', 'הֲ‍ֽ', 'ו', 'וְ', 'וְֽ', 'וְׄ', 'וֲ', 'וִ', 'וִֽ', 'וֵ', 'וֵֽ', 'וֶ', 'וֶֽ', 'וַ', 'וַֽ', 'וַׄ', 'וָ', 'וָֽ', 'וּ', 'וִּ', 'וּֽ', 'וּׄ', 'וְֽ', 'וִֽ', 'וֵֽ', 'וֶֽ', 'וַֽ', 'וָֽ', 'כ', 'כְ', 'כִ', 'כֶ', 'כַ', 'כַֽ', 'כָ', 'כְּ', 'כְּֽ', 'כִּ', 'כִּֽ', 'כֵּ', 'כֵּֽ', 'כֶּ', 'כֶּֽ', 'כַּ', 'כַּֽ', 'כָּ', 'כָּֽ', 'כַּֽ', 'כָּֽ', 'ל', 'לְ', 'לְֽ', 'לְׄ', 'לֲ', 'לִ', 'לִֽ', 'לֵ', 'לֵֽ', 'לֶ', 'לֶֽ', 'לַ', 'לַֽ', 'לָ', 'לָֽ', 'לָׄ', 'לּ', 'לְּ', 'לִּ', 'לִּֽ', 'לֵּ', 'לֶּ', 'לַּ', 'לָּ', 'לָּֽ', 'לּֽ', 'לֽ', 'לְֽ', 'לִֽ', 'לֵֽ', 'לֶֽ', 'לַֽ', 'לָֽ', 'לִֽֿ', 'מ', 'מְ', 'מִ', 'מִֽ', 'מֵ', 'מֵֽ', 'מֶ', 'מֶֽ', 'מַ', 'מִּ', 'מֵּ', 'מֵֽ', 'ש', 'שְׁ', 'שֶׁ', 'שֶֽׁ', 'שַׁ', 'שָׁ', 'שֶּׁ', 'שֶּֽׁ');
 
@@ -526,16 +748,28 @@ function DeterminePrefixSufix2 ($word, $pos, $strong, $possorig) {
 		$sufsuf = substr(strrchr($word, '/'), 1);
 		$verb_addition = '';
 
-		//--------------------Verb---------------------------//		
-		if ($pos == 'v') {
-			$verb_addition = '<br>test';
-		}
-
 		if (in_array($prepre, $ppp)) {
+
+			//--------------------Verb---------------------------//	
+			if ($pos == 'v') {
+				$vw_key = array_search($strong, $v_ids);
+				$vw_word = $v_words[$vw_key];
+				$verb_addition = DetermineVerbPGN($vw_word, $strong, $word);
+			}
+
 			$output_word = '<td><a href="HebrewStrong.php?id='.$strong.'">'.$strong.'</a><br><span class="'.$pos.'">'.$possorig.$verb_addition.'</span></td><td><span class="pre"><br>pre</span></td>';
 		}
 		else {
+
+			//--------------------Verb---------------------------//	
+			if ($pos == 'v') {
+				$vw_key = array_search($strong, $v_ids);
+				$vw_word = $v_words[$vw_key];
+				$verb_addition = DetermineVerbPGN($vw_word, $strong, $word);
+			}
+
 			$output_word = '<td><span class="suf"><br>suf</span></td><td><a href="HebrewStrong.php?id='.$strong.'">'.$strong.'</a><br><span class="'.$pos.'">'.$possorig.$verb_addition.'</span></td>';
+
 		}
 	}
 
@@ -548,7 +782,7 @@ function DeterminePrefixSufix2 ($word, $pos, $strong, $possorig) {
 			
 			$trimmed_word = substr($word, strpos($word, "/") + 1);
 			$sufsuf = DeterminePrefixSufix2($trimmed_word, $pos, $strong, $possorig);
-			$output_word = '<td>'.$sufsuf.'</td><td><span class="pre"><br>pre</span></td>';
+			$output_word = $sufsuf.'<td><span class="pre"><br>pre</span></td>';
 
 		}
 		else {
@@ -556,7 +790,7 @@ function DeterminePrefixSufix2 ($word, $pos, $strong, $possorig) {
 			$firstpart = DeterminePrefixSufix2($prepre, $pos, $strong, $possorig);
 			$trimmed_word = substr($word, strpos($word, "/") + 1);
 			$sufsuf = DeterminePrefixSufix2($prepre, $pos, $strong, $possorig);
-			$output_word = '<td>'.$sufsuf.'</td><td>'.$firstpart.'</td>';		
+			$output_word = '<td>'.$sufsuf.'</td>'.$firstpart;		
 
 		}
 	}
@@ -585,9 +819,9 @@ function DeterminePrefixSufix3 ($word, $pos, $strong, $deffs) {
 
 	$pppdef = array('in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'in or on', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'as or like or because', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'to or for', 'from', 'from', 'from', 'from', 'from', 'from', 'from', 'from', 'from', 'from', 'from', 'from', 'ש', 'שְׁ', 'שֶׁ', 'שֶֽׁ', 'שַׁ', 'שָׁ', 'שֶּׁ', 'שֶּֽׁ');
 
-	$sss = array('א', 'אָה', 'דִי', 'ה', 'הָ', 'הּ', 'הָּ', 'הֿ', 'הָא', 'הא', 'הֽוּ', 'הׄוּׄ', 'הו', 'הוּ', 'הוא', 'הוֹם', 'הֽוֹן', 'הוֹן', 'הון', 'הִי', 'הֵין', 'הֶֽם', 'הֶם', 'הַם', 'הֹֽם', 'הֹם', 'הֶּם', 'הֶֽם', 'הם', 'הֵמָה', 'הֵן', 'הֶֽן', 'הֶן', 'הְנָה', 'הֶֽנָה', 'ו', 'וֹ', 'וּ', 'וׄ', 'וּהִי', 'וּךְ', 'י', 'יַ', 'ידע', 'יָהּ', 'יהָ', 'יהֶם', 'יו', 'יונים', 'יךְ', 'ינה', 'ך', 'ךְ', 'ךָ', 'ךָֽ', 'ךָּ', 'כֵה', 'כָה', 'כָּה', 'כוֹן', 'כִי', 'כי', 'כֶֽם', 'כֶם', 'כֹם', 'כם', 'כֶֽן', 'כֶן', 'כֶֽנָה', 'כֶנָה', 'ם', 'מו', 'מוֹ', 'מוּ', 'ן', 'נ', 'נְ', 'נֶ', 'נַ', 'נָא', 'נא', 'נָה', 'נָּֽה', 'נָּה', 'נה', 'נְהֽוּ', 'נְהוּ', 'נּֽוּ', 'נּוּ', 'נׄוּׄ', 'נו', 'נוֹ', 'נוּ', 'נִֽי', 'נִי', 'נִּי', 'ני', 'נְךָּ', 'נְנִי');
+	$sss = array('א', 'אָה', 'דִי', 'ה', 'הָ', 'הּ', 'הָּ', 'הֿ', 'הָא', 'הא', 'הֽוּ', 'הׄוּׄ', 'הו', 'הוּ', 'הוא', 'הוֹם', 'הֽוֹן', 'הוֹן', 'הון', 'הִי', 'הֵין', 'הֶֽם', 'הֶם', 'הַם', 'הֹֽם', 'הֹם', 'הֶּם', 'הֶֽם', 'הם', 'הֵמָה', 'הֵן', 'הֶֽן', 'הֶן', 'הְנָה', 'הֶֽנָה', 'ו', 'וֹ', 'וּ', 'וׄ', 'וּהִי', 'וּךְ', 'י', 'יַ', 'ידע', 'יָהּ', 'יהָ', 'יהֶם', 'יו', 'יונים', 'יךְ', 'ינה', 'ך', 'ךְ', 'ךָ', 'ךָֽ', 'ךָּ', 'כֵה', 'כָה', 'כָּה', 'כוֹן', 'כִי', 'כי', 'כֶֽם', 'כֶם', 'כֹם', 'כם', 'כֶֽן', 'כֶן', 'כֶֽנָה', 'כֶנָה', 'ם', 'מו', 'מוֹ', 'מוּ', 'ן', 'נ', 'נְ', 'נֶ', 'נַ', 'נָא', 'נא', 'נָה', 'נָּֽה', 'נָּה', 'נה', 'נְהֽוּ', 'נְהוּ', 'נּֽוּ', 'נּוּ', 'נׄוּׄ', 'נו', 'נוֹ', 'נוּ', 'נִֽי', 'נִי', 'נִּי', 'ני', 'נְךָּ', 'נְנִי','הוּ');
 
-	$sssdef = array('א', 'her;it', 'דִי', 'her;it', 'her;it', 'her;it', 'her;it', 'her;it', 'her;it', 'her;it', 'הֽוּ', 'הׄוּׄ', 'הו', 'הוּ', 'הוא', 'הוֹם', 'הֽוֹן', 'הוֹן', 'הון', 'הִי', 'הֵין', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'הְנָה', 'הֶֽנָה', 'him or it;his or its', 'him or it;his or its', 'him or it;his or its', 'him or it;his or its', 'וּהִי', 'you;your', 'me;my', 'יַ', 'ידע', 'her;it', 'her;it', 'them, their', 'יו', 'יונים', 'you;your', 'ינה', 'you;your', 'you;your', 'you;your', 'you;your', 'you;your', 'כֵה', 'כָה', 'כָּה', 'כוֹן', 'כִי', 'כי', 'you;your', 'you;your', 'you;your', 'you;your', 'you;your', 'you;your', 'כֶֽנָה', 'כֶנָה', 'them;their', 'מו', 'מוֹ', 'מוּ', 'them;their', 'נ', 'נְ', 'me;my', 'נַ', 'נָא', 'נא', 'נָה', 'נָּֽה', 'נָּה', 'נה', 'נְהֽוּ', 'נְהוּ', 'us;our', 'us;our', 'us;our', 'us;our', 'נוֹ', 'us;our', 'me;my', 'me;my', 'me;my', 'me;my', 'you;your', 'נְנִי');
+	$sssdef = array('א', 'her;it', 'דִי', 'her;it', 'her;it', 'her;it', 'her;it', 'her;it', 'her;it', 'her;it', 'his;its', 'his;its', 'his;its', 'his;its', 'him;it', 'הוֹם', 'הֽוֹן', 'הוֹן', 'הון', 'הִי', 'הֵין', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'them;their', 'הְנָה', 'הֶֽנָה', 'him or it;his or its', 'him or it;his or its', 'him or it;his or its', 'him or it;his or its', 'וּהִי', 'you;your', 'me;my', 'יַ', 'ידע', 'her;it', 'her;it', 'them, their', 'יו', 'יונים', 'you;your', 'ינה', 'you;your', 'you;your', 'you;your', 'you;your', 'you;your', 'כֵה', 'כָה', 'כָּה', 'כוֹן', 'כִי', 'כי', 'you;your', 'you;your', 'you;your', 'you;your', 'you;your', 'you;your', 'כֶֽנָה', 'כֶנָה', 'them;their', 'מו', 'מוֹ', 'מוּ', 'them;their', 'נ', 'נְ', 'me;my', 'נַ', 'נָא', 'נא', 'נָה', 'נָּֽה', 'נָּה', 'נה', 'נְהֽוּ', 'נְהוּ', 'us;our', 'us;our', 'us;our', 'us;our', 'נוֹ', 'us;our', 'me;my', 'me;my', 'me;my', 'me;my', 'you;your', 'נְנִי','his;its');
 
 
 	//if there's only 1 prefix or suffix, determine if it's prefix or suffix then print out the verse
@@ -632,18 +866,22 @@ function DeterminePrefixSufix3 ($word, $pos, $strong, $deffs) {
 		$prepre = strtok($word, '/');
 
 		if (in_array($prepre, $ppp)) {
+
+			//find prefix in definition array
+			$pdkey = array_search($prepre, $ppp);
+			$pdef = str_replace(" or ","<br>",$pppdef[$pdkey]);	
 			
 			$trimmed_word = substr($word, strpos($word, "/") + 1);
 			$sufsuf = DeterminePrefixSufix3($trimmed_word, $pos, $strong, $deffs);
-			$output_word = '<td>'.$sufsuf.'</td><td>pre</td>';
+			$output_word = $sufsuf.'<td>'.$pdef.'</td>';
 
 		}
 		else {
 
 			$firstpart = DeterminePrefixSufix3($prepre, $pos, $strong, $deffs);
 			$trimmed_word = substr($word, strpos($word, "/") + 1);
-			$sufsuf = DeterminePrefixSufix3($prepre, $pos, $strong, $deffs);
-			$output_word = '<td>'.$sufsuf.'</td><td>'.$firstpart.'</td>';		
+			$sufsuf = DeterminePrefixSufix3($trimmed_word, $pos, $strong, $deffs);
+			$output_word = '<td>'.$sufsuf.'</td>'.$firstpart;		
 
 		}
 	}

@@ -4,6 +4,8 @@ if ($book == 'Gen') {
 	$url = 'YouTube/genesis1.json';
 } elseif ($book == 'Exod') {
 	$url = 'YouTube/exodus1.json';
+} elseif ($book == 'Lev') {
+	$url = 'YouTube/leviticus1.json';
 } 
 else {
 	$url = 'YouTube/genesis1.json';

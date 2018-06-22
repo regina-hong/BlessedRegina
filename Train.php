@@ -24,7 +24,7 @@ and uses HMTL, jQUERY, CSS and Bootstrap to present it in mobile-friendly web pa
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : June 15, 2018
+Updated on : June 17, 2018
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
