@@ -24,7 +24,7 @@ and uses HMTL, jQUERY, CSS and Bootstrap to present it in mobile-friendly web pa
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : June 26, 2018
+Updated on : June 29, 2018
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
@@ -219,49 +219,7 @@ for ($m=0; $m < $total_verses; $m++) {
 			$bible_content_c[] ='<td></td>';
 		}
 
-
-
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
-		//English KJV translation
-		$xpath_en = new DOMXPath($xml_en);
-		//$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".$print_v."']");
-		if (($book =='Gen' && $chapter == '32' && $print_v == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Gen.31.55"."']");
-		} elseif (($book =='Num' && $chapter == '30' && $print_v == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.29.40"."']");
-		} elseif (($book =='Deut' && $chapter == '13' && $print_v == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.12.32"."']");
-		} elseif (($book =='Deut' && $chapter == '23' && $print_v == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.22.30"."']");
-		} elseif (($book =='Deut' && $chapter == '28' && $print_v == '69')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.29.1"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && (((int)$print_v > 25) && ((int)$print_v < 30)))) {
-			$temp_c = $print_v-25;	
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.".$temp_c."']");		
-		} elseif (($book =='Exod' && $chapter == '21' && $print_v == '37')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.22.1"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && (((int)$print_v > 19) && ((int)$print_v < 27)))) {
-			$temp_d = $print_v-19;	
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.".$temp_d."']");
-		} elseif (($book =='Num' && $chapter == '17' && (((int)$print_v > 0) && ((int)$print_v < 16)))) {
-			$temp_a = $print_v+35;
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.16.".$temp_a."']");
-		} elseif (($book =='Num' && $chapter == '17' && (((int)$print_v > 15)))) {
-			$temp_b = $print_v-15;
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.17.".$temp_b."']");
-		} elseif (($book =='Gen' && $chapter == '32') || ($book =='Num' && $chapter == '30') || ($book =='Deut' && $chapter == '13') || ($book =='Deut' && $chapter == '23')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v-1)."']");
-		} elseif (($book =='Exod' && $chapter == '22') || ($book =='Deut' && $chapter == '29')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v+1)."']");
-		} elseif (($book =='Lev' && $chapter == '6')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v+7)."']");
-		} elseif (($book =='Exod' && $chapter == '8')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v+4)."']");			
-		} else {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".$print_v."']");
-		}
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		include 'INC/KJVMatchCleanupChapter.php';
 
 		//Loop through each word of the Verse
 		foreach ($words as $entry) {
@@ -371,47 +329,7 @@ if ($verse <> '') {
 			$bible_content_c[] ='<td></td>';
 		}
 
-
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
-		//English KJV translation
-		$xpath_en = new DOMXPath($xml_en);
-		if (($book =='Gen' && $chapter == '32' && $verse == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Gen.31.55"."']");
-		} elseif (($book =='Num' && $chapter == '30' && $verse == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.29.40"."']");
-		} elseif (($book =='Deut' && $chapter == '13' && $verse == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.12.32"."']");
-		} elseif (($book =='Deut' && $chapter == '23' && $verse == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.22.30"."']");
-		} elseif (($book =='Deut' && $chapter == '28' && $verse == '69')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.29.1"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && (((int)$verse > 25) && ((int)$verse < 30)))) {
-			$temp_c = $verse-25;	
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.".$temp_c."']");	
-		} elseif (($book =='Exod' && $chapter == '21' && $verse == '37')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.22.1"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && (((int)$verse > 19) && ((int)$verse < 27)))) {
-			$temp_d = $verse-19;	
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.".$temp_d."']");
-		} elseif (($book =='Num' && $chapter == '17' && (((int)$verse > 0) && ((int)$verse < 16)))) {
-			$temp_a = $verse+35;
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.16.".$temp_a."']");
-		} elseif (($book =='Num' && $chapter == '17' && (((int)$verse > 15)))) {
-			$temp_b = $verse-15;
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.17.".$temp_b."']");
-		} elseif (($book =='Gen' && $chapter == '32') || ($book =='Num' && $chapter == '30') || ($book =='Deut' && $chapter == '13') || ($book =='Deut' && $chapter == '23')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse-1)."']");
-		} elseif (($book =='Exod' && $chapter == '22') || ($book =='Deut' && $chapter == '29')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse+1)."']");
-		} elseif (($book =='Lev' && $chapter == '6')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse+7)."']");
-		} elseif (($book =='Exod' && $chapter == '8')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse+4)."']");			
-		} else {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".$verse."']");
-		}
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		include 'INC/KJVMatchCleanupVerse.php';
 
 		//Loop through each word of the Verse
 		foreach ($words as $entry) {

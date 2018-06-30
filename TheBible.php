@@ -24,7 +24,7 @@ and uses HMTL, jQUERY, CSS and Bootstrap to present it in mobile-friendly web pa
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : June 17, 2018
+Updated on : June 29, 2018
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
@@ -149,47 +149,7 @@ for ($m=0; $m < $total_verses; $m++) {
 		}
 		$bible_content .= '<br>';
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
-		//English KJV translation
-		$xpath_en = new DOMXPath($xml_en);
-		//$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".$print_v."']");
-		if (($book =='Gen' && $chapter == '32' && $print_v == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Gen.31.55"."']");
-		} elseif (($book =='Num' && $chapter == '30' && $print_v == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.29.40"."']");
-		} elseif (($book =='Deut' && $chapter == '13' && $print_v == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.12.32"."']");
-		} elseif (($book =='Deut' && $chapter == '23' && $print_v == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.22.30"."']");
-		} elseif (($book =='Deut' && $chapter == '28' && $print_v == '69')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.29.1"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && (((int)$print_v > 25) && ((int)$print_v < 30)))) {
-			$temp_c = $print_v-25;	
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.".$temp_c."']");		
-		} elseif (($book =='Exod' && $chapter == '21' && $print_v == '37')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.22.1"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && (((int)$print_v > 19) && ((int)$print_v < 27)))) {
-			$temp_d = $print_v-19;	
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.".$temp_d."']");
-		} elseif (($book =='Num' && $chapter == '17' && (((int)$print_v > 0) && ((int)$print_v < 16)))) {
-			$temp_a = $print_v+35;
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.16.".$temp_a."']");
-		} elseif (($book =='Num' && $chapter == '17' && (((int)$print_v > 15)))) {
-			$temp_b = $print_v-15;
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.17.".$temp_b."']");
-		} elseif (($book =='Gen' && $chapter == '32') || ($book =='Num' && $chapter == '30') || ($book =='Deut' && $chapter == '13') || ($book =='Deut' && $chapter == '23')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v-1)."']");
-		} elseif (($book =='Exod' && $chapter == '22') || ($book =='Deut' && $chapter == '29')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v+1)."']");
-		} elseif (($book =='Lev' && $chapter == '6')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v+7)."']");
-		} elseif (($book =='Exod' && $chapter == '8')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($print_v+4)."']");			
-		} else {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".$print_v."']");
-		}
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+		include 'INC/KJVMatchCleanupChapter.php';
 
 		//Loop through each word of the Verse
 		foreach ($words as $entry) {
@@ -239,45 +199,7 @@ if ($verse <> '') {
 			}
 		}
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
-		//English KJV translation
-		$xpath_en = new DOMXPath($xml_en);
-		if (($book =='Gen' && $chapter == '32' && $verse == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Gen.31.55"."']");
-		} elseif (($book =='Num' && $chapter == '30' && $verse == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.29.40"."']");
-		} elseif (($book =='Deut' && $chapter == '13' && $verse == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.12.32"."']");
-		} elseif (($book =='Deut' && $chapter == '23' && $verse == '1')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.22.30"."']");
-		} elseif (($book =='Deut' && $chapter == '28' && $verse == '69')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Deut.29.1"."']");
-		} elseif (($book =='Exod' && $chapter == '7' && (((int)$verse > 25) && ((int)$verse < 30)))) {
-			$temp_c = $verse-25;	
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.8.".$temp_c."']");	
-		} elseif (($book =='Exod' && $chapter == '21' && $verse == '37')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Exod.22.1"."']");
-		} elseif (($book =='Lev' && $chapter == '5' && (((int)$verse > 19) && ((int)$verse < 27)))) {
-			$temp_d = $verse-19;	
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Lev.6.".$temp_d."']");
-		} elseif (($book =='Num' && $chapter == '17' && (((int)$verse > 0) && ((int)$verse < 16)))) {
-			$temp_a = $verse+35;
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.16.".$temp_a."']");
-		} elseif (($book =='Num' && $chapter == '17' && (((int)$verse > 15)))) {
-			$temp_b = $verse-15;
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='Num.17.".$temp_b."']");
-		} elseif (($book =='Gen' && $chapter == '32') || ($book =='Num' && $chapter == '30') || ($book =='Deut' && $chapter == '13') || ($book =='Deut' && $chapter == '23')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse-1)."']");
-		} elseif (($book =='Exod' && $chapter == '22') || ($book =='Deut' && $chapter == '29')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse+1)."']");
-		} elseif (($book =='Lev' && $chapter == '6')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse+7)."']");
-		} elseif (($book =='Exod' && $chapter == '8')) {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse+4)."']");			
-		} else {
-			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".$verse."']");
-		}
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		include 'INC/KJVMatchCleanupVerse.php';
 
 		//Loop through each word of the Verse
 		foreach ($words as $entry) {
@@ -313,18 +235,13 @@ function get_string_between($string, $start, $end){
 }
 
 function DeterminePrefixSufix ($word) {
-
 	$output_word = '';
 	//prefix and suffixes
 	$ppp = array('ב', 'בְ', 'בְֽ', 'בִ', 'בִֽ', 'בֵ', 'בֵֽ', 'בֶ', 'בֶֽ', 'בַ', 'בַֽ', 'בָ', 'בָֽ', 'בּ', 'בְּ', 'בְּֽ', 'בִּ', 'בִּֽ', 'בֵּ', 'בֵּֽ', 'בֶּ', 'בֶּֽ', 'בַּ', 'בַּֽ', 'בָּ', 'בָּֽ', 'בּֽ', 'בַּֽ', 'בָּֽ', 'בֽ', 'בָֽ', 'ה', 'הְֽ', 'הֲ', 'הֳ', 'הֶ', 'הֶֽ', 'הַ', 'הַֽ', 'הַׄ', 'הָ', 'הָֽ', 'הֶֽ', 'הַֽ', 'הָֽ', 'הְֽ', 'הֲ', 'הֲֽ', 'הֶ', 'הֶֽ', 'הַ', 'הַֽ', 'הֲֽ', 'הַֽ', 'הָֽ', 'הֲ‍ֽ', 'ו', 'וְ', 'וְֽ', 'וְׄ', 'וֲ', 'וִ', 'וִֽ', 'וֵ', 'וֵֽ', 'וֶ', 'וֶֽ', 'וַ', 'וַֽ', 'וַׄ', 'וָ', 'וָֽ', 'וּ', 'וִּ', 'וּֽ', 'וּׄ', 'וְֽ', 'וִֽ', 'וֵֽ', 'וֶֽ', 'וַֽ', 'וָֽ', 'כ', 'כְ', 'כִ', 'כֶ', 'כַ', 'כַֽ', 'כָ', 'כְּ', 'כְּֽ', 'כִּ', 'כִּֽ', 'כֵּ', 'כֵּֽ', 'כֶּ', 'כֶּֽ', 'כַּ', 'כַּֽ', 'כָּ', 'כָּֽ', 'כַּֽ', 'כָּֽ', 'ל', 'לְ', 'לְֽ', 'לְׄ', 'לֲ', 'לִ', 'לִֽ', 'לֵ', 'לֵֽ', 'לֶ', 'לֶֽ', 'לַ', 'לַֽ', 'לָ', 'לָֽ', 'לָׄ', 'לּ', 'לְּ', 'לִּ', 'לִּֽ', 'לֵּ', 'לֶּ', 'לַּ', 'לָּ', 'לָּֽ', 'לּֽ', 'לֽ', 'לְֽ', 'לִֽ', 'לֵֽ', 'לֶֽ', 'לַֽ', 'לָֽ', 'לִֽֿ', 'מ', 'מְ', 'מִ', 'מִֽ', 'מֵ', 'מֵֽ', 'מֶ', 'מֶֽ', 'מַ', 'מִּ', 'מֵּ', 'מֵֽ', 'ש', 'שְׁ', 'שֶׁ', 'שֶֽׁ', 'שַׁ', 'שָׁ', 'שֶּׁ', 'שֶּֽׁ');
-
 	$sss = array('א', 'אָה', 'דִי', 'ה', 'הָ', 'הּ', 'הָּ', 'הֿ', 'הָא', 'הא', 'הֽוּ', 'הׄוּׄ', 'הו', 'הוּ', 'הוא', 'הוֹם', 'הֽוֹן', 'הוֹן', 'הון', 'הִי', 'הֵין', 'הֶֽם', 'הֶם', 'הַם', 'הֹֽם', 'הֹם', 'הֶּם', 'הֶֽם', 'הם', 'הֵמָה', 'הֵן', 'הֶֽן', 'הֶן', 'הְנָה', 'הֶֽנָה', 'ו', 'וֹ', 'וּ', 'וׄ', 'וּהִי', 'וּךְ', 'י', 'יַ', 'ידע', 'יָהּ', 'יהָ', 'יהֶם', 'יו', 'יונים', 'יךְ', 'ינה', 'ך', 'ךְ', 'ךָ', 'ךָֽ', 'ךָּ', 'כֵה', 'כָה', 'כָּה', 'כוֹן', 'כִי', 'כי', 'כֶֽם', 'כֶם', 'כֹם', 'כם', 'כֶֽן', 'כֶן', 'כֶֽנָה', 'כֶנָה', 'ם', 'מו', 'מוֹ', 'מוּ', 'ן', 'נ', 'נְ', 'נֶ', 'נַ', 'נָא', 'נא', 'נָה', 'נָּֽה', 'נָּה', 'נה', 'נְהֽוּ', 'נְהוּ', 'נּֽוּ', 'נּוּ', 'נׄוּׄ', 'נו', 'נוֹ', 'נוּ', 'נִֽי', 'נִי', 'נִּי', 'ני', 'נְךָּ', 'נְנִי');
-
 	if (substr_count($word, '/') == 1) {
-
 		$prepre = strtok($word, '/');
 		$sufsuf = substr(strrchr($word, '/'), 1);
-
 		if (in_array($prepre, $ppp)) {
 			$output_word = $sufsuf;
 		}
@@ -333,11 +250,8 @@ function DeterminePrefixSufix ($word) {
 		}
 	}
 	elseif (substr_count($word, '/') == 2) {
-
 		$prepre = strtok($word, '/');
-
 		if (in_array($prepre, $ppp)) {
-
 			$trimmed_word = substr($word, strpos($word, "/") + 1);
 			$output_word = DeterminePrefixSufix($trimmed_word);
 		}
@@ -346,14 +260,12 @@ function DeterminePrefixSufix ($word) {
 		}
 	}
 	elseif (substr_count($word, '/') > 2) {
-
 		$trimmed_word = substr($word, strpos($word, "/") + 1);
 		$output_word = DeterminePrefixSufix($trimmed_word);
 	}
 	else {
 		$output_word = '';
 	}
-
 	return $output_word;
 }
 
