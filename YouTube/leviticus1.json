@@ -26249,6 +26249,4308 @@
         "videoId": "JDf_RlkN42o",
         "videoPublishedAt": "2018-06-30T21:54:32.000Z"
       }
+    },
+        {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/cXtZ7dDmyLnyUpf1X-ow7c2QvII\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:52:18.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:1 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1nnMXJiVjm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1nnMXJiVjm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1nnMXJiVjm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1nnMXJiVjm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1nnMXJiVjm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1nnMXJiVjm0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1nnMXJiVjm0",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/DWISrXp7L1grBQXdMqBu073qOiE\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:52:35.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:2 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MjNV9sUTYmc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MjNV9sUTYmc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MjNV9sUTYmc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MjNV9sUTYmc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MjNV9sUTYmc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MjNV9sUTYmc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "MjNV9sUTYmc",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/tCcQxcCdGTZxI3mQx2sRcTgOTjo\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:52:43.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:3 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_1T9uj1YdGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_1T9uj1YdGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_1T9uj1YdGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_1T9uj1YdGU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_1T9uj1YdGU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_1T9uj1YdGU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_1T9uj1YdGU",
+        "videoPublishedAt": "2018-07-01T10:26:39.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ncSSMcmZ6-7zis0I1SgOW4rGqhs\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:52:50.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:4 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6QY1zre8nck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6QY1zre8nck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6QY1zre8nck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6QY1zre8nck/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6QY1zre8nck/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6QY1zre8nck"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6QY1zre8nck",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/C4vCKln9Ccj6BLqZNwh7lrgsARA\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:52:56.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:5 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qewaIXeEL8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qewaIXeEL8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qewaIXeEL8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qewaIXeEL8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qewaIXeEL8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qewaIXeEL8k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qewaIXeEL8k",
+        "videoPublishedAt": "2018-07-01T10:26:39.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/tI_-1Sx_Znu_Cev4xiJuf0w8UQA\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:53:02.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:6 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EFlMC6ulI3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EFlMC6ulI3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EFlMC6ulI3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EFlMC6ulI3I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EFlMC6ulI3I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EFlMC6ulI3I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "EFlMC6ulI3I",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/_Z906OSSdp80HAkqf-pRhglQZtw\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:53:07.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:7 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u-fuXvCsv6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u-fuXvCsv6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u-fuXvCsv6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u-fuXvCsv6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u-fuXvCsv6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u-fuXvCsv6A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "u-fuXvCsv6A",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/8ElXp6HhrJDXQMdgiN5cdsqT8fA\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:53:14.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:8 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fBuBRm74YUE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fBuBRm74YUE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fBuBRm74YUE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fBuBRm74YUE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fBuBRm74YUE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fBuBRm74YUE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fBuBRm74YUE",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/rX75wfz9oDWn6nipGv7AA3AvSjo\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:53:23.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:9 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NHDTGafJmh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NHDTGafJmh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NHDTGafJmh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NHDTGafJmh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NHDTGafJmh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NHDTGafJmh8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NHDTGafJmh8",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/KP7H-pp4SMo89MgQj60rt6CJGgI\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:53:29.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:10 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_YwO3viMOCA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_YwO3viMOCA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_YwO3viMOCA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_YwO3viMOCA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_YwO3viMOCA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_YwO3viMOCA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_YwO3viMOCA",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/gzqgYc5kndvygbhHV4Jc1Woi8WM\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:53:35.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:11 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rkZzoovaabc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rkZzoovaabc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rkZzoovaabc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rkZzoovaabc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rkZzoovaabc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rkZzoovaabc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rkZzoovaabc",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/LMLjCl7Fj6XFmdzqxRbh6tDxSEA\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:53:41.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:12 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4OsZ7wgiWPQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4OsZ7wgiWPQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4OsZ7wgiWPQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4OsZ7wgiWPQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4OsZ7wgiWPQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4OsZ7wgiWPQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4OsZ7wgiWPQ",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/WBhIdwlwI81FrtOvmAUNfuju9kg\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:53:49.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:13 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lpLr3takmDE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lpLr3takmDE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lpLr3takmDE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lpLr3takmDE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lpLr3takmDE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lpLr3takmDE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lpLr3takmDE",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/HXYtLbP58Y3h7ofFPa3KyjzKlog\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:53:58.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:14 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lBX0_wzYjsQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lBX0_wzYjsQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lBX0_wzYjsQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lBX0_wzYjsQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lBX0_wzYjsQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lBX0_wzYjsQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lBX0_wzYjsQ",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/S6XfE-nzhQhcW9fxmLf24AoC-60\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:54:11.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:15 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aU2fcGiwI3A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aU2fcGiwI3A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aU2fcGiwI3A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aU2fcGiwI3A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aU2fcGiwI3A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aU2fcGiwI3A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "aU2fcGiwI3A",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/l2akLdCWgpeDhseDMARe0J62lZE\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:54:17.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:16 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LTchUYWT9As/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LTchUYWT9As/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LTchUYWT9As/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LTchUYWT9As/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LTchUYWT9As/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LTchUYWT9As"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LTchUYWT9As",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/FvYlB7OPC1l36n1AgE_6UBfOyJo\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:54:23.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:17 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HLHdhZecctA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HLHdhZecctA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HLHdhZecctA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HLHdhZecctA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HLHdhZecctA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HLHdhZecctA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HLHdhZecctA",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/VPE8r8w53BkXzT-RVFsHoBfQU_A\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:54:29.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:18 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NT8Ogt_RPaI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NT8Ogt_RPaI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NT8Ogt_RPaI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NT8Ogt_RPaI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NT8Ogt_RPaI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NT8Ogt_RPaI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NT8Ogt_RPaI",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/t8x7YCKydAz6TOoy0NA5D-opoVk\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:54:36.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:19 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CV8uxMfFyrg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CV8uxMfFyrg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CV8uxMfFyrg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CV8uxMfFyrg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CV8uxMfFyrg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CV8uxMfFyrg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CV8uxMfFyrg",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/sWoNcIsZHBAtkTCMsdjA-HlifAk\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:54:43.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:20 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_g40OsGLV5U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_g40OsGLV5U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_g40OsGLV5U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_g40OsGLV5U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_g40OsGLV5U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_g40OsGLV5U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_g40OsGLV5U",
+        "videoPublishedAt": "2018-07-01T10:25:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/BpZm1XJkw4t8M8KmktvseLlAR-8\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:54:53.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:21 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V5cwg2A9Hss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V5cwg2A9Hss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V5cwg2A9Hss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V5cwg2A9Hss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V5cwg2A9Hss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V5cwg2A9Hss"
+        }
+      },
+      "contentDetails": {
+        "videoId": "V5cwg2A9Hss",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/eUwGW-w-BaJ3NseJL5_2tS0k9gc\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:54:58.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:22 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xmBaCfERaiA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xmBaCfERaiA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xmBaCfERaiA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xmBaCfERaiA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xmBaCfERaiA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xmBaCfERaiA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xmBaCfERaiA",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/bbLRTBe7ZtPTmeCPT_3vH4jMDks\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:55:05.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:23 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EB8JXhVXLX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EB8JXhVXLX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EB8JXhVXLX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EB8JXhVXLX8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EB8JXhVXLX8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EB8JXhVXLX8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "EB8JXhVXLX8",
+        "videoPublishedAt": "2018-07-01T10:40:43.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/xexZxf3bGUt0nT6aq-DNnnK-qh4\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:55:11.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:24 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8OO0o3F204k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8OO0o3F204k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8OO0o3F204k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8OO0o3F204k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8OO0o3F204k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8OO0o3F204k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8OO0o3F204k",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ZufUIp1tQJIehF0sAPIM8bgREsE\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:55:17.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:25 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u6JqY_-L_vw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u6JqY_-L_vw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u6JqY_-L_vw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u6JqY_-L_vw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u6JqY_-L_vw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u6JqY_-L_vw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "u6JqY_-L_vw",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/AjNEuT7dX14yVOMcjMjM0PxQ0cQ\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:55:23.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:26 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FZcpTb3kNHc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FZcpTb3kNHc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FZcpTb3kNHc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FZcpTb3kNHc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FZcpTb3kNHc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FZcpTb3kNHc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FZcpTb3kNHc",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/1KNDDYQuxzBHn7RvfQiKC_lqpgo\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:55:31.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:27 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZbMohsPhI3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZbMohsPhI3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZbMohsPhI3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZbMohsPhI3Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZbMohsPhI3Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZbMohsPhI3Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ZbMohsPhI3Q",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/AdNL2q5G7fGJWjOhOjT05dqwVo4\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:55:37.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:28 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/65E0BJqYk1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/65E0BJqYk1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/65E0BJqYk1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/65E0BJqYk1c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/65E0BJqYk1c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "65E0BJqYk1c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "65E0BJqYk1c",
+        "videoPublishedAt": "2018-07-01T10:46:35.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/AeygUzWV-xDGxMIVoE4LJmwCP-c\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:55:43.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:29 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PPsr7kYcaMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PPsr7kYcaMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PPsr7kYcaMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PPsr7kYcaMQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PPsr7kYcaMQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PPsr7kYcaMQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "PPsr7kYcaMQ",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/2yDZte8nIXdj7c49-z-lHxwo5gU\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:55:50.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:30 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/txl4rAafs1g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/txl4rAafs1g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/txl4rAafs1g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/txl4rAafs1g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/txl4rAafs1g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "txl4rAafs1g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "txl4rAafs1g",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/xjL-kkgX49FqROfDKbMglnqSZsI\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:55:55.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:31 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SOTopGl-5iA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SOTopGl-5iA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SOTopGl-5iA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SOTopGl-5iA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SOTopGl-5iA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SOTopGl-5iA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SOTopGl-5iA",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/QQ9U11RabswnFG8vqPNvboh-IE4\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:56:01.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:32 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S9jHjC6KkmE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S9jHjC6KkmE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S9jHjC6KkmE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S9jHjC6KkmE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S9jHjC6KkmE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S9jHjC6KkmE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "S9jHjC6KkmE",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/LbqMT0T6aurKYwyST1zuI1m0Y40\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:56:08.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:33 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e0ETBom049Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e0ETBom049Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e0ETBom049Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e0ETBom049Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e0ETBom049Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e0ETBom049Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "e0ETBom049Q",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/VPHLsDRvVDGjTeb3gVYHG8Sdbco\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:56:14.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:34 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/moLfcu2ivUs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/moLfcu2ivUs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/moLfcu2ivUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/moLfcu2ivUs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/moLfcu2ivUs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "moLfcu2ivUs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "moLfcu2ivUs",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/AGhupqCsDPm-OC97NGMG4QOkGFc\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:56:21.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:35 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gZdHbXibPkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gZdHbXibPkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gZdHbXibPkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gZdHbXibPkU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gZdHbXibPkU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gZdHbXibPkU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "gZdHbXibPkU",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/D-G6D5Ef4aYUL4NnYmiz1PDxDnw\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:56:27.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:36 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PTinuDnvk3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PTinuDnvk3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PTinuDnvk3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PTinuDnvk3Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PTinuDnvk3Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PTinuDnvk3Y"
+        }
+      },
+      "contentDetails": {
+        "videoId": "PTinuDnvk3Y",
+        "videoPublishedAt": "2018-07-01T10:40:09.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/vUhNJN9Dy6u76dqVMNrCQViT49Y\"",
+      "id": "UEx6aTQ5Slh1YkR5SVduZHdvTEZMRWpqRVVUb1JZeDB2dy40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2018-07-01T10:56:35.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 19:37 in Ancient Hebrew",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HtFRHe06sz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HtFRHe06sz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HtFRHe06sz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HtFRHe06sz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HtFRHe06sz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIWndwoLFLEjjEUToRYx0vw",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HtFRHe06sz0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HtFRHe06sz0",
+        "videoPublishedAt": "2018-07-01T10:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/HGKXUL6dZBl8TOu7fZQr0eLcA-s\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:01:46.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:1 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o5isqR45WbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o5isqR45WbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o5isqR45WbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o5isqR45WbA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o5isqR45WbA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o5isqR45WbA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "o5isqR45WbA",
+        "videoPublishedAt": "2018-07-01T22:32:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/UZ3JGy_MgZ_pCx5hFssNVjb5Z9s\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:01:54.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:2 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TjXNu-PbRFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TjXNu-PbRFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TjXNu-PbRFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TjXNu-PbRFs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TjXNu-PbRFs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TjXNu-PbRFs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TjXNu-PbRFs",
+        "videoPublishedAt": "2018-07-02T10:45:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/TQMgpCpP7dzmZFsOiSEoyYA-I9Q\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:02:21.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:3 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sDyhafIlWRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sDyhafIlWRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sDyhafIlWRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sDyhafIlWRc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sDyhafIlWRc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sDyhafIlWRc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sDyhafIlWRc",
+        "videoPublishedAt": "2018-07-02T10:45:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/tpSOtmqx29rpBtqyYKrYlpxY7hY\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:02:33.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:4 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8jrSlRiTPuI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8jrSlRiTPuI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8jrSlRiTPuI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8jrSlRiTPuI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8jrSlRiTPuI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8jrSlRiTPuI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8jrSlRiTPuI",
+        "videoPublishedAt": "2018-07-02T10:45:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/RJNwgRDqIbCYJ-rV0-DDnIG04EA\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:02:52.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:5 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/My0PhHO0iG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/My0PhHO0iG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/My0PhHO0iG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/My0PhHO0iG8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/My0PhHO0iG8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "My0PhHO0iG8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "My0PhHO0iG8",
+        "videoPublishedAt": "2018-07-02T10:45:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/gU2-92V9FgWxg7KxefpbEwIcbBQ\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:03:10.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:6 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_xiQ3V4R7tk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_xiQ3V4R7tk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_xiQ3V4R7tk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_xiQ3V4R7tk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_xiQ3V4R7tk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_xiQ3V4R7tk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_xiQ3V4R7tk",
+        "videoPublishedAt": "2018-07-02T10:45:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/rJ8QmGpd_XIbIj1CORp--t5xXgQ\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:03:21.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:7 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ulUXTzi64TI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ulUXTzi64TI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ulUXTzi64TI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ulUXTzi64TI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ulUXTzi64TI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ulUXTzi64TI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ulUXTzi64TI",
+        "videoPublishedAt": "2018-07-02T10:45:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Gq1A51oqeFw-b4sx7t7-NxOInDw\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:03:30.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:8 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vzGkQhGHSrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vzGkQhGHSrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vzGkQhGHSrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vzGkQhGHSrU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vzGkQhGHSrU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vzGkQhGHSrU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vzGkQhGHSrU",
+        "videoPublishedAt": "2018-07-01T22:32:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/A-ryGtMNTcBs4dTPeRbvYJa6sJg\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:03:44.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:9 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vewbs6CMxRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vewbs6CMxRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vewbs6CMxRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vewbs6CMxRg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vewbs6CMxRg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Vewbs6CMxRg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Vewbs6CMxRg",
+        "videoPublishedAt": "2018-07-01T22:32:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/DtgViohqgxLhIKHeRr9jXCyHMR0\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:04:00.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:10 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dfe5Jrw_LFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dfe5Jrw_LFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dfe5Jrw_LFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dfe5Jrw_LFw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dfe5Jrw_LFw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dfe5Jrw_LFw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dfe5Jrw_LFw",
+        "videoPublishedAt": "2018-07-01T22:32:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/SOqi8kiJvPInNYqzIdQ68V_cWo8\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:04:12.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:11 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LiHA2wg9YO4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LiHA2wg9YO4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LiHA2wg9YO4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LiHA2wg9YO4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LiHA2wg9YO4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LiHA2wg9YO4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LiHA2wg9YO4",
+        "videoPublishedAt": "2018-07-02T10:48:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/-37UmYfL95oE-qLIuZ1-nG3u2FI\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:04:24.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:12 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7_wZGK-6iX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7_wZGK-6iX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7_wZGK-6iX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7_wZGK-6iX0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7_wZGK-6iX0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7_wZGK-6iX0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7_wZGK-6iX0",
+        "videoPublishedAt": "2018-07-02T10:53:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/nOC2UyQUrvyhgeEcL5ddccfAz8g\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:04:39.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:13 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M7GNR2vSxYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M7GNR2vSxYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M7GNR2vSxYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M7GNR2vSxYM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M7GNR2vSxYM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M7GNR2vSxYM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "M7GNR2vSxYM",
+        "videoPublishedAt": "2018-07-02T10:48:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Z5H7s0xmBvLolkoD1pn01cdSLfY\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:04:52.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:14 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kaKxKwmBojg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kaKxKwmBojg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kaKxKwmBojg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kaKxKwmBojg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kaKxKwmBojg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kaKxKwmBojg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kaKxKwmBojg",
+        "videoPublishedAt": "2018-07-02T10:48:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/hNbCCmbKdfzjFcFV8OBnRu3Rte4\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:05:02.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:15 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NH-J3Bo6i7k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NH-J3Bo6i7k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NH-J3Bo6i7k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NH-J3Bo6i7k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NH-J3Bo6i7k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NH-J3Bo6i7k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NH-J3Bo6i7k",
+        "videoPublishedAt": "2018-07-02T10:53:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/fqcZ4ZDy3Y5zXV0gDoeTtDVWhbo\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:05:18.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:16 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oIdPxvT-vmc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oIdPxvT-vmc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oIdPxvT-vmc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oIdPxvT-vmc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oIdPxvT-vmc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oIdPxvT-vmc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "oIdPxvT-vmc",
+        "videoPublishedAt": "2018-07-02T10:48:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/1c4-sUrE62pTDHgU7eUWcdKw67c\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:05:35.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:17 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jqq73DXCsUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jqq73DXCsUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jqq73DXCsUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jqq73DXCsUw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jqq73DXCsUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Jqq73DXCsUw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Jqq73DXCsUw",
+        "videoPublishedAt": "2018-07-02T10:48:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/xcDVEylYGHYOeeuD-8ywaLHYiTM\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:05:44.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:18 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NYka1bSN0CQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NYka1bSN0CQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NYka1bSN0CQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NYka1bSN0CQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NYka1bSN0CQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NYka1bSN0CQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NYka1bSN0CQ",
+        "videoPublishedAt": "2018-07-02T10:56:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/EJhp9JOwWdPKapVEn7HD8i-C_jM\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:05:56.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:19 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Djf9pvtoqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Djf9pvtoqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Djf9pvtoqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3Djf9pvtoqE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3Djf9pvtoqE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3Djf9pvtoqE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3Djf9pvtoqE",
+        "videoPublishedAt": "2018-07-02T10:48:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/PlrK-0kdhPjeTlQmZ99yuHlDVoM\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:06:10.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:20 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8I9BGfqzca0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8I9BGfqzca0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8I9BGfqzca0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8I9BGfqzca0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8I9BGfqzca0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8I9BGfqzca0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8I9BGfqzca0",
+        "videoPublishedAt": "2018-07-02T10:48:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/G7PgM5t2nncCvf-yplkYwvqqYUY\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:06:19.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:21 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4KmndPLJgNc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4KmndPLJgNc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4KmndPLJgNc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4KmndPLJgNc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4KmndPLJgNc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4KmndPLJgNc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4KmndPLJgNc",
+        "videoPublishedAt": "2018-07-02T10:53:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/lSW_Oxz_E5zSye5GLrir5bg_w10\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:06:26.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:22 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iyY1xl57Tlk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iyY1xl57Tlk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iyY1xl57Tlk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iyY1xl57Tlk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iyY1xl57Tlk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iyY1xl57Tlk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "iyY1xl57Tlk",
+        "videoPublishedAt": "2018-07-02T10:53:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/euPwceHgk5ABx9z3AVzCT8PSk5M\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:06:39.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:23 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_ywfKC3io_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_ywfKC3io_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ywfKC3io_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_ywfKC3io_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_ywfKC3io_E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_ywfKC3io_E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_ywfKC3io_E",
+        "videoPublishedAt": "2018-07-02T10:55:09.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Gc2dR7YY30U8hxvXFCK8wKzKcqU\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:06:51.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:24 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1N6ALdTuquQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1N6ALdTuquQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1N6ALdTuquQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1N6ALdTuquQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1N6ALdTuquQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1N6ALdTuquQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1N6ALdTuquQ",
+        "videoPublishedAt": "2018-07-02T10:53:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/gA3TTlrw2jehC_qeOLoFIAQVWNY\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:07:09.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:25 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kDEPBhb_QN8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kDEPBhb_QN8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kDEPBhb_QN8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kDEPBhb_QN8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kDEPBhb_QN8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kDEPBhb_QN8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kDEPBhb_QN8",
+        "videoPublishedAt": "2018-07-02T10:55:52.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/_ERwkT6rRqNYtP3gOr3-Cf1MXEM\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:07:41.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:26 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sbNrOLryzDM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sbNrOLryzDM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sbNrOLryzDM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sbNrOLryzDM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sbNrOLryzDM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sbNrOLryzDM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sbNrOLryzDM",
+        "videoPublishedAt": "2018-07-02T10:48:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ABilbpb9nwN0ZYuuOQiRLMQdDUs\"",
+      "id": "UEx6aTQ5Slh1YkR5SVBtUHN2RGRsem5rNlh2SkNGZGsxSy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2018-07-02T11:07:56.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 20:27 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nIZBuL_IOF8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nIZBuL_IOF8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nIZBuL_IOF8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nIZBuL_IOF8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nIZBuL_IOF8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIPmPsvDdlznk6XvJCFdk1K",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nIZBuL_IOF8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nIZBuL_IOF8",
+        "videoPublishedAt": "2018-07-02T10:48:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/AATpOseIBd9zlvjhdHJQcjO8jLk\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:41:49.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:1 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CDmcL4VFv8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CDmcL4VFv8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CDmcL4VFv8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CDmcL4VFv8w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CDmcL4VFv8w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CDmcL4VFv8w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CDmcL4VFv8w",
+        "videoPublishedAt": "2018-07-02T21:33:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/wNowzdv_u7AkVsxBLoe7oUAfiEE\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:41:57.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:2 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mollyetQJ40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mollyetQJ40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mollyetQJ40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mollyetQJ40/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mollyetQJ40/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mollyetQJ40"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mollyetQJ40",
+        "videoPublishedAt": "2018-07-02T21:33:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/5navUsIsuKh9z_a6TDdUfgnf794\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:42:08.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:3 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-wDS6A4l1Ss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-wDS6A4l1Ss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-wDS6A4l1Ss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-wDS6A4l1Ss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-wDS6A4l1Ss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-wDS6A4l1Ss"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-wDS6A4l1Ss",
+        "videoPublishedAt": "2018-07-02T21:33:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/753TmM-kuOpv-fhdtwu6eBVrFps\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:42:16.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:4 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rE10k26KIQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rE10k26KIQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rE10k26KIQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rE10k26KIQI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rE10k26KIQI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rE10k26KIQI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rE10k26KIQI",
+        "videoPublishedAt": "2018-07-02T21:33:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/1Fp2fdHlcwV3ZptaB2RNiIMFauw\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:42:23.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:5 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GrObGUIlO5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GrObGUIlO5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GrObGUIlO5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GrObGUIlO5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GrObGUIlO5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GrObGUIlO5k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "GrObGUIlO5k",
+        "videoPublishedAt": "2018-07-02T21:33:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/EHj8359O9--6nuVsmue1sGWddFo\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:42:34.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:6 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZGYIBLQ68FM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZGYIBLQ68FM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZGYIBLQ68FM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZGYIBLQ68FM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZGYIBLQ68FM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZGYIBLQ68FM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ZGYIBLQ68FM",
+        "videoPublishedAt": "2018-07-02T21:33:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/i8e2Q_7mznnAXGmh9Dq-ZGquEC4\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:42:51.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:7 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kR0wkWRW0vE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kR0wkWRW0vE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kR0wkWRW0vE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kR0wkWRW0vE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kR0wkWRW0vE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kR0wkWRW0vE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kR0wkWRW0vE",
+        "videoPublishedAt": "2018-07-02T21:33:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Lu_1T6nAWLWr0_4QxhLk8zw0zss\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:42:58.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:8 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7LrT_PPqGtI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7LrT_PPqGtI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7LrT_PPqGtI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7LrT_PPqGtI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7LrT_PPqGtI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7LrT_PPqGtI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7LrT_PPqGtI",
+        "videoPublishedAt": "2018-07-02T21:33:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/wJZO5h-Ejh72bLiYMbARn9N5Hpw\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:43:08.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:9 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Zkfwkrz7bo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Zkfwkrz7bo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Zkfwkrz7bo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Zkfwkrz7bo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Zkfwkrz7bo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8Zkfwkrz7bo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8Zkfwkrz7bo",
+        "videoPublishedAt": "2018-07-02T21:33:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/hEzJ2lWzSt-cSoHiG-Vaidjb1h8\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:43:37.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:10 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ljT0wa4LZoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ljT0wa4LZoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ljT0wa4LZoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ljT0wa4LZoc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ljT0wa4LZoc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ljT0wa4LZoc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ljT0wa4LZoc",
+        "videoPublishedAt": "2018-07-02T21:33:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/IIcs79MrPHy2gHCPhCxjvNpaWpI\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:43:53.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:11 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iJ82kA9hXSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iJ82kA9hXSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iJ82kA9hXSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iJ82kA9hXSs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iJ82kA9hXSs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iJ82kA9hXSs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "iJ82kA9hXSs",
+        "videoPublishedAt": "2018-07-02T21:33:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/pZXs0dedpRCLW95cHwZNvfjNgKk\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:44:00.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:12 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m9lOSUI3XQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m9lOSUI3XQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m9lOSUI3XQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m9lOSUI3XQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m9lOSUI3XQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m9lOSUI3XQU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "m9lOSUI3XQU",
+        "videoPublishedAt": "2018-07-02T21:33:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/KRY3WIrFuzL6hBtV4BxcOoR4KZc\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:44:14.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:13 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ThXRNC-wrpQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ThXRNC-wrpQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ThXRNC-wrpQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ThXRNC-wrpQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ThXRNC-wrpQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ThXRNC-wrpQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ThXRNC-wrpQ",
+        "videoPublishedAt": "2018-07-02T21:36:56.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/g5DFuNSmU7ytoBFpuOd3dVuXESU\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:44:20.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:14 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ROP-nR8UWQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ROP-nR8UWQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ROP-nR8UWQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ROP-nR8UWQk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ROP-nR8UWQk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ROP-nR8UWQk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ROP-nR8UWQk",
+        "videoPublishedAt": "2018-07-02T21:36:55.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/4dBWRmFdtbt7U-U58CDGaMAjwAs\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:44:30.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:15 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SoWe41EMTEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SoWe41EMTEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SoWe41EMTEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SoWe41EMTEo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SoWe41EMTEo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SoWe41EMTEo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SoWe41EMTEo",
+        "videoPublishedAt": "2018-07-02T21:36:56.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/LOckXkbQN7xtXa-1iQ1woGd4J9I\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:44:37.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:16 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N7lDvLKEmA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N7lDvLKEmA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N7lDvLKEmA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N7lDvLKEmA4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N7lDvLKEmA4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N7lDvLKEmA4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "N7lDvLKEmA4",
+        "videoPublishedAt": "2018-07-02T21:36:55.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/hX6Z8EPRfMIZ17_7HZdBml_q56I\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:47:39.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:17 in Ancient Hebrew Medium",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HjQW8Z2dC5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HjQW8Z2dC5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HjQW8Z2dC5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HjQW8Z2dC5g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HjQW8Z2dC5g",
+        "videoPublishedAt": "2018-07-02T21:47:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/PiJCYhS9cI3FrCv18VNqkdzZZDk\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:47:52.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:18 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PCU-oAqU8OQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PCU-oAqU8OQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PCU-oAqU8OQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PCU-oAqU8OQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PCU-oAqU8OQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PCU-oAqU8OQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "PCU-oAqU8OQ",
+        "videoPublishedAt": "2018-07-02T21:36:55.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/QIz0zogGhKLWMnkhvbqJQUzmbAg\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:48:02.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:19 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ys-EfFJ7pWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ys-EfFJ7pWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ys-EfFJ7pWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ys-EfFJ7pWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ys-EfFJ7pWo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ys-EfFJ7pWo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Ys-EfFJ7pWo",
+        "videoPublishedAt": "2018-07-02T21:36:56.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/el8nvjnbvPYZyiHom_0ypVr9SeQ\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:48:09.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:20 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VPrJK4XUP0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VPrJK4XUP0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VPrJK4XUP0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VPrJK4XUP0g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VPrJK4XUP0g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VPrJK4XUP0g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VPrJK4XUP0g",
+        "videoPublishedAt": "2018-07-02T21:35:28.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/eXwwo06EyKFeWJHBH6vszJr3eeQ\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:48:18.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:21 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K2KR3LTYogM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K2KR3LTYogM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K2KR3LTYogM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K2KR3LTYogM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K2KR3LTYogM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K2KR3LTYogM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "K2KR3LTYogM",
+        "videoPublishedAt": "2018-07-02T21:35:28.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/8H8DICGJvwb1yP2GjOzVB-Nt1Nw\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:48:34.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:22 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oZOXgqhhjL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oZOXgqhhjL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oZOXgqhhjL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oZOXgqhhjL0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oZOXgqhhjL0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oZOXgqhhjL0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "oZOXgqhhjL0",
+        "videoPublishedAt": "2018-07-02T21:36:55.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/f73D_SxNUap5zW9v_bVGiEmp8ww\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:48:42.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:23 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LpNh5WyLXPg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LpNh5WyLXPg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LpNh5WyLXPg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LpNh5WyLXPg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LpNh5WyLXPg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LpNh5WyLXPg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LpNh5WyLXPg",
+        "videoPublishedAt": "2018-07-02T21:36:56.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/VzPzdaCzwenFPyuQqSXw-VggY1E\"",
+      "id": "UEx6aTQ5Slh1YkR5SUNzQjdBQ0dCZFdOSFdGMlBHVU95WS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2018-07-02T21:48:52.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Leviticus 21:24 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j23S-dbrup0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j23S-dbrup0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j23S-dbrup0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j23S-dbrup0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j23S-dbrup0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyICsB7ACGBdWNHWF2PGUOyY",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j23S-dbrup0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "j23S-dbrup0",
+        "videoPublishedAt": "2018-07-02T21:35:28.000Z"
+      }
     }
   ]
 }

@@ -24,7 +24,7 @@ function DetermineVerbPGN($verb, $strong, $verb_actual) {
 //echo $verb.'<br>'.$verb_root.'<br>'.$strong.'<br>';
 
 	//determine verb type
-	if ($firstletter == 'ה' && $secondletter == 'י' && $thirdletter == 'ה') {
+	if (($firstletter == 'ה' || $firstletter == 'ח') && $secondletter == 'י' && $thirdletter == 'ה') {
 		$verb_type = 'Special<br>Haya';	
 	} elseif ($secondletter == $thirdletter) {
 		$verb_type = 'Weak<br>Geminate';	
@@ -100,6 +100,12 @@ function DetermineVerbPGN($verb, $strong, $verb_actual) {
 	$fourthvowel_a = mb_substr($verb_actual_word,4,1,'UTF-8');
 	$fifthvowel_a = mb_substr($verb_actual_word,5,1,'UTF-8');
 
+	$firstvowel_l = mb_substr($verb_actual_word,-1,1,'UTF-8');
+	$secondvowel_l = mb_substr($verb_actual_word,-2,1,'UTF-8');
+	$thirdvowel_l = mb_substr($verb_actual_word,-3,1,'UTF-8');
+	$fourthvowel_l = mb_substr($verb_actual_word,-4,1,'UTF-8');
+	$fifthvowel_l = mb_substr($verb_actual_word,-5,1,'UTF-8');
+
 //echo $verb_actual_word.'<br>'.$verb_pre.'<br>';
 
 	//determine verb tense
@@ -115,7 +121,9 @@ function DetermineVerbPGN($verb, $strong, $verb_actual) {
 			$verb_tense = 'Qal/Inf Cs';
 		}
 	} elseif ($verb_pre == 'לֵ' || $verb_pre == 'לְ') {
-			$verb_tense = 'Qal/Inf Abs';
+		$verb_tense = 'Qal/Inf Abs';
+	} elseif ($verb_pre == 'הָ') {
+		$verb_tense = 'Qal/Act Part';
 	}
 
 	//-----------------------------------------------Strong verbs------------------------------------------------------
@@ -158,6 +166,9 @@ function DetermineVerbPGN($verb, $strong, $verb_actual) {
 		} elseif ($firstletter_a == 'ת' || $firstletter_a == 'י' || $firstletter_a == 'א' || $firstletter_a == 'נ') {
 			if ($firstvowel_a == 'ַ' || ($firstvowel_a == 'ּ' && $secondvowel_a == 'ַ')) {
 				$verb_tense = 'Hiphil/Imperfect';
+			} elseif ($firstletter_a == 'נ' && $firstvowel_a == 'ִ' && $thirdvowel_a == 'ְ' && ($fifthvowel_a == 'ְ' || $fourthvowel_l == 'ְ')) {
+				$verb_tense = 'Qal/Cohortative';
+				$verb_pgn = 'p';				
 			} elseif ($firstvowel_a == 'ָ') {
 				$verb_tense = 'Hophal/Imperfect';
 			} elseif ($firstvowel_a == 'ְ' && $thirdvowel_a == 'ַ') {
@@ -313,6 +324,9 @@ function DetermineVerbPGN($verb, $strong, $verb_actual) {
 		} elseif ($firstletter_a == 'ת' || $firstletter_a == 'י' || $firstletter_a == 'א' || $firstletter_a == 'נ') {
 			if ($firstvowel_a == 'ְ' && $thirdvowel_a == 'ָ') {
 				$verb_tense = 'Piel/Imperfect';
+			} elseif ($firstletter_a == 'נ' && $firstvowel_a == 'ִ' && $thirdvowel_a == 'ְ' && ($fifthvowel_a == 'ְ' || $fourthvowel_l == 'ְ')) {
+				$verb_tense = 'Qal/Cohortative';
+				$verb_pgn = 'p';	
 			} elseif (($firstvowel_a == 'ְ' && $thirdvowel_a == 'ֹ') || ($secondvowel_a == 'ְ' && $fourthvowel_a == 'ֹ') || ($firstletter == 'א' && $firstvowel_a = 'ֶ' && $thirdvowel_a == 'ֲ')) {
 				$verb_tense = 'Pual/Imperfect';
 			} elseif ($firstletter_a == 'נ') {
@@ -616,6 +630,24 @@ function DetermineVerbPGN($verb, $strong, $verb_actual) {
 		}
 	}
 
+//----------------------------------------------Special Haya verb----------------------------------------------------
+	elseif ($verb_type == 'Special<br>Haya') {
+
+		if ($verb_actual_word == 'יְהִי') {
+			$verb_tense = 'Jussive/Qal/Imperfect';
+		}
+
+		//verb has no prefix
+		elseif (($firstletter == $firstletter_a) && ($firstletter_a <> $thirdvowel_a)) {
+			$verb_tense = 'Qal/Perfect';
+
+		//verb has prefix
+		} elseif ($firstletter_a == 'ת' || $firstletter_a == 'י' || $firstletter_a == 'א' || $firstletter_a == 'נ') {
+				$verb_tense = 'Qal/Imperfect';
+			}
+	}
+
+
 	//---------------------------------------------------III-He verbs------------------------------------------------
 	elseif ($verb_type == 'Weak<br>III-He') {
 		//verb has no prefix
@@ -636,7 +668,7 @@ function DetermineVerbPGN($verb, $strong, $verb_actual) {
 				if ($thirdvowel_a == 'ּ') {
 					$verb_tense = 'Piel/Perfect';
 				}
-			} elseif ($firstvowel_a == 'ְ' || ($firstvowel_a == 'ּ' && $secondvowel_a == 'ְ')) {
+			} elseif (($firstvowel_a == 'ְ' || ($firstvowel_a == 'ּ' && $secondvowel_a == 'ְ')) && ($thirdvowel_l <> 'ת' && $firstvowel_l <> 'י')) {
 				$verb_tense = 'Qal/Imperative';
 			} elseif (($firstvowel_a == 'ֹ') || ($firstvowel_a == 'ּ' && $secondvowel_a == 'ֹ') || ($firstvowel_a == 'ו'  && $secondvowel_a == 'ֹ') || ($firstvowel_a == 'ּ' && $secondvowel_a == 'ו'  && $thirdvowel_a == 'ֹ')) {
 				$verb_tense = 'Qal/Act Part';
@@ -649,13 +681,15 @@ function DetermineVerbPGN($verb, $strong, $verb_actual) {
 			} elseif ($secondvowel_a == 'ֹ') {
 				$verb_tense = 'Qal/Inf Abs';
 			} else {
-				$verb_tense = '';
+				$verb_tense = 'Qal/Perfect';
 			}
 
 		//verb has prefix
 		} elseif ($firstletter_a == 'ת' || $firstletter_a == 'י' || $firstletter_a == 'א' || $firstletter_a == 'נ') {
 			if ($firstvowel_a == 'ַ' || ($firstvowel_a == 'ּ' && $secondvowel_a == 'ַ')) {
 				$verb_tense = 'Hiphil/Imperfect';
+			} elseif ($firstletter_a == 'נ' && $firstvowel_a == 'ִ' && $thirdvowel_a == 'ְ' & $fifthvowel_a == 'ֶ') {
+				$verb_tense = 'Qal/Imperfect';				
 			} elseif ($firstvowel_a == 'ָ') {
 				$verb_tense = 'Hophal/Imperfect';
 			} elseif ($firstvowel_a == 'ְ' && $thirdvowel_a == 'ַ') {
@@ -704,93 +738,6 @@ function DetermineVerbPGN($verb, $strong, $verb_actual) {
 		}
 	}
 
-//----------------------------------------------Special Haya verb----------------------------------------------------
-	elseif ($verb_type == 'Special<br>Haya') {
-		//verb has no prefix
-		if (($firstletter == $firstletter_a) && ($firstletter_a <> $thirdvowel_a)) {
-			if ($firstvowel_a == 'ָ' || ($firstvowel_a == 'ּ' && $secondvowel_a == 'ָ') || $firstvowel_a == 'ֲ') {
-				if ($thirdvowel_a == 'ו'  && $fourthvowel_a == 'ּ') {
-					$verb_tense = 'Qal/Pass Part';
-				} elseif (($thirdvowel_a == 'ֹ') || ($thirdvowel_a == 'ו'  && $fourthvowel_a == 'ֹ')) {
-					$verb_tense = 'Qal/Inf Abs';
-				} else {
-					$verb_tense = 'Qal/Perfect';
-				}
-			} elseif ($firstvowel_a == 'ַ') {
-				$verb_tense = 'Piel/Imperative';
-			} elseif ($firstvowel_a == 'ִ') {
-				if ($thirdvowel_a == 'ּ') {
-					$verb_tense = 'Qal/Imperative';
-				} else {
-					$verb_tense = 'Piel/Perfect';
-				}
-			} elseif ($firstvowel_a == 'ְ' || ($firstvowel_a == 'ּ' && $secondvowel_a == 'ְ')) {
-				$verb_tense = 'Qal/Imperative';
-			} elseif (($firstvowel_a == 'ֹ') || ($firstvowel_a == 'ּ' && $secondvowel_a == 'ֹ') || ($firstvowel_a == 'ו'  && $secondvowel_a == 'ֹ') || ($firstvowel_a == 'ּ' && $secondvowel_a == 'ו'  && $thirdvowel_a == 'ֹ')) {
-				$verb_tense = 'Qal/Act Part';
-			} elseif ($firstvowel_a == 'ֻ') {
-				if ($thirdvowel_a == 'ּ' && $fourthvowel_a == 'ֹ') {
-					$verb_tense = 'Pual/Inf Abs';
-				} else {
-					$verb_tense = 'Pual/Perfect';
-				}
-			} elseif ($secondvowel_a == 'ֹ') {
-				$verb_tense = 'Qal/Inf Abs';
-			} else {
-				$verb_tense = '';
-			}
-
-		//verb has prefix
-		} elseif ($firstletter_a == 'ת' || $firstletter_a == 'י' || $firstletter_a == 'א' || $firstletter_a == 'נ') {
-			if ($firstvowel_a == 'ַ' || ($firstvowel_a == 'ּ' && $secondvowel_a == 'ַ')) {
-				$verb_tense = 'Hiphil/Imperfect';
-			} elseif ($firstvowel_a == 'ָ') {
-				$verb_tense = 'Hophal/Imperfect';
-			} elseif ($firstvowel_a == 'ְ' && $thirdvowel_a == 'ַ') {
-				$verb_tense = 'Piel/Imperfect';
-			} elseif ($firstvowel_a == 'ְ' && $thirdvowel_a == 'ֻ') {
-				$verb_tense = 'Pual/Imperfect';
-			} elseif ($firstvowel_a == 'ִ' && $thirdvowel_a == 'ּ' && $fourthvowel_a == 'ָ') {
-				$verb_tense = 'Niphal/Imperfect';
-			} elseif ($firstletter_a == 'נ' && ($fifthvowel_a == 'ַ' || $fifthvowel_a == 'ְ')) {
-				$verb_tense = 'Niphal/Perfect';
-			} elseif ($firstletter_a == 'נ' && $fifthvowel_a == 'ָ') {
-				$verb_tense = 'Niphal/Part';
-			} elseif ($firstletter_a == 'נ' && ($fifthvowel_a == 'ֹ' || ($fifthvowel_a == 'ו'))) {
-				$verb_tense = 'Niphal/Inf';
-			} else {
-				$verb_tense = 'Qal/Imperfect';
-			}
-		} elseif ($firstletter_a == 'מ') {
-			if ($firstvowel_a == 'ַ') {
-				$verb_tense = 'Hiphil/Part';
-			} elseif ($firstvowel_a == 'ָ') {
-				$verb_tense = 'Hophal/Part';
-			} elseif ($firstvowel_a == 'ְ' && $thirdvowel_a == 'ַ') {
-				$verb_tense = 'Piel/Part';
-			} elseif ($firstvowel_a == 'ְ' && $thirdvowel_a == 'ֻ') {
-				$verb_tense = 'Pual/Part';
-			} elseif ($firstvowel_a == 'ִ' && $secondvowel_a == 'ת' && $thirdvowel_a == 'ְ') {
-				$verb_tense = 'Hithpael/Part';
-			} else {
-				$verb_tense = 'Participle';
-			}
-		} elseif ($firstletter_a == 'ה') {
-			if ($firstvowel_a == 'ַ') {
-				$verb_tense = 'Hiphil/Imperative';
-			} elseif ($firstvowel_a == 'ִ' && $thirdvowel_a == 'ּ' && $fourthvowel_a == 'ָ') {
-				$verb_tense = 'Niphal/Imperative';				
-			} elseif ($firstvowel_a == 'ִ' && $thirdvowel_a == 'ְ') {
-				$verb_tense = 'Hiphil/Perf';				
-			} elseif ($firstvowel_a == 'ָ') {
-				$verb_tense = 'Hophal/Perf/Inf';				
-			} elseif ($firstvowel_a == 'ִ' && $secondvowel_a == 'ת' && $thirdvowel_a == 'ְ') {
-				$verb_tense = 'Hithpael/Perf/Imperative/Inf';				
-			} else {
-				$verb_tense = 'Perf/Imperative/Inf';
-			}
-		}
-	}
 
 	//-------------------------------------------Hollow verbs------------------------------------------------
 	elseif ($verb_type == 'Weak<br>Hollow') {
@@ -842,15 +789,15 @@ function DetermineVerbPGN($verb, $strong, $verb_actual) {
 		} elseif ($firstletter_a == 'ת' || $firstletter_a == 'י' || $firstletter_a == 'א' || $firstletter_a == 'נ') {
 			if ($firstvowel_a == 'ַ' || ($firstvowel_a == 'ּ' && $secondvowel_a == 'ַ')) {
 				$verb_tense = 'Hiphil/Imperfect';
-			} elseif ($firstvowel_a == 'ָ') {
-				$verb_tense = 'Hophal/Imperfect';
+			} elseif ($firstletter_a == 'נ' && $firstvowel_a == 'ָ' && $thirdvowel_a == 'ו' && $fourthvowel_a == 'ּ') {
+				$verb_tense = 'Qal/Imperfect';
 			} elseif ($firstvowel_a == 'ְ' && $thirdvowel_a == 'ַ') {
 				$verb_tense = 'Piel/Imperfect';
 			} elseif ($firstvowel_a == 'ְ' && $thirdvowel_a == 'ֻ') {
 				$verb_tense = 'Pual/Imperfect';
 			} elseif ($firstvowel_a == 'ִ' && $thirdvowel_a == 'ּ' && $fourthvowel_a == 'ָ') {
 				$verb_tense = 'Niphal/Imperfect';
-			} elseif ($firstletter_a == 'נ' && ($fifthvowel_a == 'ַ' || $fifthvowel_a == 'ְ')) {
+			} elseif ($firstletter_a == 'נ' && ($firstvowel_a == 'ָ' || $firstvowel_a == 'ְ')) {
 				$verb_tense = 'Niphal/Perfect';
 			} elseif ($firstletter_a == 'נ' && $fifthvowel_a == 'ָ') {
 				$verb_tense = 'Niphal/Part';
@@ -980,12 +927,6 @@ function DetermineVerbPGN($verb, $strong, $verb_actual) {
 		}
 	}
 
-	$firstvowel_l = mb_substr($verb_actual_word,-1,1,'UTF-8');
-	$secondvowel_l = mb_substr($verb_actual_word,-2,1,'UTF-8');
-	$thirdvowel_l = mb_substr($verb_actual_word,-3,1,'UTF-8');
-	$fourthvowel_l = mb_substr($verb_actual_word,-4,1,'UTF-8');
-	$fifthvowel_l = mb_substr($verb_actual_word,-5,1,'UTF-8');
-
 	//-------------------------------------determine Person/Gender/Number--------------------------------------------
 	if (substr_count($verb_tense, 'Part') > 0) {
 
@@ -1014,7 +955,7 @@ function DetermineVerbPGN($verb, $strong, $verb_actual) {
 				$verb_pgn = '1.c.p';	
 			} elseif ($firstvowel_l == 'ּ' && $secondvowel_l == 'ו') {
 				$verb_pgn = '3.c.p';	
-			} elseif ($firstvowel_l == 'י') {
+			} elseif ($firstvowel_l == 'י' && $thirdletter <> 'י') {
 				$verb_pgn = '1.c.s';	
 			} elseif ($firstvowel_l == 'ָ' && $secondvowel_l == 'ת') {
 				$verb_pgn = '2.m.s';	
@@ -1028,13 +969,13 @@ function DetermineVerbPGN($verb, $strong, $verb_actual) {
 				$verb_pgn = '2.m.p';
 			} elseif ($firstvowel_l == 'ן' && $secondvowel_l == 'ֶ' && $thirdvowel_l == 'ּ' && $fourthvowel_l == 'ת') {
 				$verb_pgn = '2.f.p';
-			} elseif ($firstvowel_l == 'ה') {
+			} elseif ($firstvowel_l == 'ה' && $verb_root <> 'היה') {
 				$verb_pgn = '3.f.s';			
 			} elseif ($firstvowel_l == 'ּ' && $secondvowel_l == 'ו' && $thirdvowel_l == 'נ') {
 				$verb_pgn = '1.c.p';	
 			} elseif ($firstvowel_l == 'ּ' && $secondvowel_l == 'ו') {
 				$verb_pgn = '3.c.p';	
-			} elseif ($firstvowel_l == 'י') {
+			} elseif ($firstvowel_l == 'י' && $thirdletter <> 'י' && $verb_type <> 'Special<br>Haya') {
 				$verb_pgn = '1.c.s';	
 			} elseif ($firstvowel_l == 'ָ' && $secondvowel_l == 'ּ' && $thirdvowel_l == 'ת') {
 				$verb_pgn = '2.m.s';	
@@ -1081,8 +1022,9 @@ function DetermineVerbPGN($verb, $strong, $verb_actual) {
 			$verb_pgn = '2.m.s';
 		}
 
-	} else {
-		$verb_pgn = '';
+	} elseif (substr_count($verb_tense, 'Jussive') > 0) {
+		$verb_pgn = '3.p';
+
 	}
 
 	//final output
