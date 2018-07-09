@@ -30,7 +30,9 @@
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='1Sam.23.29']");
 		} elseif ($book =='1Sam' && $chapter == '21' && $verse == '1') {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='1Sam.20.43']");
-		} elseif (($book =='Gen' && $chapter == '32') || ($book =='Num' && $chapter == '30') || ($book =='Deut' && $chapter == '13') || ($book =='Deut' && $chapter == '23') || ($book =='1Sam' && $chapter == '21')  || ($book =='1Sam' && $chapter == '24')) {
+		} elseif ($book =='2Sam' && $chapter == '19' && $verse == '1') {
+			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='2Sam.18.33']");
+		} elseif (($book =='Gen' && $chapter == '32') || ($book =='Num' && $chapter == '30') || ($book =='Deut' && $chapter == '13') || ($book =='Deut' && $chapter == '23') || ($book =='1Sam' && $chapter == '21')  || ($book =='1Sam' && $chapter == '24') || ($book =='2Sam' && $chapter == '19')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse-1)."']");
 		} elseif (($book =='Exod' && $chapter == '22') || ($book =='Deut' && $chapter == '29')) {
 			$words = $xpath_en->query("//osisText/div/chapter/verse[@osisID='".$book.".".$chapter.".".($verse+1)."']");

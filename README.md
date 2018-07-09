@@ -3,9 +3,9 @@ Hebrew Bible Tanakh Ancient Hebrew Audio by Verse KJV Strong BDB Dictionary Anal
 
 Please check "Projects" tab to participate.
 
-Last update 05312018
+Last update 07092018
 
-For the database to work, you'll need to install INC/Database05212018.zip file on MySQL.
+For the database to work, you'll need to install INC/Database07092018.zip file on MySQL.
 
 Please visit and respect each of open source files and works mentioned on my website.
 
