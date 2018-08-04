@@ -19,8 +19,7 @@ This page is written in PHP and uses HMTL, jQUERY, CSS and Bootstrap to present 
 It presents Biblical Hebrew Vocabularies by reading it from the database I developed 
 by using Hebrew Tanach XML Files with lemma and Hebrew Strong XML file.
 
-The purpose is to make it easy to learn Biblical Hebrew Vocabularies by presenting words grouped by part of speech 
-and order it by the occurence frequency within that chapter of the book.
+The purpose is to make it easy to learn Biblical Hebrew Verb System and to enable root word search analysis.
 
 *Open Source Original Credits*
 *Hebrew Tanach XML Files : https://github.com/ancientlanguage/xml-tanach
@@ -28,7 +27,7 @@ and order it by the occurence frequency within that chapter of the book.
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : June 15, 2018
+Updated on : August 1, 2018
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
@@ -36,9 +35,18 @@ include 'INC/ConvertNumberToHebrewLetters.php';
 require_once 'INC/Database.php';
 
 $bible_content = '';
+$letter_options = "<option value=''>-</option>";
+$letters_heb = array('א','ב','ג', 'ד','ה', 'ו', 'ז','ח','ט', 'י','כ','ל','מ','נ','ס', 'ע','פ','צ','ק', 'ר','ש','ת','ך','ם','ף','ן','ץ');
+$letters_eng = array('Ah','Bt','Gl','Td','Hh','Vv','Zn','Ht','Tt','Yd','Cf','Ld','Mm','Nn','Sd','An','Ph','Zk','Kf','Rh','Sn','Tv','Cf','Mm','Ph','Nn','Zk');
+
+for ($i=0; $i < count($letters_heb); $i++) {
+
+	$letter_options .= "<option value='".$letters_eng[$i]."'>".$letters_heb[$i]."</option>";
+
+}
 
 //Get mosted used words from bible analysis database
-$query = "SELECT * FROM u955934022_bible.strong AS a WHERE a.POS = 'v'";
+$query = "SELECT * FROM u955934022_bible.strong AS a WHERE a.POS LIKE 'v%'";
 
 $mysql = get_database_connection();
 mysqli_set_charset($mysql,'utf8');
@@ -77,10 +85,26 @@ while($row = mysqli_fetch_assoc($result)) {
 	<link href="https://fonts.googleapis.com/css?family=Eagle+Lake" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="CSS/1-2/StudyResources.css"> <!-- my css -->
 	<script src="JS/1-2/StudyResources.js"></script> <!-- my jQuery -->
+	<script src="JS/1-2/BiblicalHebrewVerbSystem.js"></script> <!-- my jQuery -->
 </head>
 <body>
 
 <?php require 'INC/Nav.php'; ?>
+
+<div class="container-fluid" id="index">
+	<!-- Book, Chapter, Verse selection form on the right menu-->
+	<form class="form-inline">
+        <div class="form-group">
+        	<label for="dynamic_select_root_3">&nbsp;Root Letter Search&nbsp;</label>
+	        <select name="dynamic_select_root_3" class="form-control" id="dynamic_select_root_3"><?php echo $letter_options; ?></select>        
+	        <label for="dynamic_select_root_3">&nbsp;3&nbsp;</label>
+	        <select name="dynamic_select_root_2" class="form-control" id="dynamic_select_root_2"><?php echo $letter_options; ?></select>
+	        <label for="dynamic_select_root_2">&nbsp;2&nbsp;</label>     
+	        <select name="dynamic_select_root_1" class="form-control" id="dynamic_select_root_1"><?php echo $letter_options; ?></select>
+	        <label for="dynamic_select_root_1">&nbsp;1&nbsp;</label>
+        </div>
+    </form> 
+</div>
 
 <div class="container-fluid" id="header">
 	<h2 class="text-center">Biblical Hebrew Verb System</h2>
@@ -110,20 +134,20 @@ while($row = mysqli_fetch_assoc($result)) {
 
 							if ($poss[$t] == 'v') {
 								$d = str_replace(',', ', ', $defs[$t]);
-								echo '<tr>';
-								echo '<td><sup>'.rtrim($d,', ').'</sup></td>';
 
 								//Replace Cantillation
 								$verb_root = preg_replace('/[\x{0591}-\x{05C7}\x{05F0}-\x{05F5}]/u','',$words[$t]);
-								//Replace (Niqqud with Cantillation) with (just Niqqud)
-								//$from = "\u{05B1}\u{05B2}\u{05B3}";
-								//$to = "\u{05B6}\u{05B0}\u{05B8}";
-								//$verb_root = strtr($verb_root, $from, $to);
-								//05D, 05E are Hebrew Alphabets
 
 								$firstletter = mb_substr($verb_root,0,1);
 								$secondletter = mb_substr($verb_root,1,1);
 								$thirdletter= mb_substr($verb_root,2,3);
+
+								$firstletter_eng = $letters_eng[array_search($firstletter, $letters_heb)];
+								$secondletter_eng = $letters_eng[array_search($secondletter, $letters_heb)];
+								$thirdletter_eng= $letters_eng[array_search($thirdletter, $letters_heb)];
+
+								echo '<tr id="root'.$firstletter_eng.$secondletter_eng.$thirdletter_eng.'">';
+								echo '<td><sup>'.rtrim($d,', ').'</sup></td>';
 
 								if ($firstletter == 'א') {
 									$verb_type = 'Weak<br>I-Aleph';	
