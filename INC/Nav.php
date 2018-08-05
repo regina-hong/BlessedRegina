@@ -13,6 +13,7 @@
         <li><a href="TheBible.php"><i class="fas fa-book fa-lg"></i> Hebrew Bible</a></li>
         <li><a href="TheBibleColorCoded.php"><i class="fas fa-book fa-lg"></i> Color Coded Bible</a></li>
         <li><a href="HebrewStrong.php"><i class="fas fa-book fa-lg"></i> Dictionary</a></li>
+        <li><a href="RootLetter.php"><i class="fas fa-tree"></i> Root Letter</a></li>
         <li><a href="AncientBiblicalHebrewGrammarStudy.php"><i class="fas fa-pencil-alt"></i> Grammar Study</a></li>
         <li><a href="BiblicalHebrewVerbSystem.php"><i class="fas fa-pencil-alt"></i> Verb System</a></li>
         <li><a href="StudyResources.php"><i class="fas fa-paperclip fa-lg"></i> Study Resources</a></li>

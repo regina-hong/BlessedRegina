@@ -1,5 +1,5 @@
 <div class="container-fluid" id="footer">
-		<p class="text-center text-muted">Aoubt Me: <a href="AboutMe.php">Regina Hong</a><br>
+		<p class="text-center text-muted">About Me: <a href="AboutMe.php">Regina Hong</a><br>
 		<p class="text-center text-muted">Blessed Regina Open Source Project: <a href="https://github.com/regina-hong/BlessedRegina">https://github.com/regina-hong/BlessedRegina</a><br>	
 		<p class="text-center text-muted">Original Open Scriptures Hebrew Bible Project: <a href="https://github.com/openscriptures/HebrewLexicon">https://github.com/openscriptures/HebrewLexicon</a><br>
 		<p class="text-center text-muted">Original Open Source Hebrew Bible Tanach XML: <a href="https://github.com/ancientlanguage/xml-tanach">https://github.com/ancientlanguage/xml-tanach</a></p>
