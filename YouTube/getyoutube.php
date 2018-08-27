@@ -8,6 +8,8 @@ if ($book == 'Gen') {
 	$url = 'YouTube/leviticus1.json';
 } elseif ($book == 'Num') {
 	$url = 'YouTube/numbers1.json';
+} elseif ($book == 'Deut') {
+	$url = 'YouTube/deuteronomy1.json';
 } 
 else {
 	$url = 'YouTube/genesis1.json';
