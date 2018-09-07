@@ -1,0 +1,2068 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gGZqM9FgnoL1FCTympipwzESY6Q\"",
+  "pageInfo": {
+    "totalResults": 18,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fw5A2t_3aJrOtk4PWMqL1qtFG-M\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:44:39.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:1 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DhAL_RbfPB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DhAL_RbfPB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DhAL_RbfPB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DhAL_RbfPB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DhAL_RbfPB0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DhAL_RbfPB0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "DhAL_RbfPB0",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xTnJ3nFYSuhD808fCOeV23PbWQ8\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:44:57.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:2 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nx1TtsBkO9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nx1TtsBkO9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nx1TtsBkO9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nx1TtsBkO9o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nx1TtsBkO9o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nx1TtsBkO9o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nx1TtsBkO9o",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EkhuW2MUx4f8sAi4miW-1HG4uK4\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:45:03.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:3 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d17w5WFN0vk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d17w5WFN0vk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d17w5WFN0vk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d17w5WFN0vk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d17w5WFN0vk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d17w5WFN0vk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "d17w5WFN0vk",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/bHyjGZfFmnG7F0YWvamEs4RhkPA\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:45:12.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:4 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/18mry6joQgI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/18mry6joQgI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/18mry6joQgI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/18mry6joQgI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/18mry6joQgI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "18mry6joQgI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "18mry6joQgI",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/g_1U0EAlf9ZgCNQ4U-iPuUn3aKk\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:45:28.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:5 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/acSyc0FeU9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/acSyc0FeU9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/acSyc0FeU9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/acSyc0FeU9Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/acSyc0FeU9Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "acSyc0FeU9Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "acSyc0FeU9Q",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Vp-86H5oiuALzlDWlVcefmBx584\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:45:43.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:6 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sv1LbZoplz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sv1LbZoplz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sv1LbZoplz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sv1LbZoplz8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sv1LbZoplz8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sv1LbZoplz8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sv1LbZoplz8",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/AqgibuO-n_1218lIQ3vnZWO008k\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:45:56.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:7 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/meEFQUuQOt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/meEFQUuQOt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/meEFQUuQOt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/meEFQUuQOt4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/meEFQUuQOt4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "meEFQUuQOt4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "meEFQUuQOt4",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7KG241weC37n7qJN1VaJj0XS-Wg\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:46:17.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:8 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dTZdjazZUF0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dTZdjazZUF0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dTZdjazZUF0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dTZdjazZUF0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dTZdjazZUF0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dTZdjazZUF0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dTZdjazZUF0",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xw-OSqqJj6n_Gz31P6sTRT9RsNs\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:46:37.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:9 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/__snT2mEYGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/__snT2mEYGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/__snT2mEYGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/__snT2mEYGE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/__snT2mEYGE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "__snT2mEYGE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "__snT2mEYGE",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pN72r9TKqu0lcDfayMq0dI2uWnU\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:46:49.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:10 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CElxXOOz0ig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CElxXOOz0ig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CElxXOOz0ig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CElxXOOz0ig/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CElxXOOz0ig/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CElxXOOz0ig"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CElxXOOz0ig",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/qzxxyrWFtVFQDK5LJyldWZN_zM8\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:46:56.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:11 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HUuvIeKuyMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HUuvIeKuyMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HUuvIeKuyMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HUuvIeKuyMc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HUuvIeKuyMc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HUuvIeKuyMc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HUuvIeKuyMc",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/g_SKz8qaDIA2FJ10pWUfmQB_9j8\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:47:18.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:12 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BIGmelCB8yw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BIGmelCB8yw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BIGmelCB8yw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BIGmelCB8yw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BIGmelCB8yw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BIGmelCB8yw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BIGmelCB8yw",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HkHd0ZeZULroD6Cw3JVunkshJN4\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:47:27.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:13 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K7kTgLEZ6ho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K7kTgLEZ6ho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K7kTgLEZ6ho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K7kTgLEZ6ho/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K7kTgLEZ6ho/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K7kTgLEZ6ho"
+        }
+      },
+      "contentDetails": {
+        "videoId": "K7kTgLEZ6ho",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QAXZN8Vx3_Je7sCHyVsbbX6NECU\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:47:40.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:14 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FF7sE56SOIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FF7sE56SOIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FF7sE56SOIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FF7sE56SOIY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FF7sE56SOIY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FF7sE56SOIY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FF7sE56SOIY",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BTn_tFOhQvLUfHWgVDssk-LrT-A\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:48:01.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:15 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/01_EjmLT9Po/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/01_EjmLT9Po/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/01_EjmLT9Po/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/01_EjmLT9Po/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/01_EjmLT9Po/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "01_EjmLT9Po"
+        }
+      },
+      "contentDetails": {
+        "videoId": "01_EjmLT9Po",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7IE79Lzope7nRlkrB7MNIU4yvk0\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:48:26.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:16 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0sOssTQFumU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0sOssTQFumU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0sOssTQFumU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0sOssTQFumU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0sOssTQFumU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0sOssTQFumU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0sOssTQFumU",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MHDD3-RIhoff_B4KMLPKo9HQtkY\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:48:38.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:17 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JC5hx0kD4sE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JC5hx0kD4sE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JC5hx0kD4sE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JC5hx0kD4sE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JC5hx0kD4sE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JC5hx0kD4sE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JC5hx0kD4sE",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mGBAKKn1iu14U1KrCOxkQfB6Lsk\"",
+      "id": "UEx6aTQ5Slh1YkR5THUxQ1JXRWNQQlg3bklRejZ2LVd4Sy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2018-09-06T21:48:50.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 1:18 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bTNxMOwSbPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bTNxMOwSbPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bTNxMOwSbPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bTNxMOwSbPU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bTNxMOwSbPU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyLu1CRWEcPBX7nIQz6v-WxK",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bTNxMOwSbPU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bTNxMOwSbPU",
+        "videoPublishedAt": "2018-09-06T21:42:12.000Z"
+      }
+    },
+        {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pFpIJbK5onNpfgLPR-dnbB_8nAI\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:30:49.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:1 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SsChJop5Anw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SsChJop5Anw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SsChJop5Anw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SsChJop5Anw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SsChJop5Anw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SsChJop5Anw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SsChJop5Anw",
+        "videoPublishedAt": "2018-09-07T21:28:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DivckR58jNYya5bq2xHiN2nIfKI\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:30:57.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:2 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PU1POaAVGao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PU1POaAVGao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PU1POaAVGao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PU1POaAVGao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PU1POaAVGao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PU1POaAVGao"
+        }
+      },
+      "contentDetails": {
+        "videoId": "PU1POaAVGao",
+        "videoPublishedAt": "2018-09-07T21:21:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/S4rT0La2bZG4u1_WaZBKyHbC0Uw\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:31:10.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:3 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GZIybn7McbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GZIybn7McbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GZIybn7McbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GZIybn7McbQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GZIybn7McbQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GZIybn7McbQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "GZIybn7McbQ",
+        "videoPublishedAt": "2018-09-07T21:21:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QLqNR0Z2akZHxFtkSWYTcl4uYhg\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:31:24.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:4 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6T2vJ_TQ7bM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6T2vJ_TQ7bM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6T2vJ_TQ7bM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6T2vJ_TQ7bM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6T2vJ_TQ7bM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6T2vJ_TQ7bM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6T2vJ_TQ7bM",
+        "videoPublishedAt": "2018-09-07T21:21:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HU5EvHMdLS2KhySu14Ak7T47LCU\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:31:38.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:5 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ypNrTlyPo28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ypNrTlyPo28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ypNrTlyPo28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ypNrTlyPo28/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ypNrTlyPo28/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ypNrTlyPo28"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ypNrTlyPo28",
+        "videoPublishedAt": "2018-09-07T21:21:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JzFKtCivD684_knSCmof7wxepns\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:31:54.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:6 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WfWq6HdESnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WfWq6HdESnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WfWq6HdESnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WfWq6HdESnE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WfWq6HdESnE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WfWq6HdESnE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WfWq6HdESnE",
+        "videoPublishedAt": "2018-09-07T21:21:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/uxN0XMyFhYUc0htvp865HZUuw34\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:32:04.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:7 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y7wG-i0vUHY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y7wG-i0vUHY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y7wG-i0vUHY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y7wG-i0vUHY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y7wG-i0vUHY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y7wG-i0vUHY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "y7wG-i0vUHY",
+        "videoPublishedAt": "2018-09-07T21:21:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/cx7zd-pGC92_nAV3XXkS7SvrWMM\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:32:19.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:8 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WUJxjEXKYRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WUJxjEXKYRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WUJxjEXKYRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WUJxjEXKYRY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WUJxjEXKYRY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WUJxjEXKYRY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WUJxjEXKYRY",
+        "videoPublishedAt": "2018-09-07T21:21:37.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DvvdyrPf3p4SUxOw6rBDvuVGnVU\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:33:07.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:9 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JHjZWj9jR5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JHjZWj9jR5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JHjZWj9jR5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JHjZWj9jR5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JHjZWj9jR5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JHjZWj9jR5k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JHjZWj9jR5k",
+        "videoPublishedAt": "2018-09-07T21:21:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pYd9ejp6A009Y9VPJSdW_EeiOFU\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:33:44.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:10 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UfYTKs97kyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UfYTKs97kyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UfYTKs97kyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UfYTKs97kyA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UfYTKs97kyA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UfYTKs97kyA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UfYTKs97kyA",
+        "videoPublishedAt": "2018-09-07T21:21:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/B58mNSwiS16W8ePZFnVCanAa1WA\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:34:01.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:11 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rOXDg1TByqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rOXDg1TByqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rOXDg1TByqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rOXDg1TByqs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rOXDg1TByqs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rOXDg1TByqs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rOXDg1TByqs",
+        "videoPublishedAt": "2018-09-07T21:21:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yN5LipPIPBkBvVdLe3uH0k3I-tY\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:34:20.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:12 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A1E0MuNsLv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A1E0MuNsLv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A1E0MuNsLv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A1E0MuNsLv4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A1E0MuNsLv4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A1E0MuNsLv4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "A1E0MuNsLv4",
+        "videoPublishedAt": "2018-09-07T21:21:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nJZ7Y_X8TPz1y8yiqDGvfwOeE9g\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:34:43.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:13 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AVYBAvtki5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AVYBAvtki5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AVYBAvtki5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AVYBAvtki5g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AVYBAvtki5g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AVYBAvtki5g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "AVYBAvtki5g",
+        "videoPublishedAt": "2018-09-07T21:21:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vKxxvMPPy2t2zLO2NXQ4fBFnjac\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:34:54.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:14 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gk9nxNgjcRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gk9nxNgjcRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gk9nxNgjcRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gk9nxNgjcRc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gk9nxNgjcRc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gk9nxNgjcRc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "gk9nxNgjcRc",
+        "videoPublishedAt": "2018-09-07T21:21:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EL_1rL0PnsLbyTcpUzn1M7XYoGQ\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:35:13.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:15 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZBvnd0esNUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZBvnd0esNUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZBvnd0esNUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZBvnd0esNUI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZBvnd0esNUI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZBvnd0esNUI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ZBvnd0esNUI",
+        "videoPublishedAt": "2018-09-07T21:28:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ddHiMmjANakGJKiCue06UYg_jmw\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:35:24.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:16 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SQUznaPxpZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SQUznaPxpZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SQUznaPxpZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SQUznaPxpZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SQUznaPxpZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SQUznaPxpZc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SQUznaPxpZc",
+        "videoPublishedAt": "2018-09-07T21:28:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kF6DqAvJMcjqw3ApbVx2P0FPkK8\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:35:41.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:17 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6OeHfBpxkQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6OeHfBpxkQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6OeHfBpxkQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6OeHfBpxkQo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6OeHfBpxkQo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6OeHfBpxkQo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6OeHfBpxkQo",
+        "videoPublishedAt": "2018-09-07T21:28:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-fB7zIqUulX5mlesZiigRzdG1mc\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:35:51.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:18 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FTOBhs5isr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FTOBhs5isr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FTOBhs5isr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FTOBhs5isr0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FTOBhs5isr0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FTOBhs5isr0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FTOBhs5isr0",
+        "videoPublishedAt": "2018-09-07T21:28:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EoxShDDp0OiSKLMcF94j23s5QuQ\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:36:12.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:19 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ab6ZTBv3vmU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ab6ZTBv3vmU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ab6ZTBv3vmU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ab6ZTBv3vmU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ab6ZTBv3vmU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ab6ZTBv3vmU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Ab6ZTBv3vmU",
+        "videoPublishedAt": "2018-09-07T21:28:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nY_frFhbTYCw4aZsWpz-cqhO1VY\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:36:31.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:20 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OGrGVM1pbHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OGrGVM1pbHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OGrGVM1pbHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OGrGVM1pbHs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OGrGVM1pbHs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OGrGVM1pbHs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OGrGVM1pbHs",
+        "videoPublishedAt": "2018-09-07T21:28:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kOqA6DUPCW59C3z5siXchRPZHN4\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:36:41.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:21 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6yQtRT-WIqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6yQtRT-WIqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6yQtRT-WIqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6yQtRT-WIqI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6yQtRT-WIqI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6yQtRT-WIqI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6yQtRT-WIqI",
+        "videoPublishedAt": "2018-09-07T21:28:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KtPUgnYmAmdXG1YVYeN-XXaU-Mo\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:36:53.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:22 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/22IJEsLcJjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/22IJEsLcJjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/22IJEsLcJjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/22IJEsLcJjg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/22IJEsLcJjg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "22IJEsLcJjg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "22IJEsLcJjg",
+        "videoPublishedAt": "2018-09-07T21:28:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mkj3UDpbuVTdlt1FbGnf73s1sDc\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:37:08.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:23 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RJ6dMn-splQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RJ6dMn-splQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RJ6dMn-splQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RJ6dMn-splQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RJ6dMn-splQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RJ6dMn-splQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "RJ6dMn-splQ",
+        "videoPublishedAt": "2018-09-07T21:28:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/rdy2scI1IiHQcsWsWaU5SdsV_nI\"",
+      "id": "UEx6aTQ5Slh1YkR5SXItYkNrdDR1TldSZjJsWFBxUFBYUi45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2018-09-07T21:37:23.000Z",
+        "channelId": "UCl5A_yGd1evgxbYQ9LpDynw",
+        "title": "Joshua 2:24 in Ancient Hebrew",
+        "description": "I used the original recording by chapter to split into each verse and used my color coded hebrew bible on Blessed Regina's website to create videos for each verse for studying purpose.\n\nOriginal MP3 recording: http://www.aoal.org/hebrew_audiobible.htm\n\nBlessed Regina's Biblical Hebrew Project: https://blessedregina.org\n\nOpen Source Bible Project: https://github.com/regina-hong/BlessedRegina\n\nParticipate in loading all bible verses: https://www.youtube.com/watch?v=7w0a3sTZq6I\n\nHow to link ancient hebrew audio for each verse: https://blessedregina.org/blog/index.php/2018/06/08/how-to-link-ancient-hebrew-audio-for-each-bible-verse/\n\nAncient Biblical Hebrew Grammar Study: https://blessedregina.org/AncientBiblicalHebrewGrammarStudy.php\n\nHebrew Strong Dictionary: https://blessedregina.org/HebrewStrong.php\n\nColor Coded Bible: https://blessedregina.org/TheBibleColorCoded.php\n\nBiblical Hebrew Vocabulary Study Resources: https://blessedregina.org/StudyResources.php\n\nBiblical Hebrew Analysis: https://blessedregina.org/Analysis.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/phAB093U4w0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/phAB093U4w0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/phAB093U4w0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/phAB093U4w0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/phAB093U4w0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Regina",
+        "playlistId": "PLzi49JXubDyIr-bCkt4uNWRf2lXPqPPXR",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "phAB093U4w0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "phAB093U4w0",
+        "videoPublishedAt": "2018-09-07T21:28:10.000Z"
+      }
+    }
+  ]
+}
