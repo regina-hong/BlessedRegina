@@ -5,7 +5,7 @@ Please check "Projects" tab to see the progress.
 
 Last update 10132018
 
-For the database to work, you'll need to install INC/Database07092018.zip file on MySQL.
+For the database to work, you'll need to install INC/Database10132018.zip file on MySQL.
 
 Please visit and respect each of open source files and works mentioned on my website.
 
