@@ -12,7 +12,9 @@ if ($book == 'Gen') {
 	$url = 'YouTube/deuteronomy1.json';
 } elseif ($book == 'Josh') {
 	$url = 'YouTube/joshua1.json';
-} 
+} elseif ($book == 'Judg') {
+	$url = 'YouTube/judges1.json';
+}  
 else {
 	$url = 'YouTube/genesis1.json';
 }

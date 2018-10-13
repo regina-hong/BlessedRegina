@@ -1,9 +1,9 @@
 # BlessedRegina
 Hebrew Bible Tanakh Ancient Hebrew Audio by Verse KJV Strong BDB Dictionary Analysis Big Data YouTube
 
-Please check "Projects" tab to participate.
+Please check "Projects" tab to see the progress.
 
-Last update 07092018
+Last update 10132018
 
 For the database to work, you'll need to install INC/Database07092018.zip file on MySQL.
 
@@ -16,8 +16,6 @@ Original Open Source Hebrew Bible Tanach XML: https://github.com/ancientlanguage
 Original Open Source English KJV Bible XML: https://github.com/neoadventist/kjvsql
 
 Original Ancient Hebrew Bible Recordings: http://www.aoal.org/hebrew_audiobible.htm
-
-I plan to load all contents of YouTube and each verse resources I create for education purposes in other repository.
 
 God's words don't have a copyright and my work doesn't have a copyright.
 

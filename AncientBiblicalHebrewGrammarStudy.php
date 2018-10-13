@@ -200,7 +200,7 @@ for ($m=0; $m < $total_verses; $m++) {
 				if ($poscname == 'v') {
 					$vw_key = array_search($sid, $v_ids);
 					$vw_word = $v_words[$vw_key];
-					$verb_addition = DetermineVerbPGN($vw_word, $sid, $hword);
+					$verb_addition = DetermineVerbPGN($vw_word, $sid, $hword,'NA');
 				}
 
 				$bible_content_a[] = '<td><div class="vcword"><span class="'.$poscname.'"><a href="HebrewStrong.php?id='.$sid.'">'.$hword.'</a></span></div></td>';
@@ -301,7 +301,7 @@ if ($verse <> '') {
 
 			if (strpos($hword, '/') >0) {
 				$bible_content_a[] = DeterminePrefixSufix($hword, $poscname, $sid);
-				$bible_content_b[] = DeterminePrefixSufix2($hword, $poscname, $sid, $possorig);
+				$bible_content_b[] = DeterminePrefixSufix2($hword, $poscname, $sid, $possorig,'NA');
 				$bible_content_c[] = DeterminePrefixSufix3($hword, $poscname, $sid, $deffs);
 			}
 			else {
@@ -309,7 +309,7 @@ if ($verse <> '') {
 				if ($poscname == 'v') {
 					$vw_key = array_search($sid, $v_ids);
 					$vw_word = $v_words[$vw_key];
-					$verb_addition = DetermineVerbPGN($vw_word, $sid, $hword);
+					$verb_addition = DetermineVerbPGN($vw_word, $sid, $hword,'NA');
 				}
 
 				$bible_content_a[] = '<td><div class="vcword"><span class="'.$poscname.'"><a href="HebrewStrong.php?id='.$sid.'">'.$hword.'</a></span></div></td>';
