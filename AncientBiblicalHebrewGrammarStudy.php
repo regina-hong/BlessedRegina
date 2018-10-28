@@ -192,7 +192,7 @@ for ($m=0; $m < $total_verses; $m++) {
 
 			if (strpos($hword, '/') >0) {
 				$bible_content_a[] = DeterminePrefixSufix($hword, $poscname, $sid);
-				$bible_content_b[] = DeterminePrefixSufix2($hword, $poscname, $sid, $possorig);
+				$bible_content_b[] = DeterminePrefixSufix2($hword, $poscname, $sid, $possorig,'NA');
 				$bible_content_c[] = DeterminePrefixSufix3($hword, $poscname, $sid, $deffs);
 			}
 			else {
