@@ -24,7 +24,7 @@ and uses HMTL, jQUERY, CSS and Bootstrap to present it in mobile-friendly web pa
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : June 29, 2018
+Updated on : December 15, 2018
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
@@ -384,8 +384,8 @@ $bible_content = preg_replace('/[\x{0591}-\x{05AF}\x{05BD}\x{05BE}\x{05BF}\x{05C
 	<meta name="keywords" content="Hebrew Bible Analysis, Tanakh Old Testament, Biblical Hebrew, Search for the Truth, Reaching for Spiritual Depth">
 	<meta name="description" content="The Hebrew Bible (Tanakh) Analysis, Biblical Hebrew Study Resources, Reaching for Spiritual Depth, Searching for The Truth, Analyzing Sacred Ancient Texts.">
 	<?php require 'INC/Header.php'; ?>
-	<link rel="stylesheet" type="text/css" href="CSS/1-2/TheBible.css"> <!-- my css -->
-	<link rel="stylesheet" type="text/css" href="CSS/1-2/TheBibleColorCoded.css">
+	<link rel="stylesheet" type="text/css" href="CSS/1-3/TheBible.css"> <!-- my css -->
+	<link rel="stylesheet" type="text/css" href="CSS/1-3/TheBibleColorCoded.css">
 	<style type="text/css">
 		#content {
 			font-size: 12px;

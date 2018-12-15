@@ -28,7 +28,7 @@ and order it by the occurence frequency within that chapter of the book.
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : April 15, 2018
+Updated on : December 15, 2018
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
@@ -123,7 +123,7 @@ while($row = mysqli_fetch_assoc($result)) {
 	<meta name="description" content="This is Biblical Hebrew Study Resources page written in PHP and in mobile friendly website to present the list of vocabularies by part of speech with dynamic selection by book and chapter.">
 	<?php require 'INC/Header.php'; ?>
 	<link href="https://fonts.googleapis.com/css?family=Eagle+Lake" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="CSS/1-2/StudyResources.css"> <!-- my css -->
+	<link rel="stylesheet" type="text/css" href="CSS/1-3/StudyResources.css"> <!-- my css -->
 	<script src="JS/1-2/StudyResources.js"></script> <!-- my jQuery -->
 	<script>
 		function GoToChapter() {

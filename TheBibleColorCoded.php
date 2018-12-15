@@ -24,7 +24,7 @@ and uses HMTL, jQUERY, CSS and Bootstrap to present it in mobile-friendly web pa
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : June 29, 2018
+Updated on : December 15, 2018
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
@@ -287,8 +287,8 @@ function get_string_between($string, $start, $end){
 	<meta name="keywords" content="Hebrew Bible Analysis, Tanakh Old Testament, Biblical Hebrew, Search for the Truth, Reaching for Spiritual Depth">
 	<meta name="description" content="The Hebrew Bible (Tanakh) Analysis, Biblical Hebrew Study Resources, Reaching for Spiritual Depth, Searching for The Truth, Analyzing Sacred Ancient Texts.">
 	<?php require 'INC/Header.php'; ?>
-	<link rel="stylesheet" type="text/css" href="CSS/1-2/TheBible.css"> <!-- my css -->
-	<link rel="stylesheet" type="text/css" href="CSS/1-2/TheBibleColorCoded.css">
+	<link rel="stylesheet" type="text/css" href="CSS/1-3/TheBible.css"> <!-- my css -->
+	<link rel="stylesheet" type="text/css" href="CSS/1-3/TheBibleColorCoded.css">
 	<script src="JS/1-2/TheBibleColorCoded.js"></script> <!-- my jQuery -->
 	<script>
 		function StudyResources() {
