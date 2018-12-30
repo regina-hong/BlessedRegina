@@ -25,7 +25,7 @@ You can search by Hebrew word, Hebrew Strong's ID (with or without H) and defini
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : September 26, 2017
+Updated on : December 19, 2018
 
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
@@ -181,7 +181,7 @@ if ($word <> '' || $id <> '' || $def <> '') {
 	<meta name="description" content="The Hebrew Bible (Tanakh) Analysis, Biblical Hebrew Study Resources, Reaching for Spiritual Depth, Searching for The Truth, Analyzing Sacred Ancient Texts.">
 	<?php require 'INC/Header.php'; ?>
 	<link href="https://fonts.googleapis.com/css?family=Eagle+Lake" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="CSS/1-2/HebrewStrong.css"> <!-- my css -->	
+	<link rel="stylesheet" type="text/css" href="CSS/1-3/HebrewStrong.css"> <!-- my css -->	
 	<script src="JS/1-2/TheBible.js"></script> <!-- my jQuery -->
 </head>
 <body>

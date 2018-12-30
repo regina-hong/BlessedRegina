@@ -29,7 +29,7 @@ Updated on : March 30, 2018
 	<meta name="keywords" content="Hebrew Bible Analysis, Tanakh Old Testament, Biblical Hebrew, Search for the Truth, Reaching for Spiritual Depth">
 	<meta name="description" content="The Hebrew Bible (Tanakh) Analysis, Biblical Hebrew Study Resources, Reaching for Spiritual Depth, Searching for The Truth, Analyzing Sacred Ancient Texts.">
 	<?php require 'INC/Header.php'; ?>
-	<link rel="stylesheet" type="text/css" href="CSS/1-2/TheBible.css"> <!-- my css -->
+	<link rel="stylesheet" type="text/css" href="CSS/1-3/TheBible.css"> <!-- my css -->
 </head>
 <body>
 

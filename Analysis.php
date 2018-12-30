@@ -27,7 +27,7 @@ grouped by same Hebrew Strong's ID and to study patterns and deeper relations by
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : September 28, 2017
+Updated on : December 19, 2018
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
@@ -126,8 +126,8 @@ if ($id <> '' || $vword <> '' || $cword <> '') {
 	<meta name="keywords" content="Hebrew Bible Analysis, Tanakh Old Testament, Biblical Hebrew, Search for the Truth, Reaching for Spiritual Depth">
 	<meta name="description" content="The Hebrew Bible (Tanakh) Analysis, Biblical Hebrew Study Resources, Reaching for Spiritual Depth, Searching for The Truth, Analyzing Sacred Ancient Texts.">
 	<?php require 'INC/Header.php'; ?>
-	<link rel="stylesheet" type="text/css" href="CSS/1-2/TheBible.css"> <!-- my css -->
-	<link rel="stylesheet" type="text/css" href="CSS/1-2/HebrewStrong.css"> <!-- my css -->
+	<link rel="stylesheet" type="text/css" href="CSS/1-3/TheBible.css"> <!-- my css -->
+	<link rel="stylesheet" type="text/css" href="CSS/1-3/HebrewStrong.css"> <!-- my css -->
 	<script src="JS/1-2/Analysis.js"></script> <!-- my jQuery -->
 </head>
 <body>

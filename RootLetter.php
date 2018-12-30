@@ -25,7 +25,7 @@ You can look up Hebrew Strong's dictionary using root letters.
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : August 5, 2018
+Updated on : December 19, 2018
 
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
@@ -141,7 +141,7 @@ if ($letter1 <> '') {
 	<meta name="description" content="The Hebrew Bible (Tanakh) Analysis, Biblical Hebrew Study Resources, Reaching for Spiritual Depth, Searching for The Truth, Analyzing Sacred Ancient Texts.">
 	<?php require 'INC/Header.php'; ?>
 	<link href="https://fonts.googleapis.com/css?family=Eagle+Lake" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="CSS/1-2/HebrewStrong.css"> <!-- my css -->
+	<link rel="stylesheet" type="text/css" href="CSS/1-3/HebrewStrong.css"> <!-- my css -->
 	<script>
 		function RootLookup() {
 			url = "RootLetter.php";
