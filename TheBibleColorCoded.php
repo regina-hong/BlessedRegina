@@ -24,7 +24,7 @@ and uses HMTL, jQUERY, CSS and Bootstrap to present it in mobile-friendly web pa
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : December 15, 2018
+Updated on : January 26, 2019
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
@@ -137,14 +137,15 @@ for ($m=0; $m < $total_verses; $m++) {
 		$xpath_he = new DOMXPath($xml_he);
 		$words = $xpath_he->query("//div/chapter/verse[@osisID='".$book.".".$chapter.".".$print_v."']/w");
 
-		//youtube video link
-		$vsearch = $mybook.' '.$chapter.':'.($m+1).' in Ancient Hebrew';
-		$vkey = array_search($vsearch, $vtitle);
+		if ($url <> '') {
+			//youtube video link
+			$vsearch = $mybook.' '.$chapter.':'.($m+1).' in Ancient Hebrew';
+			$vkey = array_search($vsearch, $vtitle);
 
-		if (!$vkey===false) {
-			$bible_content .='<object type="application/x-shockwave-flash" width="30" height="25" data="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark"><param name="movie" value="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark" /><param name="wmode" value="transparent" /></object>';
+			if (!$vid[$vkey]=='') {
+				$bible_content .='<object type="application/x-shockwave-flash" width="30" height="25" data="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark"><param name="movie" value="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark" /><param name="wmode" value="transparent" /></object>';
+			}
 		}
-
 
 		//verse number
 		//$words = $xml_book->div->chapter->verse[1]->w;
@@ -203,15 +204,15 @@ if ($verse <> '') {
 		$xpath_he = new DOMXPath($xml_he);
 		$words = $xpath_he->query("//div/chapter/verse[@osisID='".$book.".".$chapter.".".$verse."']/w");
 
+		if ($url <> '') {
+			//youtube video link
+			$vsearch = $mybook.' '.$chapter.':'.$verse.' in Ancient Hebrew';
+			$vkey = array_search($vsearch, $vtitle);
 
-		//youtube video link
-		$vsearch = $mybook.' '.$chapter.':'.$verse.' in Ancient Hebrew';
-		$vkey = array_search($vsearch, $vtitle);
-
-		if (!$vkey===false) {
-			$bible_content .='<object type="application/x-shockwave-flash" width="30" height="25" data="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark"><param name="movie" value="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark" /><param name="wmode" value="transparent" /></object>';
+			if (!$vid[$vkey]=='') {
+				$bible_content .='<object type="application/x-shockwave-flash" width="30" height="25" data="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark"><param name="movie" value="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark" /><param name="wmode" value="transparent" /></object>';
+			}
 		}
-
 
 		//$words = $xml_book->div->chapter->verse[1]->w;
 		$bible_content .= '<sup>'.ConvertNtoHL($verse).'.</sup> ';
@@ -322,7 +323,7 @@ function get_string_between($string, $start, $end){
 
 <div class="container-fluid" id="content">
 	<div id="bible-text">
-		<p id="bible-content"> <button onclick="GrammarStudy()" class="btn btn-success">Grammar Study</button> <button onclick="StudyResources()" class="btn btn-success">Study Resources</button> <button onclick="ColorCoded()" class="btn v">Color Code</button> <button onclick="ShowHideEnglish('kjv')" class="btn btn-info">Show/Hide English</button><br><br><?php echo $bible_content; ?></p>
+		<p id="bible-content"> <button onclick="GrammarStudy()" class="btn btn-success">Grammar Study</button> <button onclick="StudyResources()" class="btn btn-success">Study Resources</button> <button onclick="NonColorCoded()" class="btn v">No Color Code</button> <button onclick="ShowHideEnglish('kjv')" class="btn btn-info">Show/Hide English</button><br><br><?php echo $bible_content; ?></p>
 	</div>
 </div>
 

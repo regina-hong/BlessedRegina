@@ -25,7 +25,7 @@ You can look up Hebrew Strong's dictionary using root letters.
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : December 19, 2018
+Updated on : January 14, 2019
 
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
@@ -76,11 +76,11 @@ if ($letter1 <> '') {
 	$xpath = new DOMXPath($xml_hs);
 
 	if ($letter1 <> '' && $letter2 <> '' && $letter3 <> '') {
-		$elements = $xpath->query("//entry/w[contains(translate(text(),'ְֱֲֳִֵֶַָׇֹֺֻּֽֿׁׂ֑֖֛֢֣֤֥֦֧֪ׅ֚֭֮֒֓֔֕֗֘֙֜֝֞֟֠֡֨֩֫֬֯ׄ', ''),'".$letter1.$letter2.$letter3."')]/..");
+		$elements = $xpath->query("//entry/w[contains(translate(text(),'ְֱֲֳִֵֶַָׇֹֺֻּֽֿׁׂ֑֖֛֢֣֤֥֦֧֪ׅ֚֭֮֒֓֔֕֗֘֙֜֝֞֟֠֡֨֩֫֬֯ׄ', ''),'".$letter1.$letter2.$letter3."') and @pos !='n-pr-m' and @pos !='n-pr-loc' and @pos !='n-pr-f' and @pos !='inj' and @pos !='n-pr-m n-pr-loc' and @pos !='n-pr-m a-gent' and @pos !='prep' and @pos !='n-pr'  and @pos !='d'  and @pos !='conj' and @pos !='p' and @pos !='prt' and @pos !='dp' and @pos !='n-pr-m n-pr-f' and @pos !='n-m n-pr-m']/..");
 	} elseif ($letter1 <> '' && $letter2 <> '') {
-		$elements = $xpath->query("//entry/w[contains(translate(text(),'ְֱֲֳִֵֶַָׇֹֺֻּֽֿׁׂ֑֖֛֢֣֤֥֦֧֪ׅ֚֭֮֒֓֔֕֗֘֙֜֝֞֟֠֡֨֩֫֬֯ׄ', ''),'".$letter1.$letter2."')]/..");
+		$elements = $xpath->query("//entry/w[contains(translate(text(),'ְֱֲֳִֵֶַָׇֹֺֻּֽֿׁׂ֑֖֛֢֣֤֥֦֧֪ׅ֚֭֮֒֓֔֕֗֘֙֜֝֞֟֠֡֨֩֫֬֯ׄ', ''),'".$letter1.$letter2."') and @pos !='n-pr-m' and @pos !='n-pr-loc' and @pos !='n-pr-f' and @pos !='inj' and @pos !='n-pr-m n-pr-loc' and @pos !='n-pr-m a-gent' and @pos !='prep' and @pos !='n-pr'  and @pos !='d'  and @pos !='conj' and @pos !='p' and @pos !='prt' and @pos !='dp' and @pos !='n-pr-m n-pr-f' and @pos !='n-m n-pr-m']/..");
 	} elseif ($letter1 <> '') {
-		$elements = $xpath->query("//entry/w[contains(translate(text(),'ְֱֲֳִֵֶַָׇֹֺֻּֽֿׁׂ֑֖֛֢֣֤֥֦֧֪ׅ֚֭֮֒֓֔֕֗֘֙֜֝֞֟֠֡֨֩֫֬֯ׄ', ''),'".$letter1."')]/..");
+		$elements = $xpath->query("//entry/w[contains(translate(text(),'ְֱֲֳִֵֶַָׇֹֺֻּֽֿׁׂ֑֖֛֢֣֤֥֦֧֪ׅ֚֭֮֒֓֔֕֗֘֙֜֝֞֟֠֡֨֩֫֬֯ׄ', ''),'".$letter1."') and @pos !='n-pr-m' and @pos !='n-pr-loc' and @pos !='n-pr-f' and @pos !='inj' and @pos !='n-pr-m n-pr-loc' and @pos !='n-pr-m a-gent' and @pos !='prep' and @pos !='n-pr'  and @pos !='d'  and @pos !='conj' and @pos !='p' and @pos !='prt' and @pos !='dp' and @pos !='n-pr-m n-pr-f' and @pos !='n-m n-pr-m']/..");
 	}
 	
 	if ($elements->length >0) {

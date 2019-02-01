@@ -16,22 +16,28 @@ if ($book == 'Gen') {
 	$url = 'YouTube/judges1.json';
 } elseif ($book == '1Sam') {
 	$url = 'YouTube/1samuel1.json';
+} elseif ($book == '2Sam') {
+	$url = 'YouTube/2samuel1.json';
+} elseif ($book == '1Kgs') {
+	$url = 'YouTube/1kings1.json';
 }  
 else {
-	$url = 'YouTube/genesis1.json';
+	$url = '';
 }
 
+if ($url <> '') {
+	$data = file_get_contents($url); // put the contents of the file into a variable
+	$jsonStuff = json_decode($data, true); // decode the JSON feed
+	$vtitle = array();
+	$vid = array();
 
-$data = file_get_contents($url); // put the contents of the file into a variable
-$jsonStuff = json_decode($data, true); // decode the JSON feed
-$vtitle = array();
-$vid = array();
 
-foreach($jsonStuff['items'] as $val) {
+	foreach($jsonStuff['items'] as $val) {
 
-	$vtitle[] = $val['snippet']['title'];
-	$vid[] = $val['snippet']['resourceId']['videoId'];
+		$vtitle[] = $val['snippet']['title'];
+		$vid[] = $val['snippet']['resourceId']['videoId'];
 
+	}
 }
 
 ?>

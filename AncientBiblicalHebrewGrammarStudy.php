@@ -24,7 +24,7 @@ and uses HMTL, jQUERY, CSS and Bootstrap to present it in mobile-friendly web pa
 
 Created by : Regina Hong
 Updated by : Regina Hong
-Updated on : December 15, 2018
+Updated on : January 26, 2019
 */
 //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <?php
@@ -209,14 +209,17 @@ for ($m=0; $m < $total_verses; $m++) {
 			}
 		}
 
-		//youtube video link
-		$vsearch = $mybook.' '.$chapter.':'.($m+1).' in Ancient Hebrew';
-		$vkey = array_search($vsearch, $vtitle);
 
-		if (!$vkey===false) {
-			$bible_content_a[] ='<td><object type="application/x-shockwave-flash" width="30" height="25" data="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark"><param name="movie" value="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark" /><param name="wmode" value="transparent" /></object></td>';
-			$bible_content_b[] ='<td></td>';
-			$bible_content_c[] ='<td></td>';
+		if ($url <> '') {
+			//youtube video link
+			$vsearch = $mybook.' '.$chapter.':'.($m+1).' in Ancient Hebrew';
+			$vkey = array_search($vsearch, $vtitle);
+
+			if (!$vid[$vkey]=='') {
+				$bible_content_a[] ='<td><object type="application/x-shockwave-flash" width="30" height="25" data="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark"><param name="movie" value="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark" /><param name="wmode" value="transparent" /></object></td>';
+				$bible_content_b[] ='<td></td>';
+				$bible_content_c[] ='<td></td>';
+			}
 		}
 
 		include 'INC/KJVMatchCleanupChapter.php';
@@ -319,14 +322,16 @@ if ($verse <> '') {
 			}
 		}
 
-		//youtube video link
-		$vsearch = $mybook.' '.$chapter.':'.$verse.' in Ancient Hebrew';
-		$vkey = array_search($vsearch, $vtitle);
+		if ($url <> '') {
+				//youtube video link
+				$vsearch = $mybook.' '.$chapter.':'.$verse.' in Ancient Hebrew';
+				$vkey = array_search($vsearch, $vtitle);
 
-		if (!$vkey===false) {
-			$bible_content_a[] ='<td><object type="application/x-shockwave-flash" width="30" height="25" data="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark"><param name="movie" value="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark" /><param name="wmode" value="transparent" /></object></td>';
-			$bible_content_b[] ='<td></td>';
-			$bible_content_c[] ='<td></td>';
+				if (!$vid[$vkey]=='') {
+					$bible_content_a[] ='<td><object type="application/x-shockwave-flash" width="30" height="25" data="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark"><param name="movie" value="https://www.youtube.com/v/'.$vid[$vkey].'?version=2&enablejsapi=1&theme=dark" /><param name="wmode" value="transparent" /></object></td>';
+					$bible_content_b[] ='<td></td>';
+					$bible_content_c[] ='<td></td>';
+				}
 		}
 
 		include 'INC/KJVMatchCleanupVerse.php';
