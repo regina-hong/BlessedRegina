@@ -20,6 +20,8 @@ if ($book == 'Gen') {
 	$url = 'YouTube/2samuel1.json';
 } elseif ($book == '1Kgs') {
 	$url = 'YouTube/1kings1.json';
+} elseif ($book == '2Kgs') {
+	$url = 'YouTube/2kings1.json';
 }  
 else {
 	$url = '';
