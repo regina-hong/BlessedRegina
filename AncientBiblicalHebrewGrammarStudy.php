@@ -407,6 +407,12 @@ $bible_content = preg_replace('/[\x{0591}-\x{05AF}\x{05BD}\x{05BE}\x{05BF}\x{05C
 		function NonColorCoded() {
 		    window.open("TheBible.php?book=<?php echo $book; ?>&chapter=<?php echo $chapter; ?>&verse=<?php echo $verse; ?>");
 		}
+		function Lesson1() {
+		    window.open("https://www.truthofbible.com/LearnGenesisChapter1InHebrewIn31DaysBeginner/Plan.php");
+		}
+		function Lesson2() {
+		    window.open("https://truthofbible.com/LearnGenesisChapter2InHebrewIn25DaysIntermediate/Plan.php");
+		}
 	</script>
 </head>
 <body>
@@ -429,7 +435,7 @@ $bible_content = preg_replace('/[\x{0591}-\x{05AF}\x{05BD}\x{05BE}\x{05BF}\x{05C
 
 <div class="container-fluid" id="content">
 	<div id="bible-text">
-		<?php echo $bible_content; ?>
+		<br><?php require 'INC/Lesson.php'; ?><?php echo $bible_content; ?>
 	</div>
 </div>
 

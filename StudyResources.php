@@ -129,6 +129,12 @@ while($row = mysqli_fetch_assoc($result)) {
 		function GoToChapter() {
 		    window.open("TheBible.php?book=<?php echo $book; ?>&chapter=<?php echo $chapter; ?>");
 		}
+		function Lesson1() {
+		    window.open("https://www.truthofbible.com/LearnGenesisChapter1InHebrewIn31DaysBeginner/Plan.php");
+		}
+		function Lesson2() {
+		    window.open("https://truthofbible.com/LearnGenesisChapter2InHebrewIn25DaysIntermediate/Plan.php");
+		}
 	</script>
 </head>
 <body>
@@ -148,7 +154,7 @@ while($row = mysqli_fetch_assoc($result)) {
 </div>
 
 <div id="bible-text">
-		<p id="bible-content"> <button onclick="GoToChapter()" class="btn btn-success text-center">Open Bible For This Chapter</button> </p>
+		<p id="bible-content"> <button onclick="GoToChapter()" class="btn btn-success text-center">Open Bible For This Chapter</button><br><?php require 'INC/Lesson.php'; ?></p>
 </div>
 
 <div class="container-fluid" id="header">

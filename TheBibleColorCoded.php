@@ -301,6 +301,12 @@ function get_string_between($string, $start, $end){
 		function GrammarStudy() {
 		    window.open("AncientBiblicalHebrewGrammarStudy.php?book=<?php echo $book; ?>&chapter=<?php echo $chapter; ?>&verse=<?php echo $verse; ?>");
 		}
+		function Lesson1() {
+		    window.open("https://www.truthofbible.com/LearnGenesisChapter1InHebrewIn31DaysBeginner/Plan.php");
+		}
+		function Lesson2() {
+		    window.open("https://truthofbible.com/LearnGenesisChapter2InHebrewIn25DaysIntermediate/Plan.php");
+		}
 	</script>
 </head>
 <body>
@@ -323,7 +329,7 @@ function get_string_between($string, $start, $end){
 
 <div class="container-fluid" id="content">
 	<div id="bible-text">
-		<p id="bible-content"> <button onclick="GrammarStudy()" class="btn btn-success">Grammar Study</button> <button onclick="StudyResources()" class="btn btn-success">Study Resources</button> <button onclick="NonColorCoded()" class="btn v">No Color Code</button> <button onclick="ShowHideEnglish('kjv')" class="btn btn-info">Show/Hide English</button><br><br><?php echo $bible_content; ?></p>
+		<p id="bible-content"> <button onclick="GrammarStudy()" class="btn btn-success">Grammar Study</button> <button onclick="StudyResources()" class="btn btn-success">Study Resources</button> <button onclick="NonColorCoded()" class="btn v">No Color Code</button> <button onclick="ShowHideEnglish('kjv')" class="btn btn-info">Show/Hide English</button><br><?php require 'INC/Lesson.php'; ?><br><br><?php echo $bible_content; ?></p>
 	</div>
 </div>
 
